@@ -39,6 +39,7 @@ def main():
         'https://raw.githubusercontent.com/NiREvil/vless/main/hiddify/auto-gen-warp',
         'https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp',
         'https://raw.githubusercontent.com/mansor427/Warp-Autosub/main/subwarp/warp'
+        'https://raw.githubusercontent.com/xsamirparsa/Azadi/main/Sub.text67'
     ]
     # Process the links and filter out warp lines
     decoded_warp_lines = fetch_and_process_links(warp_links)
