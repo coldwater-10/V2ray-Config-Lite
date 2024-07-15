@@ -83,6 +83,7 @@ def main():
         "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/hysteria2.txt",
         "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/tuic.txt",
         "https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt",
+        "http://162.55.223.25:443/sub/vDhhXZJ7",
     ]
     dir_links = [
         "https://miner.isherv.in",
