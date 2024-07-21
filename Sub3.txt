@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@152.69.210.130:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-152.69.210.130:44300
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@152.69.210.242:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-152.69.210.242:44300
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@158.178.224.252:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-158.178.224.252:44300
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@168.138.176.6:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-168.138.176.6:44300
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.101.179:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.101.179:44300
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.103.51:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.103.51:44300
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.108.144:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.108.144:44300
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.117.246:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.117.246:44300
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.118.226:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.118.226:44300
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.124.238:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.124.238:44300
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@sg-02.worldfirst.eu.org:44300/?insecure=1&sni=sg-02.worldfirst.eu.org#%E2%9A%9C%EF%B8%8F1%40oneclickvpnkeys
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@sg-02.worldfirst.eu.org:44300/?insecure=1&sni=sg-02.worldfirst.eu.org#sg%40oneclickvpnkeys
@@ -603,3 +594,12 @@ hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.ex
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#10
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#@Oneclickvpnkeys
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#Oneclick
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#S1+🇳🇱@ELiV2ray
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#ℹ️6@oneclickvpnkeys
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🆒1@oneclickvpnkeys
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪@ELiV2ray
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪@TEHRANARGO
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=EliV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇳🇱NL-ipv6
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=eliv2ray.elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#NL-@ELiV2ray
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=2c5ef5135559d4f5#%40v2rayserverfreenet%20
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=2c5ef5135559d4f5#@v2rayserverfreenet
