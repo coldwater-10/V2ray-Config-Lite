@@ -3,11 +3,28 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.varzesh360.co-443+%7C+308.11ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.samanehha.co-443+%7C+283.04ms
-ss://MzQ5Y2ExM2QtYTg5ZC00NTQxLTg3MDEtNjlkOTA2OWQ3MTcyOg==@lathworks.aurorainiceland.com:2096#RELAY%F0%9F%9A%A9+%7C+lathworks.aurorainiceland.com-2096+%7C+31.45ms
-ss://MTg2YzZhZmUtNzIzNC00OTExLTgzOWYtNzcwODZlOWI3Mjc4Og==@172.67.216.166:80#RELAY%F0%9F%9A%A9+%7C+172.67.216.166-80+%7C+2.26ms
-ss://MTFlNWI3NzEtMWQ0ZC00MzYyLWI0YjUtZTM5ZTc1OTgxZjAxOg==@172.67.198.111:443#RELAY%F0%9F%9A%A9+%7C+172.67.198.111-443+%7C+2.06ms
+trojan://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@indeed.com:2083?type=ws&path=trojan-ws%2F%3Fed%3D2048&host=aboutus.SassANIDempirE.CoM&alpn=http%2F11.1&fp=chrome&tls=1&sni=aboutus.SassANIDempirE.CoM#RELAY🚩 | aboutus.SassANIDempirE.CoM-2083 | 6.08ms
+trojan://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@autotrader.co.uk:2053?type=ws&path=trojan-ws%2F%3Fed%3D2048&host=aboutus.SAssAnIDeMPIRe.CoM&alpn=h2&fp=randomized&tls=1&sni=aboutus.SAssAnIDeMPIRe.CoM#RELAY🚩 | aboutus.SAssAnIDeMPIRe.CoM-2053 | 6.34ms
+ss://ZDM0ODRiMjctMGNkZi00NjliLTk1M2UtMTA2NmQ0ZTQ4OGY4Og==@104.21.89.84:443#RELAY%F0%9F%9A%A9+%7C+104.21.89.84-443+%7C+5.54ms
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.19:8119#US%F0%9F%87%BA%F0%9F%87%B8+%7C+38.68.135.19-8119+%7C+36.59ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.86:8888#US%F0%9F%87%BA%F0%9F%87%B8+%7C+69.50.95.86-8888+%7C+58.18ms
+ss://YWVzLTI1Ni1nY206Q0gxVU5URFlwbi9pQUg4TzFkTW12L0hzOGM0NlBVOUdYbkhyR3l0NFNXMD0=@188.245.87.178:80#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+188.245.87.178-80+%7C+93.59ms
+ss://YWVzLTEyOC1nY206YmlhLS1aRURNT0RFT04=@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25367#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop-25367+%7C+120.9ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+series-a2.samanehha.co-443+%7C+184.61ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+series-a2.samanehha.co-443+%7C+102.59ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWkpxQUIzMndSOTdoYm9iRUJtV1Yw@13.74.171.103:46541#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+13.74.171.103-46541+%7C+70.68ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+205.134.180.139-443+%7C+7.46ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#US%F0%9F%87%BA%F0%9F%87%B8+%7C+beedoost.org-8080+%7C+216.9ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#US%F0%9F%87%BA%F0%9F%87%B8+%7C+45.158.171.141-8080+%7C+89.06ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#US%F0%9F%87%BA%F0%9F%87%B8+%7C+45.158.171.138-8080+%7C+88.83ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#US%F0%9F%87%BA%F0%9F%87%B8+%7C+45.158.171.131-8080+%7C+89.55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+188.212.132.20-52952+%7C+86.98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+series-a1.samanehha.co-443+%7C+195.48ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.varzesh360.co-443+%7C+301.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+series-a2-mec.samanehha.co-443+%7C+372.25ms
+ss://MzQ5Y2ExM2QtYTg5ZC00NTQxLTg3MDEtNjlkOTA2OWQ3MTcyOg==@lathworks.aurorainiceland.com:2096#RELAY%F0%9F%9A%A9+%7C+lathworks.aurorainiceland.com-2096+%7C+91.91ms
+ss://MTg2YzZhZmUtNzIzNC00OTExLTgzOWYtNzcwODZlOWI3Mjc4Og==@172.67.216.166:80#RELAY%F0%9F%9A%A9+%7C+172.67.216.166-80+%7C+5.54ms
+ss://MTFlNWI3NzEtMWQ0ZC00MzYyLWI0YjUtZTM5ZTc1OTgxZjAxOg==@172.67.198.111:443#RELAY%F0%9F%9A%A9+%7C+172.67.198.111-443+%7C+5.74ms
 
 vmess://eyJhZGQiOiJyZXBvLnN0ZWFtcG93ZXJlZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBqYWhma2poYS5jZmQtNDQzIHwgMjEwLjUybXMiLCJzY3kiOiJhdXRvIiwic25pIjoiamFoZmtqaGEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJyZXBvLnN0ZWFtcG93ZXJlZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1heC5tYW5rYWRtdS5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgbWF4Lm1hbmthZG11LmNvbS00NDMgfCAzNy41N21zIiwic2N5IjoiYXV0byIsInNuaSI6Im1heC5tYW5rYWRtdS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -582,24 +599,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#US%F0%
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 
-hy2://7840d79b-c72a-4838-bcfd-b8726260d8f1@[2a01:4f8:1c1b:17a4::1]:443?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=www.speedtest.net#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f8:1c1b:17a4::1]:443
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@152.69.210.130:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-152.69.210.130:44300
-hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@45.142.113.238:40443?sni=speedtest.realityforus.com#🔒 HYSTERIA-UDP 🇩🇪 DE-45.142.113.238:40443
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.145.69:2052?insecure=1&sni=hdlb1.mangshe.xyz#🔒 HYSTERIA-UDP 🇮🇳 IN-144.24.145.69:2052
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.108.144:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.108.144:44300
-hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443?mport=50000-50500&insecure=1&sni=hk1.pithecia.com#🔒 HYSTERIA-UDP 🇷🇺 RU-185.204.0.117:443
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@158.178.226.255:2052?insecure=1&sni=xjp1.mangshe.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-158.178.226.255:2052
-hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#🔒 HYSTERIA-UDP 🇺🇸 US-66.135.28.59:443
-hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇪 AE-84.235.246.199:31452
-hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200?sni=han.ssudo.x10.mx#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.93.166:52200
-hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒 HYSTERIA-UDP 🇺🇸 US-154.40.33.104:20008
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒 HYSTERIA-UDP 🇯🇵 JP-150.230.194.74:2052
-hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.145.212.30:443?mport=21000-26000&insecure=1#🔒 HYSTERIA-UDP 🇫🇷 FR-141.145.212.30:443
-hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773?insecure=1&sni=h01.trojan.tel#🔒 HYSTERIA-UDP 🇰🇷 KR-158.180.73.10:52773
-hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒 HYSTERIA-UDP 🇹🇼 TW-188.253.6.117:5555
-hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇫🇷 FR-62.210.103.0:22483
-hy2://sharecentrepro@15.197.192.55:4433?insecure=1&sni=#🔒 HYSTERIA-UDP 🇺🇸 US-15.197.192.55:4433
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒 HYSTERIA-UDP 🇬🇧 GB-81.208.175.184:2052
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@23.247.137.67:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇺🇸 US-23.247.137.67:3074
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@194.104.146.113:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇭🇰 HK-194.104.146.113:3074
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.37.121:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-129.150.37.121:44300
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.21.59.53:2052?insecure=1&sni=ld1.mangshe.xyz#🔒 HYSTERIA-UDP 🇬🇧 GB-144.21.59.53:2052
+hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒 HYSTERIA-UDP 🇺🇸 US-154.40.33.104:20003
+hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#🔒 HYSTERIA-UDP 🇫🇷 FR-51.158.54.46:44550
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.59:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.35.59:3074
