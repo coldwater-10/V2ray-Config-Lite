@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://b4e9f200-6da2-4a68-dfcb-b45a47a36400@88.198.204.227:443?security=none&encryption=none&headerType=none&type=tcp#16 تیر , 16:50 ☂️ DailyV2ry
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#16 تیر , 16:50 ☂️ DailyV2ry
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#16 تیر , 16:50 ☂️ DailyV2ry
 vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?path=%2F%3Fed%3D5183&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#16 تیر , 16:50 ☂️ DailyV2ry
