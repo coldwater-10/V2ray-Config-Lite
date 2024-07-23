@@ -3,36 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@speed.cloudflare.com:443?alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&flow=&fp=chrome&host=hdfy7c4.freeairlaines.com&packetEncoding=xudp&path=%2FIfCDH2usa5hne1e&security=tls&sni=hdfy7c4.freeairlaines.com&type=ws#@V2rayMiner
-vless://f1ffb60d-07b6-4381-8ecf-c368f7c2762d@speed.cloudflare.com:80?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=mardi7.scorpion1.info&path=%2FDSDaswd22%2111%2Afdfm55247.COM.&type=ws#@V2rayMiner
-vless://fe5cd209-5bbb-4d39-a2f2-504dd7afaab7@5.161.42.208:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
-vmess://107187d8-9214-41dd-b48c-60bf9fb676d3@140.238.173.178:8080?encryption=auto&host=vkvd127.mycdn.me&path=%2Fitdog%3Fed%3D2560&type=ws#@V2rayMiner
-vmess://ffebe07c-7651-4b6e-8c66-365ca279151c@91.107.156.158:2052?encryption=auto&host=vkvd127.mycdn.me&path=%2F%40irvpnn%2C%40irvpnn%2C%40irvpnn%2C%40irvpnn%3Fed%3D1024&type=ws#@V2rayMiner
-vmess://cc142606-f36d-4004-bd2d-c5c2aa7efd4d@51.75.65.119:80?encryption=auto&host=vkvd127.mycdn.me&path=%2FRACEVPN&type=ws#@V2rayMiner
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@speed.cloudflare.com:80?encryption=auto&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.v2ray.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=%2FTelegram%2FXV2ray&type=ws#@V2rayMiner
-vmess://8259cb1c-dd6c-4739-9c88-af550d977525@50.lwdh.us:12940?encryption=auto&fp=chrome&security=tls&sni=50.lwdh.us&type=tcp#@V2rayMiner
-vmess://00fb7867-95ad-4eaf-99f1-22255beb6251@164.92.78.76:2053?encryption=auto&fp=chrome&security=tls&sni=jt93piid13pqttvei5u5udkzuvj3ey2bcddq11attkea8hel.fxserverr.ir.&type=grpc#@V2rayMiner
-vmess://00fb7867-95ad-4eaf-99f1-22255beb6251@speed.cloudflare.com:2053?encryption=auto&fp=chrome&security=tls&sni=1s0tbpcystvzknnfkbaxk8mykaiyyhdrh2jygrv2q5zbczajl.protonix.ir.&type=grpc#@V2rayMiner
-vmess://27509a72-2dd1-4cea-9155-355543e6c46a@164.90.152.72:80?encryption=auto&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
-vmess://04621bae-ab36-11ec-b909-0242ac120002@38.99.82.128:22324?encryption=auto&type=tcp#@V2rayMiner
-trojan://ypDt8RkT7J@162.19.19.210:43118?allowInsecure=1&alpn=http%2F1.1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://ypDt8RkT7J@51.158.205.36:43118?allowInsecure=1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://ypDt8RkT7J@51.158.203.3:43118?allowInsecure=1&alpn=http%2F1.1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://ypDt8RkT7J@51.158.201.33:43118?allowInsecure=1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://ypDt8RkT7J@51.158.201.32:43118?allowInsecure=1&alpn=http%2F1.1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://4bacb8f1a089763b@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://182228812d1e0f23@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://dc2d9db59868ba6b@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://7b06d22a8a7c764f@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://3febb05ea76a940f@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://8a1ab0df6abea549@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://b84d16a244460e09@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://26a663656e575c0b@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://36fe28a331638747@5.44.249.50:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&type=ws&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV#16 تیر , 16:50 ☂️ DailyV2ry
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.221.227:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#16 تیر , 16:50 ☂️ DailyV2ry
-vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=%2Ftelegram-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=kIngOFIRAN.PAGes.DEv&fp=randomized&type=ws&sni=kingOfIRaN.Pages.DEV#16 تیر , 16:50 ☂️ DailyV2ry
 vless://b4e9f200-6da2-4a68-dfcb-b45a47a36400@88.198.204.227:443?security=none&encryption=none&headerType=none&type=tcp#16 تیر , 16:50 ☂️ DailyV2ry
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#16 تیر , 16:50 ☂️ DailyV2ry
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#16 تیر , 16:50 ☂️ DailyV2ry
