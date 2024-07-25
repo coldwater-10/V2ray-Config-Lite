@@ -3,6 +3,63 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%50%63%56%32%72%61%79@104.17.148.22:8080?Telegram=%3Ca#🔓%20VL--N/A%20🇺🇸%20US%202ms
+vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%50%63%56%32%72%61%79@104.17.147.22:8880?Telegram=%3Ca#🔓%20VL--N/A%20🇺🇸%20US%202ms
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.52:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒%20VL-WS-TLS%20🇺🇸%20US%203ms
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?type=ws&encryption=none&host=fraud.chase&path=%2F%3Fed%3D2048&security=tls&sni=www.Arizona.edu#🔒%20VL-WS-TLS%20🇺🇸%20US%203ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.22.25.85:2083?path=%2FTSBgGkLqaxnignSz%2FNjIuMy4xMi4xODU%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h3%2Ch2&host=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&fp=chrome&type=ws&sni=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.104.150:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%203ms
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=%2Fparadise&security=tls&encryption=none&host=scwhv.ttronni.info&type=ws&sni=scwhv.ttronni.info#🔒%20VL-WS-TLS%20🇺🇸%20US%20129ms
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%204ms
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.205.53:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://f7b8c369-6ec0-4f8f-b0f2-96cbbb13e545@172.66.47.172:443?path=%2FsQrkf0TRRzHf8DqG%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=K5z3-1h6p-9t8R-2f4B-0W7g-3x2m-5u9D-8N1c-7e4J-6q0Y-5S8v-2A9.pAGeS.Dev&fp=randomized&type=ws&sni=k5z3-1h6p-9t8R-2f4B-0W7G-3x2M-5U9d-8n1C-7E4j-6q0y-5s8v-2A9.pagES.dEv#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.186:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?path=%2FTelegram-%40SiNABiGO-%40SiNABiGO%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg20.pages.dev&type=ws&sni=pardazeshvpn-tg20.pages.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg20.pages.dev&type=ws&sni=pardazeshvpn-tg20.pages.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.123.227:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%204ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FCHANNEL+%3A+%40vpnwedbaz+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz+-+Telegram+%3A+%40vpnwedbaz%2F%3Fed%3D2560&security=tls&encryption=none&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#🔒%20VL-WS-TLS%20🇺🇸%20US%203ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&fp=randomized&type=ws&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=%2Ftelegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#🔒%20VL-WS-TLS%20🇺🇸%20US%203ms
+vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?path=%2F%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=jAviDSHAH-ArIamEhR.PageS.deV&fp=randomized&type=ws&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV#🔒%20VL-WS-TLS%20🇺🇸%20US%203ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&fp=randomized&type=ws&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%203ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?type=ws&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&path=%2FTelegram-%3Ca#🔓%20VL-WS-N/A%20🇺🇸%20US%202ms
+vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@darkness_427
+vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👹ÐΛɌ₭ᑎΞ𐒡𐒡 🫧 𓄂𓆃👹
+#profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://V2rayMinerGp.t.me
+#profile-web-page-url: https://t.me/V2rayMiner
+
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-05-MORDAD-1403 🕑 00:43
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vless://bd2914ed-69b1-4533-a7f0-929527541c35@104.24.197.20:80?flow=&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80&type=ws#🔓V2rayMiner%20CA%20🇨🇦
+vless://6e4c616d-7050-491f-a82e-9508b5f64608@172.67.171.89:80?flow=&host=Uk1.vless.site.&path=%2Fvless+%40hopev2ray%2C%40hopev2ray&type=ws#🔓V2rayMiner%20CA%20🇨🇦
+vless://fa8ec474-39d3-481f-9281-1fb6fce4ef10@159.100.17.71:12393?flow=&type=tcp#🔓V2rayMiner%20DE%20🇩🇪
+
+#profile-title:@V2rayMiner-MCI🕊️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
+vless://cd78a565-4ba2-4484-861c-88ec03f9cbb2@139.162.191.211:51163?flow=&headerType=http&host=vkvd127.mycdn.me&type=tcp#@V2rayMiner
+vless://cd78a565-4ba2-4484-861c-88ec03f9cbb2@shahremobile.hsnxssh.xyz:51163?flow=&headerType=http&host=speedtest.net&type=tcp#@V2rayMiner
+vless://fa12a543-ffc8-4816-a97f-bdc035178967@23.88.56.75:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%40vpn_proxy_channel&type=ws#@V2rayMiner
+vless://telegram-id-PcV2ray@49.13.167.82:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry%3Fed%3D2048&type=ws#@V2rayMiner
+vless://05c8d77c-afb5-4304-8dc3-a166dae14ec0@116.202.10.69:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy&type=ws#@V2rayMiner
+vless://590cb523-a572-45e6-853f-3677853e1074@195.201.16.42:21461?flow=&type=tcp#@V2rayMiner
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.245.82.180:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.245.82.197:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
+vless://24bc6ca1-df48-4cbb-ad6a-4b1e184ca79f@65.21.151.235:8080?ed=2560&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2Ftelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%3Fed%3D2560&type=ws#@V2rayMiner
+vless://fe5cd209-5bbb-4d39-a2f2-504dd7afaab7@5.161.189.44:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
 vmess://5456662d-9d1c-429b-9d3c-e47f2e89f013@51.75.162.200:80?encryption=auto&host=vkvd127.mycdn.me&path=%2FRACEVPN&type=ws#@V2rayMiner
 vmess://5662718f-e3e6-4a96-ca43-2394219cfb47@139.162.124.187:80?encryption=auto&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
 vmess://06d65689-a12a-467c-9ff8-0363fe90c0b4@205.185.116.182:80?encryption=auto&host=vkvd127.mycdn.me&path=%2Fapi%2Fv3%2Fdownload.getFile&type=ws#@V2rayMiner
