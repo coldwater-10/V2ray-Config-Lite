@@ -3,32 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://V2rayMinerGp.t.me
-#profile-web-page-url: https://t.me/V2rayMiner
-
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-05-MORDAD-1403 🕑 10:42
-vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
-vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
-vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
-vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
-vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
-vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
-vless://bd2914ed-69b1-4533-a7f0-929527541c35@104.24.197.20:80?flow=&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80&type=ws#🔓V2rayMiner%20CA%20🇨🇦
-vless://6e4c616d-7050-491f-a82e-9508b5f64608@172.67.171.89:80?flow=&host=Uk1.vless.site.&path=%2Fvless+%40hopev2ray%2C%40hopev2ray&type=ws#🔓V2rayMiner%20CA%20🇨🇦
-vless://fa8ec474-39d3-481f-9281-1fb6fce4ef10@159.100.17.71:12393?flow=&type=tcp#🔓V2rayMiner%20DE%20🇩🇪
-
-#profile-title:@V2rayMiner-MCI🕊️
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
-
-vless://cd78a565-4ba2-4484-861c-88ec03f9cbb2@139.162.191.211:51163?flow=&headerType=http&host=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-vless://cd78a565-4ba2-4484-861c-88ec03f9cbb2@shahremobile.hsnxssh.xyz:51163?flow=&headerType=http&host=speedtest.net&type=tcp#@V2rayMiner
-vless://fa12a543-ffc8-4816-a97f-bdc035178967@23.88.56.75:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%40vpn_proxy_channel&type=ws#@V2rayMiner
-vless://telegram-id-PcV2ray@49.13.167.82:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry%3Fed%3D2048&type=ws#@V2rayMiner
-vless://05c8d77c-afb5-4304-8dc3-a166dae14ec0@116.202.10.69:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy&type=ws#@V2rayMiner
 vless://590cb523-a572-45e6-853f-3677853e1074@195.201.16.42:21461?flow=&type=tcp#@V2rayMiner
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.245.82.180:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.245.82.197:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
