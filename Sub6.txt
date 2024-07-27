@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://V2rayMinerGp.t.me
+#profile-web-page-url: https://t.me/V2rayMiner
+
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-06-MORDAD-1403 🕑 19:46
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
 vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
 vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
 vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
