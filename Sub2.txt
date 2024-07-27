@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJhMzI2M2UyLTg5MWMtNDQ0Ni1iNDc0LWE4YzYzYWNiNmUyNSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgMWZkU05BMTE5MjI4OTI4T3BTMnNtVGFCMjI4YUFzRERzZDFlYTExMzcyMjA1MTI1MS4xNS1rZWh0aXplLnByby4tMjA4NyB8IDEyOS42bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiMWZkU05BMTE5MjI4OTI4T3BTMnNtVGFCMjI4YUFzRERzZDFlYTExMzcyMjA1MTI1MS4xNS1rZWh0aXplLnByby4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJhMzI2M2UyLTg5MWMtNDQ0Ni1iNDc0LWE4YzYzYWNiNmUyNSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgMWZkU05BMTE5MjI4OTI4T3BTMnNtVGFCMjI4YUFzRERzZDFlYTExMzcyMjA0OTEwLjItbWVodGl6ZS5wcm8uLTIwODcgfCAxMjZtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIxZmRTTkExMTkyMjg5MjhPcFMyc21UYUIyMjhhQXNERHNkMWVhMTEzNzIyMDQ5MTAuMi1tZWh0aXplLnByby4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJhMzI2M2UyLTg5MWMtNDQ0Ni1iNDc0LWE4YzYzYWNiNmUyNSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgMGFRMTA0MTU2MjM3MjU0LjEwLWtlaHRpemUucHJvLi0yMDg3IHwgMTM4LjM4bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiMGFRMTA0MTU2MjM3MjU0LjEwLWtlaHRpemUucHJvLiIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJhMzI2M2UyLTg5MWMtNDQ0Ni1iNDc0LWE4YzYzYWNiNmUyNSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgMDFyMTQ5MjgyNDQ5Ny44LWtlaHRpemUucHJvLi0yMDg3IHwgMTQ3LjE5bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiMDFyMTQ5MjgyNDQ5Ny44LWtlaHRpemUucHJvLiIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJjZG4uZGlzY29yZGFwcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImYua2hpbGVpLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBmLmtoaWxlaS5jb20tNDQzIHwgNS44Nm1zIiwic2N5IjoiYXV0byIsInNuaSI6ImYua2hpbGVpLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoiY2FrZS5jYXBlbGxhcmUuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJSRUxBWVx1ZDgzZFx1ZGVhOSB8IGNha2UuY2FwZWxsYXJlLmNvbS00NDMgfCA1MS43Nm1zIiwic2N5IjoiYXV0byIsInNuaSI6ImNha2UuY2FwZWxsYXJlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoidGlsZWJhbmkuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJSRUxBWVx1ZDgzZFx1ZGVhOSB8IHRpbGViYW5pLmNvbS00NDMgfCAzOC42M21zIiwic2N5IjoiYXV0byIsInNuaSI6InRpbGViYW5pLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -593,13 +589,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#US%F0%
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 
-hy2://dongtaiwang.com@51.159.213.39:22483?insecure=1&sni=62.210.103.0#🔒 HYSTERIA-UDP 🇫🇷 FR-51.159.213.39:22483
 hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@[2a01:4f9:c012:c28b::1]:34882?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f9:c012:c28b::1]:34882
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒 HYSTERIA-UDP 🇯🇵 JP-150.230.194.74:2052
-hy2://51123da46e49526e@64.176.166.125:1021?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=36747d9f5ed2835e#🔒 HYSTERIA-UDP 🇮🇱 IL-64.176.166.125:1021
-hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@60.249.35.60:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.35.60:3074
-hy2://0ec39bfb-7040-4953-9399-406c61ded790@160.251.235.72:443?mport=45000-46000&insecure=1&sni=haneda.lol#🔒 HYSTERIA-UDP 🇯🇵 JP-160.251.235.72:443
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#🔒 HYSTERIA-UDP 🇬🇧 GB-144.48.81.171:4380
+hy2://sharecentrepro@51.68.169.215:4433?insecure=1&sni=#🔒 HYSTERIA-UDP 🇫🇷 FR-51.68.169.215:4433
+hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.48.91:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-129.150.48.91:44300
+hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#🔒 HYSTERIA-UDP 🇳🇱 NL-45.32.234.211:443
+hy2://de77d530-18f1-4a96-a87f-b21bc7c2142d@40.233.77.86:443?insecure=1&sni=www.microsoft.com#🔒 HYSTERIA-UDP 🇺🇸 US-40.233.77.86:443
+hy2://16b29608-4418-4fe9-9f74-56d7445b50ec@141.147.19.58:443?mport=35000-39000&insecure=1&sni=api.push.apple.com#🔒 HYSTERIA-UDP 🇩🇪 DE-141.147.19.58:443
+hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.36.216:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-129.150.36.216:44300
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇳🇴 NO-194.87.2.3:443
-hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@60.249.35.95:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.35.95:3074
-hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@139.162.15.99:443?mport=40001-50000&insecure=1&sni=ynn.441166.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-139.162.15.99:443
+hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.103.51:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.103.51:44300
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@43.207.142.72:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-43.207.142.72:3074
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@193.123.81.142:2052?insecure=1&sni=ae1.eyujichang.xyz#🔒 HYSTERIA-UDP 🇦🇪 AE-193.123.81.142:2052
+hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#🔒 HYSTERIA-UDP 🇬🇧 GB-144.48.81.171:4380
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf1.mangshe.xyz#🔒 HYSTERIA-UDP 🇩🇪 DE-130.61.84.98:2052
+hy2://03e4fe32@193.123.95.157:31452?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇪 AE-193.123.95.157:31452
