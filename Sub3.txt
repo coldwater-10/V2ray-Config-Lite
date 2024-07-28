@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443?insecure=1&sni=us-hy2.xlb8.eu.org#🔒 HYSTERIA-UDP 🇺🇸 US-141.11.74.11:443
+hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk1.pithecia.com#🔒 HYSTERIA-UDP 🇺🇸 US-154.40.33.104:20001
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@91.149.233.5:2052?insecure=1&sni=de.eyujichang.xyz#🔒 HYSTERIA-UDP 🇩🇪 DE-91.149.233.5:2052
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@45.11.104.44:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇭🇰 HK-45.11.104.44:3074
+hy2://f6e4b19a3110d19d@[2001:19f0:1000:6daf:5400:4ff:feba:32c3]:443?insecure=1&sni=eliv2ray.eliv2.top%0A&obfs=salamander&obfs-password=8c3ce17b#🔒 HYSTERIA-UDP 🇺🇸 US-[2001:19f0:1000:6daf:5400:4ff:feba:32c3]:443
 hy2://a45201e7-7a4a-41ad-b7e1-8cbac19234ef@129.146.107.52:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒 HYSTERIA-UDP 🇺🇸 US-129.146.107.52:5001
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@172.104.42.126:443?mport=40001-50000&insecure=1&sni=ynb.441122.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-172.104.42.126:443
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-156.254.114.144:64470
@@ -598,8 +603,3 @@ hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@57.180.35.76:3074
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.@WangCai2#⚜️2@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B023%40oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-13.231.105.239:3074
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@139.162.119.212:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B027%40oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@139.162.119.212:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-139.162.119.212:3074
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B017%40oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@18.179.58.237:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-18.179.58.237:3074
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@18.183.184.241:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B09%40oneclickvpnkeys
