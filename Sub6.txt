@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://05c8d77c-afb5-4304-8dc3-a166dae14ec0@116.202.10.69:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://telegram-id-ArV2ray@159.69.192.229:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&ed=8080&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://telegram-id-ArV2ray@159.69.192.229:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://c0422cce-eb73-414e-88bd-c1e1a8e8c8aa@142.132.173.27:8097/?encryption=none&host=vkvd127.mycdn.me&type=tcp&headerType=http#%40V2rayMiner
+vless://80baf990-a5c9-4755-899b-f7ca88c2def2@142.132.173.27:8097/?encryption=none&host=vkvd127.mycdn.me&type=tcp&headerType=http#%40V2rayMiner
+vless://c0422cce-eb73-414e-88bd-c1e1a8e8c8aa@server55.radnikmax.ir:8097/?encryption=none&host=server55.radnikmax.ir&type=tcp&headerType=http#%40V2rayMiner
+vless://80baf990-a5c9-4755-899b-f7ca88c2def2@server55.radnikmax.ir:8097/?encryption=none&host=5.202.12.211&type=tcp&headerType=http#%40V2rayMiner
 vless://channel_ExpressVPN_420@5.75.194.216:8880/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--%3Fed%3D8080&ed=8080&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://590cb523-a572-45e6-853f-3677853e1074@195.201.16.42:21461/?type=tcp&encryption=none#%40V2rayMiner
 vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Fmyiust%2F%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
