@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-07-MORDAD-1403 🕑 11:45
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
+vless://6e4c616d-7050-491f-a82e-9508b5f64608@172.67.171.89:80?flow=&host=Uk1.vless.site.&path=%2Fvless+%40hopev2ray%2C%40hopev2ray&type=ws#🔓V2rayMiner%20CA%20🇨🇦
+vless://fa8ec474-39d3-481f-9281-1fb6fce4ef10@159.100.17.71:12393?flow=&type=tcp#🔓V2rayMiner%20DE%20🇩🇪
+
+trojan://pWPz1oxSSF@5.75.199.58:2087/?type=grpc&security=tls&sni=vkvd127.mycdn.me&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
+trojan://21531e6d-5b18-45f6-a9a2-17345617bd7d@188.166.114.145:80/?type=ws&host=vkvd127.mycdn.me&path=%2Fs7z48gkWVrLr3kN&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me#%40V2rayMiner
+trojan://26a663656e575c0b@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
+trojan://b84d16a244460e09@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
+trojan://36fe28a331638747@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
+trojan://3febb05ea76a940f@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
+trojan://7b06d22a8a7c764f@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
+trojan://dc2d9db59868ba6b@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
+trojan://7ac49a893e0bd10c@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
+trojan://182228812d1e0f23@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
 trojan://8a1ab0df6abea549@5.44.249.42:3306/?type=ws&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@192.81.135.76:443/?type=ws&host=cfus2.trojanwss.xyz&path=%2FCFJICHANG&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%40V2rayMiner
 vmess://eyJhZGQiOiIxOTUuMTU0LjEwMi4yMTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyMWUtdW5tZXRlcmVkLnYyZnJlZXZwbi5jb20iLCJpZCI6IjJhOGExMGZiLTljYTMtMzY3ZS1hMjM0LWNmMDlmODQxYmU0ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92MTMzUERYa2tseExFY092RCIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5TWluZXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
