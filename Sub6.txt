@@ -3,6 +3,40 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://19cf971a-77c2-4a4d-9884-f78b329041cf@www.parsvds.ir:80/?type=ws&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#%40V2rayMiner%20%2887%29
+vless://19cf971a-77c2-4a4d-9884-f78b329041cf@check-host.net:80/?type=ws&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#%40V2rayMiner%20%2888%29
+vless://2f9ed534-60af-4835-90ca-d7345ad29470@cloud.kinononva.top:443/?type=ws&encryption=none&host=nitroda4.mehdiiiiiiiii.net&path=%2Fvless&security=tls&sni=nitroda4.mehdiiiiiiiii.net#%40V2rayMiner%20%2889%29
+vless://85c89e9d-89fd-4405-805e-e52899c43968@sp.ni-ham.info:2087/?type=ws&encryption=none&host=sp.ni-ham.info&path=%2F%3Fed%3D2087&ed=2087&eh=Sec-Websocket-Protocol&security=tls&sni=sp.ni-ham.info&alpn=http%2F1.1&fp=chrome#%40V2rayMiner%20%2890%29
+vless://cc0f218d-577d-4a09-9e6a-b9db75c059ba@91.107.146.214:2086/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F%40Kingspeed_support-iran%3Fed%3D1024&ed=1024&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2891%29
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@91.107.129.127:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2892%29
+vless://d7002083-e7f5-488c-f8e7-1417a86cac7c@91.107.232.209:32864/?type=grpc&encryption=none#%40V2rayMiner%20%2893%29
+vless://85c89e9d-89fd-4405-805e-e52899c43968@sp.ni-ham.info:2082/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F%3Fed%3D2087&ed=2087&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2894%29
+vless://05c8d77c-afb5-4304-8dc3-a166dae14ec0@116.202.10.69:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2895%29
+vless://44e5341b-e7ee-436f-ba1f-b960d1fbcadd@65.109.207.67:2087/?type=grpc&encryption=none#%40V2rayMiner%20%2896%29
+vless://1e8e2283-4c2d-11ef-ad7f-00505605a82d@146.59.93.142:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Fwebsocket&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2897%29
+vless://2cf3cb79-50eb-4865-8b96-dfb128d36f9c@94.154.37.237:443/?encryption=none&host=vkvd127.mycdn.me&type=tcp&headerType=http#%40V2rayMiner%20%2898%29
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@147.45.78.23:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2899%29
+vless://d78bbf7c-8e5c-493f-888d-9a421e39bc74@5.161.209.168:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%28100%29
+
+#profile-title:@V2rayMiner-ADSL🕊️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
+
+vless://fcf99985-147b-4c71-c3f2-f448e5a379f1@speed.cloudflare.com:443?alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&flow=&fp=chrome&host=cpanel3.sassanidempire.com&path=%2Fws&security=tls&sni=cpanel3.sassanidempire.com&type=ws#@V2rayMiner
+vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@speed.cloudflare.com:2083?alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&flow=&fp=chrome&host=cpanel3.sassanidempire.com&path=%2Fws&security=tls&sni=cpanel3.sassanidempire.com&type=ws#@V2rayMiner
+vless://1b54598e-8bb4-4bde-d7b4-3302ceb12640@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&flow=&fp=chrome&security=tls&sni=om72.hopeserver.xyz&type=grpc#@V2rayMiner
+vless://Telegram-NUFiLTER@159.69.200.74:443?alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&flow=&fp=chrome&host=joje.bklink.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=joje.bklink.ir&type=ws#@V2rayMiner
+vless://T.me-bluev2rayng-j-bedid2@speed.cloudflare.com:2053?alpn=http%2F1.1&ed=2560&eh=Sec-Websocket-Protocol&flow=&fp=chrome&host=bahman-dol.shopshirvan.ir.&path=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D2560&security=tls&sni=bahman-dol.shopshirvan.ir.&type=ws#@V2rayMiner
+vless://349ca13d-a89d-4541-8701-69d9069d7172@141.95.108.25:2096?alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&flow=&fp=chrome&host=lathworks.aurorainiceland.com&path=%2Flathworks&security=tls&sni=lathworks.aurorainiceland.com&type=ws#@V2rayMiner
+vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@speed.cloudflare.com:2096?alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&flow=&fp=chrome&host=moon.norwaylovers.com&path=%2Fmoon&security=tls&sni=moon.norwaylovers.com&type=ws#@V2rayMiner
+vless://98f5b8fb-4c4b-4beb-8e01-68108c3e7125@91.107.157.82:80?ed=1024&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F-%40Shh_Proxy-%40Shh_Proxy-%40Shh_Proxy--%40Shh_Proxy--%3Fed%3D1024&type=ws#@V2rayMiner
+vless://5fbd0f92-1eb4-4e65-9c86-5c08a3950c57@speed.cloudflare.com:80?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=main-page-2.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&path=23425%2Fphoto-art&type=ws#@V2rayMiner
+vless://abbaa419-6836-4a15-867d-bfc912fdb308@91.107.146.214:2086?ed=1024&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F%40Kingspeed_support-iran%3Fed%3D1024&type=ws#@V2rayMiner
+vless://a6be7bef-5c12-4825-8895-43eb3bfe6d06@91.107.157.82:2086?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=SHHPROXY%3Fed%3D2048&type=ws#@V2rayMiner
+vless://62ba0ced-a2c0-43b7-9718-b810b263171c@speed.cloudflare.com:2086?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=shhproxy--shhproxy--shhproxy.sovemaitaly.shop.&path=SHHPROXY%3Fed%3D2048&type=ws#@V2rayMiner
+vless://9e9a575d-58bb-4b97-8fb3-3739775b0358@speed.cloudflare.com:8080?ed=1024&eh=Sec-Websocket-Protocol&flow=&host=shhproxy--shhproxy--shhproxy.bmaustria.shop.&path=%2F-%40Shh_Proxy-%40Shh_Proxy-%40Shh_Proxy--%40Shh_Proxy--%3Fed%3D1024&type=ws#@V2rayMiner
+vless://a8bb4dca-6de0-443a-9529-746de53835a9@91.107.185.167:39563?flow=&type=tcp#@V2rayMiner
 vless://805b2823-2ee9-43bb-892c-125fcb4f61ad@195.201.226.220:443?flow=&type=tcp#@V2rayMiner
 vless://Telegram-NUFiLTER@88.198.229.61:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&type=ws#@V2rayMiner
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@188.34.176.10:8080?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
