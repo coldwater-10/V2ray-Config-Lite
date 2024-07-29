@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://b42e0205-c04f-4e35-8f50-a2b242e253cd@185.146.173.252:80/?type=ws&encryption=none&host=www.SpeEDteSt.neT.FTP.dEbIan.OrG.VIGIlantecOllecTIOn.COM.&path=2560%2FDaily_Configs%3Fed%3D2560#%40V2rayMiner%20%2886%29
 vless://19cf971a-77c2-4a4d-9884-f78b329041cf@www.parsvds.ir:80/?type=ws&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#%40V2rayMiner%20%2887%29
 vless://19cf971a-77c2-4a4d-9884-f78b329041cf@check-host.net:80/?type=ws&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#%40V2rayMiner%20%2888%29
 vless://2f9ed534-60af-4835-90ca-d7345ad29470@cloud.kinononva.top:443/?type=ws&encryption=none&host=nitroda4.mehdiiiiiiiii.net&path=%2Fvless&security=tls&sni=nitroda4.mehdiiiiiiiii.net#%40V2rayMiner%20%2889%29
