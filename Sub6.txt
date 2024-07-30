@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@147.45.78.23:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2899%29
-vless://d78bbf7c-8e5c-493f-888d-9a421e39bc74@5.161.209.168:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%28100%29
-
-#profile-title:@V2rayMiner-ADSL🕊️
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
 
