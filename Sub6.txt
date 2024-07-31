@@ -3,8 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=%2FOyaFdNKpGFcX0BjG%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?type=ws&host=MIumIumADrEkOsE.pAGeS.dev&path=Telegram%40SiNABiGO%2F%3Fed%3D2048&security=tls&fp=randomized&sni=miumiUMadReKoSE.pAgES.dEv&alpn=h2%2Chttp%2F1.1#🔒%20VL-WS-TLS%20🇺🇸%20US%201ms
+vless://bf7e1009-1574-44f7-86df-6cbecd338477@pardazeshvpn-tg18.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg18.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg18.pages.dev#🔒%20VL-WS-TLS%20🇺🇸%20US%2010ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?type=ws&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&path=%2FATdmeWNJtRAFAGlU%3Fed%3D2560&security=tls&fp=randomized&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&alpn=h2%2Chttp%2F1.1#🔒%20VL-WS-TLS%20🇺🇸%20US%203ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?type=ws&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&path=%2FATdmeWNJtRAFAGlU%3Fed%3D2560&security=tls&fp=randomized&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&alpn=h2%2Chttp%2F1.1#🔒%20VL-WS-TLS%20🇺🇸%20US%202ms
 trojan://telegram-id-privatevpns@16.16.112.92:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔒%20TR-TCP-TLS%20🇸🇪%20SE%20down
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?type=ws&host=jobscareerfortoday.com&path=%2F6b777a91&security=tls&sni=jobscareerfortoday.com#🔒%20TR-WS-TLS%20🇺🇸%20US%202ms
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@darkness_427
@@ -16,7 +19,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-10-MORDAD-1403 🕑 22:41
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-10-MORDAD-1403 🕑 23:44
 vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
 vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
 vmess://eyJwcyI6Ilx1ZDgzZFx1ZGQxMlYycmF5TWluZXIgWFggXHUyNzU0In0=
