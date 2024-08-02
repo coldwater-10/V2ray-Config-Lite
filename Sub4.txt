@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@141.147.119.9:2052?insecure=1&sni=gb.eyujichang.xyz#🔒 HYSTERIA-UDP 🇬🇧 GB-141.147.119.9:2052
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@168.75.103.205:2025?insecure=1&sni=sbl1.eyujichang.xyz#🔒 HYSTERIA-UDP 🇧🇷 BR-168.75.103.205:2025
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@193.233.206.176:2052/?insecure=1&sni=us3.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%BA%F0%9F%87%B2
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@193.233.206.176:2052/?insecure=1&sni=us3.eyujichang.xyz#%F0%9F%94%B44%40oneclickvpnkeys
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@193.233.206.176:2052/?insecure=1&sni=us3.eyujichang.xyz#H4
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@193.233.206.176:2052/?insecure=1&sni=us3.eyujichang.xyz#🔴4@oneclickvpnkeys
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@193.233.206.176:2052?insecure=1&sni=us3.eyujichang.xyz#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20193.233.206.176%20%E2%97%88%20udp:2052%20%E2%97%88%20Baxet%20Group%20Inc.%20%E2%97%88%207648e
+hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@193.233.206.176:2052?insecure=1&sni=us3.eyujichang.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-193.233.206.176:2052
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@213.35.99.16:2052?insecure=1&sni=sg3.eyujichang.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-213.35.99.16:2052
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%F0%9F%94%B41%40oneclickvpnkeys
@@ -595,11 +603,3 @@ hysteria2://DnMOT5C2CP@162.55.223.25:2096?obfs=salamander&obfs-password=Vk%40l%4
 
 
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@188.114.99.0:443/?type=ws&encryption=none&host=texs.pages.dev&path=Telegram%2FXV2ray%3Fed%3D2560%3FTelegram_%40ELiV2ray_%40ELiV2ray_%40ELiV2ray-&security=tls&sni=pages.dev#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://telegram-id-ArV2ray@www.parsvds.ir:2095/?type=ws&encryption=none&host=6.V.V.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443/?type=ws&encryption=none&host=iyjil.cfonni.info&path=%2Fparadise&security=tls&sni=iyjil.cfonni.info&fp=chrome#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://telegram-id-ArV2ray@[2a06:98c1:3123::]:2095/?type=ws&encryption=none&host=10.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://90a93a20-1f02-46fb-814a-9abaaeaf7616@185.146.173.58:8080/?type=ws&encryption=none&host=dcc33.servernet.fun.&path=%2Fservernett#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://Parsashonam-27@104.21.19.124:8880/?type=ws&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://095f0ede-5187-426d-b837-328c14d389c9@104.18.252.72:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://095f0ede-5187-426d-b837-328c14d389c9@104.17.144.74:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://telegram-id-ArV2ray@www.parsvds.ir:2095/?type=ws&encryption=none&host=6.V.V.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
