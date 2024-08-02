@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.205.14:30075?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇯🇵 JP-150.230.205.14:30075
+hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.222.130:30075?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇯🇵 JP-150.230.222.130:30075
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.101.159.25:30075?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇯🇵 JP-158.101.159.25:30075
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇰🇷 KR-158.180.94.166:21020
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@185.14.47.28:30024?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-185.14.47.28:30024
@@ -601,5 +603,3 @@ vless://telegram-id-ArV2ray@172.67.138.69:2095/?type=ws&encryption=none&host=6.V
 vless://telegram-id-ArV2ray@172.67.138.69:2095/?type=ws&encryption=none&host=6.V.V.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
 vless://telegram-id-ArV2ray@172.67.138.69:2095/?type=ws&encryption=none&host=6.V.V.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
 vless://telegram-id-ArV2ray@172.67.138.69:2095/?type=ws&encryption=none&host=6.V.V.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@188.114.99.0:443/?type=ws&encryption=none&host=texs.pages.dev&path=Telegram%2FXV2ray%3Fed%3D2560%3FTelegram_%40ELiV2ray_%40ELiV2ray_%40ELiV2ray-&security=tls&sni=pages.dev#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@188.114.99.0:443/?type=ws&encryption=none&host=texs.pages.dev&path=Telegram%2FXV2ray%3Fed%3D2560%3FTelegram_%40ELiV2ray_%40ELiV2ray_%40ELiV2ray-&security=tls&sni=pages.dev#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
