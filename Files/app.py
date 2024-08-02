@@ -83,6 +83,8 @@ def main():
         "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/hysteria2.txt",
         "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/tuic.txt",
         "https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt",
+        "https://frees.iserver.store:2096/sub/Kevin-Frankfurt?",
+        "https://free2s.iserver.store:2096/sub/Kevin-Frankfurt2?",
         "http://162.55.223.25:443/sub/vDhhXZJ7",
     ]
     dir_links = [
