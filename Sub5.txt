@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vmess://bc864078-dcf3-4bf4-8dbf-ca9f200b56be@speed.cloudflare.com:2087?alpn=http%2F1.1&encryption=auto&fp=chrome&host=vcp3.dehel15354.workers.dev&path=%2Fgwdef.sbs%3A443%2Flinkws&security=tls&sni=vcp3.dehel15354.workers.dev&type=ws#@V2rayMiner
-vmess://76221bfb-e92f-4e80-81c5-6fe48f50ac0b@speed.cloudflare.com:8080?encryption=auto&host=fragrant-heart-c94b.fticrh.workers.dev&path=%2Fglweidf.sbs%2Flinkws&type=ws#@V2rayMiner
-vmess://04c46639-436e-465d-bdcb-b9acd92de51c@162.211.183.84:6145?encryption=auto&host=vkvd127.mycdn.me&path=%2F&type=ws#@V2rayMiner
-vmess://28f8d51a-0e75-4fc3-a36e-03bf4e4d0910@95.164.44.140:2052?encryption=auto&host=google.com&path=%2Fvmess&type=ws#@V2rayMiner
-vmess://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?alpn=h2&encryption=chacha20-poly1305&fp=chrome&security=tls&serviceName=liUxUGJTGoPvbwhkjdrG&sni=hidd2.parthianempire.org&type=grpc#@V2rayMiner
 vmess://fa1897db-1925-4c86-a495-939a959af900@154.47.21.37:8099?encryption=auto&type=tcp#@V2rayMiner
 vmess://45a2d159-b22a-47ff-bb5c-7bfa78d56c49@193.124.46.79:56364?encryption=auto&type=tcp#@V2rayMiner
 vmess://86a0c17d-1871-40e3-db65-2b9bf1a7650e@45.89.52.114:13701?encryption=auto&headerType=http&host=vkvd127.mycdn.me&type=tcp#@V2rayMiner
