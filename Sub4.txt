@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://sTeki1$re5!8swohopro@78.141.215.68:443?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1%24re5%218swohopro#🔒 HYSTERIA-UDP 🇳🇱 NL-78.141.215.68:443
+hy2://sTeki1$re5!8swohopro@[2001:19f0:5001:b0e:5400:4ff:fec6:11b]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#🇳🇱S3+@ELiV2ray
 hy2://sTeki1$re5!8swohopro@[2001:19f0:5001:b0e:5400:4ff:fec6:11b]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=sTeki1%24re5%218swohopro#🇳🇱S3+@ELiV2ray
 hy2://sTeki1$re5!8swohopro@[2001:19f0:5001:b0e:5400:4ff:fec6:11b]:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#ℹ️1@oneclickvpnkeys
 hy2://sTeki1$re5!8swohopro@[2001:19f0:5001:b0e:5400:4ff:fec6:11b]:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1%24re5%218swohopro#%E2%84%B9%EF%B8%8F1%40oneclickvpnkeys
@@ -111,19 +113,19 @@ hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@us.zhenshihui.one:48489/#%40V2rayMine
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-64.176.186.193:443
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.197.98:443
-tuic://5663790a-0291-422f-ac20-d873c42a39e4:5663790a-0291-422f-ac20-d873c42a39e4@199.247.31.10:57034?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-199.247.31.10:57034
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?congestion_control=bbr&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.110.25.10:11227
-tuic://5663790a-0291-422f-ac20-d873c42a39e4:5663790a-0291-422f-ac20-d873c42a39e4@[2001:19f0:5001:22bf:5400:4ff:fec6:b13]:57034?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-[2001:19f0:5001:22bf:5400:4ff:fec6:b13]:57034
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-209.250.254.198:443
-tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.198.64:443
-tuic://731a0ca6-ed14-4775-a6ac-acbcb324d572:Mashroote_Liberal2024@149.28.218.21:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-149.28.218.21:443
+tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@108.181.22.155:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3#🔒 TUIC-UDP 🇺🇸 US-108.181.22.155:12255
 tuic://dfc04908-936e-4525-94a7-bd729d5f7d42:6ikEtHLn+sTihow2a41C@45.76.34.118:443?congestion_control=bbr&udp_relay_mode=native&sni=www.google.com&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-45.76.34.118:443
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.208.3:443
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-136.244.88.153:443
-tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@108.181.22.155:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3#🔒 TUIC-UDP 🇺🇸 US-108.181.22.155:12255
+tuic://5663790a-0291-422f-ac20-d873c42a39e4:5663790a-0291-422f-ac20-d873c42a39e4@199.247.31.10:57034?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-199.247.31.10:57034
+tuic://731a0ca6-ed14-4775-a6ac-acbcb324d572:Mashroote_Liberal2024@149.28.218.21:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-149.28.218.21:443
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-64.176.186.193:443
+tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.198.64:443
 tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-64.176.191.133:443
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-136.244.88.153:443
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-209.250.254.198:443
+tuic://5663790a-0291-422f-ac20-d873c42a39e4:5663790a-0291-422f-ac20-d873c42a39e4@[2001:19f0:5001:22bf:5400:4ff:fec6:b13]:57034?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-[2001:19f0:5001:22bf:5400:4ff:fec6:b13]:57034
+tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?congestion_control=bbr&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.110.25.10:11227
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?congestion_control=bbr&alpn=h3&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TU-UDP-TLS%204%E2%83%A3
 tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Swinton%20%F0%9F%8C%8D%20TU-UDP-TLS%204%E2%83%A3
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?congestion_control=bbr&alpn=h3&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TU-UDP-TLS%204%E2%83%A3
@@ -537,7 +539,7 @@ vless://telegram-id-ArV2ray@www.speedtest.net:2095/?type=ws&encryption=none&host
 #profile-web-page-url: https://mansor427.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#👻%20ÐΛɌ₭ᑎΞ𐒡𐒡%20👾%20@mansor427
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-15-MORDAD-1403 🕑 15:50
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-15-MORDAD-1403 🕑 16:39
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@darkness_427
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👹ÐΛɌ₭ᑎΞ𐒡𐒡 🫧 𓄂𓆃👹
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -547,7 +549,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-15-MORDAD-1403 🕑 15:57
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-15-MORDAD-1403 🕑 16:48
 
 #profile-title:@V2rayMiner-MCI🕊️
 #profile-update-interval: 1
@@ -601,5 +603,3 @@ vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtM2hkaS5zZXJ2ZWh0dHAuY29tIiwiaWQiOiJmODMyNTI0OS01NmM0LTQyN2EtOGU0YS1iNDdlMjg1YTU0YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIv8J+SmCBAdjJyYXlfY29uZmlnc19wb29sIPCfkpgiLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheU1pbmVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjI5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtM2hkaS5zZXJ2ZWh0dHAuY29tIiwiaWQiOiJmODMyNTI0OS01NmM0LTQyN2EtOGU0YS1iNDdlMjg1YTU0YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIv8J+SmCBAdjJyYXlfY29uZmlnc19wb29sIPCfkpgiLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheU1pbmVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtM2hkaS5zZXJ2ZWh0dHAuY29tIiwiaWQiOiJmODMyNTI0OS01NmM0LTQyN2EtOGU0YS1iNDdlMjg1YTU0YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIv8J+SmCBAdjJyYXlfY29uZmlnc19wb29sIPCfkpgiLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheU1pbmVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtM2hkaS5zZXJ2ZWh0dHAuY29tIiwiaWQiOiJmODMyNTI0OS01NmM0LTQyN2EtOGU0YS1iNDdlMjg1YTU0YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIv8J+SmCBAdjJyYXlfY29uZmlnc19wb29sIPCfkpgiLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheU1pbmVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtM2hkaS5zZXJ2ZWh0dHAuY29tIiwiaWQiOiJmODMyNTI0OS01NmM0LTQyN2EtOGU0YS1iNDdlMjg1YTU0YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIv8J+SmCBAdjJyYXlfY29uZmlnc19wb29sIPCfkpgiLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheU1pbmVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
