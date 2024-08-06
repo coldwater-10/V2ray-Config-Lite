@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B016%40oneclickvpnkeys
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B033%40oneclickvpnkeys
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@45.11.104.44:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B031%40oneclickvpnkeys
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@45.11.104.44:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇭🇰 HK-45.11.104.44:3074
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_079%20%40WangCai_8
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B029%40oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@45.11.104.79:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇭🇰 HK-45.11.104.79:3074
@@ -599,7 +603,3 @@ hy2://228ed820-3522-4c7b-98c8-55fd4823a268@hk2.zhenshihui.one:48489/#%40V2rayMin
 hy2://228ed820-3522-4c7b-98c8-55fd4823a268@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://228ed820-3522-4c7b-98c8-55fd4823a268@jp2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://228ed820-3522-4c7b-98c8-55fd4823a268@sg.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@sg2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@kr.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@us.zhenshihui.one:48489/#%40V2rayMiner
-hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
