@@ -87,6 +87,7 @@ def main():
         "https://free2s.iserver.store:2096/sub/Kevin-Frankfurt2?",
         "http://162.55.223.25:443/sub/vDhhXZJ7",
         "https://q50kqax6mo9llbitpzdh.bamengine.ir/0icfexpsyznb7mqtos7voo1ghkakbbvpvumkht3s2jxsm0upry/Hdhdhfhfjrudy?",
+        "https://s6h.newbitplatform.com/ZTSjltlKHm0ty82DxVsxbDSIq1C4j/d24ab9af-c1c7-4183-a68d-4a708e45e9c9/sub64/?asn=unknown#default",
     ]
     dir_links = [
         "https://miner.isherv.in",
