@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@kr.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@hk2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@jp.zhenshihui.one:48489/#%40V2rayMiner
-hy2://228ed820-3522-4c7b-98c8-55fd4823a268@jp2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://228ed820-3522-4c7b-98c8-55fd4823a268@sg.zhenshihui.one:48489/#%40V2rayMiner
 hy2://228ed820-3522-4c7b-98c8-55fd4823a268@sg2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://228ed820-3522-4c7b-98c8-55fd4823a268@kr.zhenshihui.one:48489/#%40V2rayMiner
@@ -275,7 +260,7 @@ tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?conges
 hysteria2://w1WaL8WbZf@185.254.96.99:29814?obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26&insecure=1#iVPN.Pro-Sahel
 hysteria2://HqsbFnnA88@179.61.251.214:55521?obfs=salamander&obfs-password=Zx3%40f%24%25F4%24r6gfhJG&insecure=1#Hysteria2
 #No Time Limit
-trojan://1@09.56--2024.08.08.time:0956?sni=fake_ip_for_sub_link&security=tls#%E2%8F%B3%200.039/3TB%20%F0%9F%93%85
+trojan://1@10.46--2024.08.08.time:1046?sni=fake_ip_for_sub_link&security=tls#%E2%8F%B3%200.045/3TB%20%F0%9F%93%85
 vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6h.newbitplatform.com:443?hiddify=1&sni=hivsti.com&type=tcp&alpn=http/1.1&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=fwzUynQsxi9WJBrMn-FnbB7txQbKeYYyV8U3_z-FzBc&sid=f78c#hivsti.com%20reality%20XTLS%20direct%20vless
 vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6h.newbitplatform.com:443?hiddify=1&sni=s6h.newbitplatform.com&type=ws&alpn=h2&path=/gydbh8BquVe80zfWMNOapZMYk&host=s6h.newbitplatform.com&encryption=none&fp=chrome&headerType=None&security=tls#s6h.newbitplatform.com%20tls_h2%20WS%20direct%20vless
 trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6h.newbitplatform.com:443?hiddify=1&sni=s6h.newbitplatform.com&type=ws&alpn=h2&path=/xueGC1HWMNOapZMYk&host=s6h.newbitplatform.com&fp=chrome&headerType=None&security=tls#s6h.newbitplatform.com%20tls_h2%20WS%20direct%20trojan
@@ -299,22 +284,22 @@ vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6h.newbitplatform.com:443?hiddify=
 trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6h.newbitplatform.com:443?hiddify=1&sni=s6h.newbitplatform.com&type=splithttp&alpn=h3&path=/xueGC1HdFgwxg3fyR&host=s6h.newbitplatform.com&fp=chrome&core=xray&headerType=http&security=tls#s6h.newbitplatform.com%20h3_quic%20splithttp%20direct%20trojan
 tuic://d24ab9af-c1c7-4183-a68d-4a708e45e9c9:d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6h.newbitplatform.com:54620?congestion_control=cubic&udp_relay_mode=native&sni=s6h.newbitplatform.com&alpn=h3#s6h.newbitplatform.com%20TUIC
 hysteria2://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6h.newbitplatform.com:35857?hiddify=1&obfs=salamander&obfs-password=OVMxbD6RD4iwbYJm4&sni=s6h.newbitplatform.com#s6h.newbitplatform.com%20Hysteria2
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6hc.neWbitPlATfoRm.Com:443?hiddify=1&sni=s6hc.nEWBitPlAtfoRm.com&type=ws&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfWMNOapZMYk&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls_h2%20WS%20CDN%20vless
-trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6Hc.nEWbITplatfOrM.cOm:443?hiddify=1&sni=S6hC.NewBiTpLATfORM.COM&type=ws&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/xueGC1HWMNOapZMYk&host=s6hc.newbitplatform.com&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls_h2%20WS%20CDN%20trojan
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6hC.NewBItPLATfORM.coM:443?hiddify=1&sni=s6hC.NeWBitPlATFORM.coM&type=httpupgrade&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfmGzJdpigOw&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&headerType=http&security=tls#s6hc.newbitplatform.com%20tls_h2%20httpupgrade%20CDN%20vless
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6HC.NewbITPlAtFoRm.cOm:443?hiddify=1&sni=S6HC.neWBiTPlatFORm.com&type=splithttp&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfdFgwxg3fyR&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20tls_h2%20splithttp%20CDN%20vless
-trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6HC.nEWBiTPLatForm.cOm:443?hiddify=1&sni=S6Hc.NEwBitPLaTfoRM.cOM&type=splithttp&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/xueGC1HdFgwxg3fyR&host=s6hc.newbitplatform.com&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20tls_h2%20splithttp%20CDN%20trojan
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6HC.nEWbItpLATFOrM.COM:443?hiddify=1&sni=s6Hc.nEWbITPlAtfORM.cOM&type=grpc&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=gydbh8BquVe80zfh2T5wpds&host=s6hC.nEwbitPLATforM.COM&serviceName=gydbh8BquVe80zfh2T5wpds&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls_h2%20grpc%20CDN%20vless
-trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6Hc.NewbiTPlAtForm.com:443?hiddify=1&sni=S6Hc.NewbITplAtfORm.coM&type=grpc&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=xueGC1Hh2T5wpds&host=s6hc.NewbitpLATFOrM.cOm&serviceName=xueGC1Hh2T5wpds&mode=gun&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls_h2%20grpc%20CDN%20trojan
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6Hc.nEwBItPLatfoRm.COM:443?hiddify=1&sni=s6hc.nEWBiTpLAtFoRM.CoM&type=ws&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfWMNOapZMYk&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls%20WS%20CDN%20vless
-trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6hc.neWBitplAtFOrm.COM:443?hiddify=1&sni=s6HC.nEwBITplATfoRM.com&type=ws&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/xueGC1HWMNOapZMYk&host=s6hc.newbitplatform.com&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls%20WS%20CDN%20trojan
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6Hc.NEwBitpLAtfoRM.com:443?hiddify=1&sni=S6hC.neWBITplAtFoRm.COM&type=httpupgrade&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfmGzJdpigOw&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&headerType=http&security=tls#s6hc.newbitplatform.com%20tls%20httpupgrade%20CDN%20vless
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6HC.newbitpLatFOrM.coM:443?hiddify=1&sni=S6hc.NeWbItPlATForM.com&type=splithttp&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfdFgwxg3fyR&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20tls%20splithttp%20CDN%20vless
-trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6Hc.NewbitplATFoRM.coM:443?hiddify=1&sni=S6HC.newbiTPlATFOrM.coM&type=splithttp&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/xueGC1HdFgwxg3fyR&host=s6hc.newbitplatform.com&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20tls%20splithttp%20CDN%20trojan
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6Hc.NeWbITPLatfOrm.cOM:443?hiddify=1&sni=s6hc.NeWBitPLatFoRm.coM&type=grpc&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=gydbh8BquVe80zfh2T5wpds&host=s6hc.NEwbitPlATFOrM.CoM&serviceName=gydbh8BquVe80zfh2T5wpds&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls%20grpc%20CDN%20vless
-trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6HC.NeWbiTplaTFOrM.COM:443?hiddify=1&sni=s6Hc.NeWBiTpLatfOrM.cOM&type=grpc&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=xueGC1Hh2T5wpds&host=s6hC.newBITPlaTform.com&serviceName=xueGC1Hh2T5wpds&mode=gun&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls%20grpc%20CDN%20trojan
-vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6hc.NewBITPLATfoRm.cOm:443?hiddify=1&sni=s6hc.NEwBITplAtfORM.CoM&type=splithttp&alpn=h3&mc=1&padsize=50-200&path=/gydbh8BquVe80zfdFgwxg3fyR&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20h3_quic%20splithttp%20CDN%20vless
-trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6HC.NewbITplaTfORm.coM:443?hiddify=1&sni=s6hC.NEWBITPlAtfoRM.cOm&type=splithttp&alpn=h3&mc=1&padsize=50-200&path=/xueGC1HdFgwxg3fyR&host=s6hc.newbitplatform.com&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20h3_quic%20splithttp%20CDN%20trojan
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6Hc.nEwBItPLatfoRm.cOm:443?hiddify=1&sni=s6hc.nEWBiTPlAtFOrm.cOm&type=ws&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfWMNOapZMYk&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls_h2%20WS%20CDN%20vless
+trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6hC.newBItpLATforM.com:443?hiddify=1&sni=S6hC.NewbITPlatForM.COM&type=ws&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/xueGC1HWMNOapZMYk&host=s6hc.newbitplatform.com&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls_h2%20WS%20CDN%20trojan
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6hC.NewbiTpLATfOrm.COM:443?hiddify=1&sni=S6HC.neWBITPlAtforM.COM&type=httpupgrade&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfmGzJdpigOw&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&headerType=http&security=tls#s6hc.newbitplatform.com%20tls_h2%20httpupgrade%20CDN%20vless
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6HC.nEwBitPlAtfoRm.COM:443?hiddify=1&sni=S6hC.NewBItPLaTfOrm.COM&type=splithttp&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfdFgwxg3fyR&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20tls_h2%20splithttp%20CDN%20vless
+trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6HC.NEwBItpLatFOrm.cOm:443?hiddify=1&sni=S6hC.newBitplaTFOrM.com&type=splithttp&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/xueGC1HdFgwxg3fyR&host=s6hc.newbitplatform.com&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20tls_h2%20splithttp%20CDN%20trojan
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6hC.NEWbITPLatfoRm.cOm:443?hiddify=1&sni=s6hc.NEWbitpLAtForm.com&type=grpc&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=gydbh8BquVe80zfh2T5wpds&host=s6Hc.NEWbiTplaTFOrM.CoM&serviceName=gydbh8BquVe80zfh2T5wpds&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls_h2%20grpc%20CDN%20vless
+trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6hc.NEWBiTPlAtfoRM.com:443?hiddify=1&sni=S6hC.neWBiTPLaTfOrM.com&type=grpc&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=xueGC1Hh2T5wpds&host=S6HC.nEwBITplaTfORm.COM&serviceName=xueGC1Hh2T5wpds&mode=gun&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls_h2%20grpc%20CDN%20trojan
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6HC.newbItpLatForm.COM:443?hiddify=1&sni=S6HC.NEWBitPlaTForM.Com&type=ws&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfWMNOapZMYk&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls%20WS%20CDN%20vless
+trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6HC.NEWbiTplaTFOrM.coM:443?hiddify=1&sni=s6Hc.NewBITplatForM.cOM&type=ws&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/xueGC1HWMNOapZMYk&host=s6hc.newbitplatform.com&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls%20WS%20CDN%20trojan
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6HC.nEwBiTPLATfoRm.cOm:443?hiddify=1&sni=S6hc.neWBitplatFoRm.coM&type=httpupgrade&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfmGzJdpigOw&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&headerType=http&security=tls#s6hc.newbitplatform.com%20tls%20httpupgrade%20CDN%20vless
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6hc.nEWBiTpLaTFOrm.cOM:443?hiddify=1&sni=s6Hc.NeWBiTplaTfoRm.coM&type=splithttp&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/gydbh8BquVe80zfdFgwxg3fyR&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20tls%20splithttp%20CDN%20vless
+trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6hC.NEWbiTPlATFOrM.com:443?hiddify=1&sni=s6HC.newBitPLAtfORM.cOm&type=splithttp&alpn=http/1.1&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=/xueGC1HdFgwxg3fyR&host=s6hc.newbitplatform.com&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20tls%20splithttp%20CDN%20trojan
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6hc.nEWBITpLatfOrM.coM:443?hiddify=1&sni=S6hC.nEWbitpLATfoRM.com&type=grpc&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=gydbh8BquVe80zfh2T5wpds&host=s6hc.nEWBItPlAtFORm.COM&serviceName=gydbh8BquVe80zfh2T5wpds&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls%20grpc%20CDN%20vless
+trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6HC.neWbitpLatFOrM.CoM:443?hiddify=1&sni=s6Hc.NewbITPLAtFoRM.CoM&type=grpc&alpn=h2&fragment=tlshello,10-100,50-200&mc=1&padsize=50-200&path=xueGC1Hh2T5wpds&host=S6HC.NewbitPLaTfOrM.COm&serviceName=xueGC1Hh2T5wpds&mode=gun&fp=chrome&headerType=None&security=tls#s6hc.newbitplatform.com%20tls%20grpc%20CDN%20trojan
+vless://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@s6hc.neWbITPLATFORm.cOM:443?hiddify=1&sni=S6hC.NewbItplATFORM.cOM&type=splithttp&alpn=h3&mc=1&padsize=50-200&path=/gydbh8BquVe80zfdFgwxg3fyR&host=s6hc.newbitplatform.com&encryption=none&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20h3_quic%20splithttp%20CDN%20vless
+trojan://d24ab9af-c1c7-4183-a68d-4a708e45e9c9@S6hc.nEWbiTPLATFoRm.cOM:443?hiddify=1&sni=S6Hc.neWbiTPlATFOrm.COM&type=splithttp&alpn=h3&mc=1&padsize=50-200&path=/xueGC1HdFgwxg3fyR&host=s6hc.newbitplatform.com&fp=chrome&core=xray&headerType=http&security=tls#s6hc.newbitplatform.com%20h3_quic%20splithttp%20CDN%20trojan
 #profile-title: â¬ SHÎÐ¯VINâ¢ | HIN MINER
 #profile-update-interval: 1 
 #subscription-userinfo: upload=100; download=100; total=10000000000000; expire= 44462495316 #support-url: isherv.in #profile-web-page-url: isherv.in
@@ -599,7 +584,22 @@ vmess://eyJhZGQiOiIxNDEuMTAxLjExNC40MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 #profile-web-page-url: https://mansor427.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#👻%20ÐΛɌ₭ᑎΞ𐒡𐒡%20👾%20@mansor427
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-18-MORDAD-1403 🕑 09:08
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-18-MORDAD-1403 🕑 10:46
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@darkness_427
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👹ÐΛɌ₭ᑎΞ𐒡𐒡 🫧 𓄂𓆃👹
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://V2rayMinerGp.t.me
+#profile-web-page-url: https://t.me/V2rayMiner
+
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-18-MORDAD-1403 🕑 10:43
+
+#profile-title:@V2rayMiner-MCI🕊️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
+vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtM2hkaS5zZXJ2ZWh0dHAuY29tIiwiaWQiOiJmODMyNTI0OS01NmM0LTQyN2EtOGU0YS1iNDdlMjg1YTU0YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIv8J+SmCBAdjJyYXlfY29uZmlnc19wb29sIPCfkpgiLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheU1pbmVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI5Mi4yMjMuMTI0LjMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtM2hkaS5zZXJ2ZWh0dHAuY29tIiwiaWQiOiJmODMyNTI0OS01NmM0LTQyN2EtOGU0YS1iNDdlMjg1YTU0YWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIv8J+SmCBAdjJyYXlfY29uZmlnc19wb29sIPCfkpgiLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheU1pbmVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxOTUuMjE2LjIzNy4yMDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im0zaGRpLnNlcnZlaHR0cC5jb20iLCJpZCI6ImY4MzI1MjQ5LTU2YzQtNDI3YS04ZTRhLWI0N2UyODVhNTRhYyIsIm5ldCI6IndzIiwicGF0aCI6Ii/wn5KYIEB2MnJheV9jb25maWdzX3Bvb2wg8J+SmCIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5TWluZXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
