@@ -4,7 +4,6 @@
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@jp2.zhenshihui.one:48489/#%40V2rayMiner
