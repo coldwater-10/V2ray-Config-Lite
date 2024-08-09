@@ -94,6 +94,7 @@ def main():
         "https://HIN.isherv.in",
         "https://fiber.isherv.in",
         "https://api.yebekhe.link/shervin",
+        "http://yalda.nscl.ir",
         "Http://mosi.monster.freehost.io/Mosi/@FREE2CONFIG.Reality.txt",
         "https://raw.githubusercontent.com/darknessm427/miner/main/Miner/normal",
         "https://raw.githubusercontent.com/XYZMojtaba/V2rayMiner/main/Miner/normal",
