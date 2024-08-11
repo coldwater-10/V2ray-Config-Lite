@@ -3,31 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://ff774d35-7e93-4469-8d37-446fff3831d3@45.76.46.149:80/?type=grpc&encryption=none&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=C398ZvteK5MglVZ7_wIrtX34WRPOtJ1UOczehv17Rzk&sid=86#%F0%9F%87%AB%F0%9F%87%B7
-
-vless://260995ec-e474-4b41-a694-4f49a9924070@80.240.21.216:2095/?type=grpc&encryption=none&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=CsH4kGWxfQtmJ_NgsMrqsvcvsAPyv2-xt6LzeMGz7U0&sid=06c42894c2#%F0%9F%87%A9%F0%9F%87%AA
-
-vless://b4420969-d077-4a81-9c68-fea4f6762d73@70.34.214.75:80/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=tnyKXlWtlwDNUNY2rZOLDRMs9v4PyHt30TKLbjbjGQc&sid=14851b#%F0%9F%87%B8%F0%9F%87%AA
-
-vless://1708b993-3a62-47d1-a1ac-7637692f301c@45.67.32.147:15595/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=qS7RgmrDJXhMiqsMBTmmQCRpDMgqfNRm7WJcRdOq7mI&sid=f04c5e3b#%F0%9F%87%B7%F0%9F%87%BA
-
-vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#%F0%9F%87%AE%F0%9F%87%AA
-
-vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443/?type=tcp&encryption=none&sni=analytics.google.com&fp=chrome&security=reality&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#%F0%9F%87%AB%F0%9F%87%B7
-
-vless://ac2338e6-738f-4319-b9e2-4e770bc1c867@109.61.18.33:2053/?type=grpc&encryption=none&serviceName=%40VPNHubMaRKeT&sni=www.speedtest.net&fp=chrome&security=reality&pbk=FCdlLW1ystr0ASEpfXKN0hAOeRcCWU6VMFD_G5qqvxM&sid=642a8c33d6#%F0%9F%87%B1%F0%9F%87%BA
-
-vless://438c3cfa-60bc-49ab-ba48-c0e63af308e0@193.188.21.227:56586/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&security=reality&pbk=0FZ-B1kiKHHVSA9Gq-JdH2F5MK_2jL-_EHEIl_t7GGw&sid=1f19#%F0%9F%87%B8%F0%9F%87%AA
-
-vless://c64a51bb-b24a-4ec7-c746-a8d7f4cdf763@45.207.216.11:38553/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=fa607c66#%F0%9F%87%AD%F0%9F%87%B0
-
-vless://ff774d35-7e93-4469-8d37-446fff3831d3@45.76.46.149:80/?type=grpc&encryption=none&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=C398ZvteK5MglVZ7_wIrtX34WRPOtJ1UOczehv17Rzk&sid=86#%F0%9F%87%AB%F0%9F%87%B7
-
-vless://260995ec-e474-4b41-a694-4f49a9924070@80.240.21.216:2095/?type=grpc&encryption=none&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=CsH4kGWxfQtmJ_NgsMrqsvcvsAPyv2-xt6LzeMGz7U0&sid=06c42894c2#%F0%9F%87%A9%F0%9F%87%AA
-
-vless://b4420969-d077-4a81-9c68-fea4f6762d73@70.34.214.75:80/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=tnyKXlWtlwDNUNY2rZOLDRMs9v4PyHt30TKLbjbjGQc&sid=14851b#%F0%9F%87%B8%F0%9F%87%AA
-
-vless://1708b993-3a62-47d1-a1ac-7637692f301c@45.67.32.147:15595/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=qS7RgmrDJXhMiqsMBTmmQCRpDMgqfNRm7WJcRdOq7mI&sid=f04c5e3b#%F0%9F%87%B7%F0%9F%87%BA
 
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#%F0%9F%87%AE%F0%9F%87%AA
 
@@ -51,7 +26,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-21-MORDAD-1403 🕑 05:57
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-21-MORDAD-1403 🕑 06:45
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
