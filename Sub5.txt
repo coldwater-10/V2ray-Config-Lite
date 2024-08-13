@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-
-.
-#profile-title: â¬ SHÎÐ¯VINâ¢ | HIN MINER
 #profile-update-interval: 1 
 #subscription-userinfo: upload=100; download=100; total=10000000000000; expire= 44462495316 #support-url: isherv.in #profile-web-page-url: isherv.in
 
@@ -603,3 +594,12 @@ vless://TELEGRAM-NUFiLTER@[2a01:4f9:c011:4deb::1]:48548/?type=tcp&encryption=non
 vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://d692eac3-ed8d-4454-b07e-35075785f316@185.239.0.54:51535/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:53421/?type=tcp&encryption=none#%E2%98%ACSH%CE%9E%D0%AFVIN%E2%84%A2
+vless://biato--ZEDMODEON@[2a0d:5940:94:1::]:25365/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=eset.com&security=reality&pbk=YFRIvi-Zx0ORlGICBV9BZVGjB_qbVZyJ2ugm4joyJk8&sid=2217e299#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://TELEGRAM-NUFiLTER@[2a01:4f9:c011:4deb::1]:48548/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://eyJhZGQiOiIxNDIuMC4xMzQuMjQzIiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1MDE3IiwicHMiOiLimKwgU0jOntCvVklO4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://0dca0968-d923-4cc1-8bcb-760adeb78c61@85.133.201.25:4003/?encryption=none&host=%40VPNHubMaRKeT&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
