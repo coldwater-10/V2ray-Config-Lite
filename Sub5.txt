@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://8b60c360-003c-4ecf-9c30-7521d96a880d@[2a04:4e42:200::731]:80/?type=ws&encryption=none&host=alfredo.ir&path=%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfigFreeV2ray%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vmess://eyJhZGQiOiIxOTguMi4yMzQuOTgiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzk3NzEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://telegram-id-PcV2ray@104.17.148.22:8080/?type=ws&encryption=none&host=1.V2.g.www.speedtest.net.mehpow.iR.&path=%2F-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry-TEL--PcV2ry%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vmess://eyJhZGQiOiIxOTguMi4yMzQuOTkiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzk3NzEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -603,3 +602,4 @@ vmess://eyJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://8b60c360-003c-4ecf-9c30-7521d96a880d@151.101.194.219:80/?type=ws&encryption=none&host=alfredo.ir&path=%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfigFreeV2ray%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://8b60c360-003c-4ecf-9c30-7521d96a880d@151.101.194.219:443/?type=ws&encryption=none&host=alfredo.ir&path=%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfig%2F%40AlfredConfigFreeV2ray%3Fed%3D2048&security=tls&sni=speedtest.net&alpn=http%2F1.1#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://fef833b7-7c17-45ef-90b9-e9879d5bbe3f@185.146.173.58:8080/?type=ws&encryption=none&host=lc7.lebasnoo.ir.&path=%2Fservernett#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://b610d241-2385-560e-a31a-1b9a907d30be@185.146.173.125:80/?type=ws&encryption=none&host=De2.vless.site.&path=%2Fvless%3Fed%3D2052#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
