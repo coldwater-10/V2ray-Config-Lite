@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?encryption=none&security=tls&sni=hidd2.afsharidempire.uk&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#NL🇳🇱 | hidd2.afsharidempire.uk-443 | 103.31ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=ws&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.sassanidempire.com-443 | 132.7ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=httpupgrade&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.sassanidempire.com-443 | 103.39ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#NL🇳🇱 | hidd2.sassanidempire.com-443 | 104.05ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=http%2F1.1&fp=chrome&type=ws&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.sassanidempire.com-443 | 104.16ms
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=hidd2.sassanidempire.com&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.sassanidempire.com-443 | 103.51ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443?encryption=none&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#NL🇳🇱 | hidd2.sassanidempire.com-443 | 103.49ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=ws&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s#NL🇳🇱 | hidd2.parthianempire.org-443 | 161.26ms
 vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=httpupgrade&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXT7THAtMyBCv#NL🇳🇱 | hidd2.parthianempire.org-443 | 103.99ms
@@ -597,9 +603,3 @@ hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@35.72.184.29:3074
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_152%20%40wangcai_8
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_72%20%40wangcai_8
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40WangCai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.44:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_044%20%40WangCai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.%40WangCai2#%E2%9A%9C%EF%B8%8F2%40oneclickvpnkeys
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_079%20%40WangCai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.79:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇭🇰 HK-45.11.104.79:3074
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_229%20%40wangcai_8%202
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_206%20%40wangcai_8
