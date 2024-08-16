@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vmess://eyJhZGQiOiIxMDQuMTguNDUuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjEyNy4wLjAuMS7lpKrnqbouc3BhY2VjYWRldC5q0L7RgdC80LjRh9C10YHQutC40LnQutCw0LTQtdGCLuWuiemdnOWcsOaWueesrOWkqWRheS53b25rYWNhcGl0YW5vLmJ1enouIiwiaWQiOiI4ZDRhZjA2ZC01OThlLTQ2YmQtODRjNy1hYzMzM2EyMjQzN2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://c222a090-2e69-42d8-945c-5ecc12a877b7@104.22.13.192:8880/?type=ws&encryption=none&host=www.speedtest.net.zula.com.aparat.com.spikevpn.cfd.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://94f51d56-204b-466b-b1d7-d397df9273d0@104.17.148.22:2095/?type=ws&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://0b182df1-eb4f-4852-8a4f-8a4d8bd81620@[2a04:4e42:8d::737]:80/?type=ws&encryption=none&host=ramioncommunicationslimited.com&path=%2Fcontact%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://aef92c50-e4e2-4763-8780-7e09c6b10e16@172.67.193.36:8080/?type=ws&encryption=none&host=opa.kolacghi.ir&path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -603,3 +601,5 @@ vless://telegram-id-PcV2ray@104.17.148.22:8080/?type=ws&encryption=none&host=1.V
 vless://telegram-id-PcV2ray@104.17.148.22:8080/?type=ws&encryption=none&host=1.V2.g.www.speedtest.net.mehpow.iR.&path=%2F-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry-TEL--PcV2ry%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://tel--ZEDMODEON@[2a0d:5940:48:11::]:25365/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-BIA-ZEDMODEON&sni=eset.com&security=reality&pbk=ajWzezjXJbQOOtSODCv4_lj5rdvIQ-mgxTBpmfPntg4&sid=15fe3ec5#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:53421/?type=tcp&encryption=none#%E2%98%ACSH%CE%9E%D0%AFVIN%E2%84%A2
+vless://87571e5d-b38e-4007-cf53-cfe3100912b6@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws83.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2

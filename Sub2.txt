@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@tgju.org:2053?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.SAssANidEmPiRe.Com&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-50%2C20-50&sni=aboutus.SAssANidEmPiRe.Com#RELAY🚩 | aboutus.SAssANidEmPiRe.Com-2053 | 6.03ms
-vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@indeed.com:443?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.sassAnIdeMPirE.COm&security=tls&alpn=h2.http%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=aboutus.sassAnIdeMPirE.COm#RELAY🚩 | aboutus.sassAnIdeMPirE.COm-443 | 6.29ms
 vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@economist.com:2053?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.sAssanIDEmPIRE.COM&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=aboutus.sAssanIDEmPIRE.COM#RELAY🚩 | aboutus.sAssanIDEmPIRE.COM-2053 | 6.15ms
 vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@indeed.com:443?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.saSsANIdempIRE.CoM&security=tls&alpn=http%2F11.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=aboutus.saSsANIdempIRE.CoM#RELAY🚩 | aboutus.saSsANIdempIRE.CoM-443 | 6.12ms
 vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@indeed.com:2096?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.SAsSAniDeMPIRE.coM&security=tls&alpn=http%2F11.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=aboutus.SAsSAniDeMPIRE.coM#RELAY🚩 | aboutus.SAsSAniDeMPIRE.coM-2096 | 6.22ms
@@ -603,3 +601,5 @@ hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@54.64.148.82:3074
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@57.180.35.76:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_76%20%40wangcai_8
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.@WangCai2#⚜️2@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B023%40oneclickvpnkeys
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-13.231.105.239:3074
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@139.162.119.212:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B027%40oneclickvpnkeys
