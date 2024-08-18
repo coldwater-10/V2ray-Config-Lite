@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@jp.zhenshihui.one:48489/#%40V2rayMiner
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@jp2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@sg.zhenshihui.one:48489/#%40V2rayMiner
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@sg2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@kr.zhenshihui.one:48489/#%40V2rayMiner
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@us.zhenshihui.one:48489/#%40V2rayMiner
-hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
-hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
-hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner
-hy2://rs3h2c9n8X@65.21.158.249:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
-hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1#%40V2rayMiner
-hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg.zhenshihui.one:48489/#%40V2rayMiner
@@ -603,3 +587,19 @@ vless://390559e3-4c68-4703-be4b-112270e3059d@172.67.138.69:8080?encryption=none&
 vless://98524a0e-319e-47e3-bcf7-3bd349fe4b3c@66.235.200.6:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://98524a0e-319e-47e3-bcf7-3bd349fe4b3c@104.18.172.40:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@www.speedtest.net:443?encryption=auto&host=fastxv.pages.dev&path=%2Fca1&security=tls&sni=pages.dev&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d@185.146.173.59:443?encryption=auto&host=obdii.cfd&path=%2Flinkws&security=tls&sni=obdii.cfd&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d@188.114.96.2:443?encryption=auto&host=obdii.cfd&path=%2Flinkws&security=tls&sni=obdii.cfd&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://f584de15-2034-4170-a723-f48c2bae5e0f@188.114.97.3:443?encryption=auto&host=afrhms16v.bestxray.buzz&path=%2Flinkws&security=tls&sni=afrhms16v.bestxray.buzz&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@172.67.146.10:443?encryption=auto&host=sareikela.com&path=%2Flinkvws&security=tls&sni=sareikela.com&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://edbb1059-1633-4271-b66e-ed4fba47a1bf@188.114.97.7:443?encryption=auto&host=linde06.indiavideo.sbs&path=%2Flinkws&security=tls&sni=linde06.indiavideo.sbs&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://4797db37-41dc-4bfc-a59f-6c7055b1d15b@104.21.106.68:80?encryption=auto&host=1270.0.1.dl3.%E7%83%8F%E5%85%8B%E7%88%BE%E6%8B%AF%E6%95%91%E8%81%96.y%D1%80%D0%BA%D0%B5%D0%BB%D1%8C%D0%BF%D0%B0%D1%81%D0%B0%D0%B5%D1%82c%D0%B0%D0%BD%D1%82%D1%83.%D1%84%D0%B8%D0%BB%D1%8C.www.speedtest.com.wonkacapitano.buzz.&path=%2Fvmess&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://ab516a4a-5cec-47cf-9243-269dbfbca323@79.127.69.120:6338?encryption=none&type=tcp#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://1e6c81e6-4089-4839-f5fc-c8cc6acb5a76@[2001:4ba0:92c1:0072:cf5b:c801:a003:5be9]:8080?encryption=auto&headerType=http&host=speed.de-west-02.wiit-cloud.io.prod.hosts.ooklaserver.net&path=%2Fdownload&type=tcp#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://b23a6785-35e6-54b0-b023-c934738f4164@[2a0d:5940:94:1::]:25365?encryption=none&fp=chrome&pbk=O3eSQ8SJp6uC6YZMPPCnHmOlSH1RK9Yyf-P8hmH3En8&security=reality&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sid=8362e2fd&sni=eset.com&spx=%2F&type=grpc#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://8d4af06d-598e-46bd-84c7-ac333a22437b@104.18.45.26:80?encryption=auto&host=127.0.0.1.%E5%A4%AA%E7%A9%BA.spacecadet.j%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%D0%BA%D0%B0%D0%B4%D0%B5%D1%82.%E5%AE%89%E9%9D%9C%E5%9C%B0%E6%96%B9%E7%AC%AC%E5%A4%A9day.wonkacapitano.buzz.&path=%2Fvmess&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
+vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@151.101.2.219:443?encryption=none&host=01.ir&path=%2Fwebsocket%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=speedtest.net&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
+vmess://a1655f51-1e20-4a92-8a11-b7ca30a7a353@162.159.129.129:443?encryption=auto&host=fastxv.pages.dev&path=%2Ff2&security=tls&sni=pages.dev&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d@104.26.0.95:443?encryption=auto&host=obdii.cfd&path=%2Flinkws&security=tls&sni=obdii.cfd&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
+vmess://4797db37-41dc-4bfc-a59f-6c7055b1d15b@104.25.181.33:80?encryption=auto&host=1270.0.1.dl3.%E7%83%8F%E5%85%8B%E7%88%BE%E6%8B%AF%E6%95%91%E8%81%96.y%D1%80%D0%BA%D0%B5%D0%BB%D1%8C%D0%BF%D0%B0%D1%81%D0%B0%D0%B5%D1%82c%D0%B0%D0%BD%D1%82%D1%83.%D1%84%D0%B8%D0%BB%D1%8C.www.speedtest.com.wonkacapitano.buzz.&path=%2Fvmess&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://62aa5f80-0328-4004-a375-7f5a59df4022@104.21.9.236:443?encryption=auto&host=hms19.best-tizi.top&path=%2Flinkws&security=tls&sni=hms19.best-tizi.top&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
+vless://346dc791-6f67-5b8b-8453-ee705077378e@104.17.148.22:2052?encryption=none&host=8.V2.d.www.speedtest.net.mehpow.iR.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
