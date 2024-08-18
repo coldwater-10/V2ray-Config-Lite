@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@kr.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@hk.zhenshihui.one:48489/#%40V2rayMiner
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@jp.zhenshihui.one:48489/#%40V2rayMiner
@@ -593,13 +603,3 @@ vless://346dc791-6f67-5b8b-8453-ee705077378e@104.17.148.22:2052?encryption=none&
 vless://8c8a7ab5-f659-4795-8e2f-c7610e1b55e8@104.17.95.92:8080?encryption=none&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
 vless://8c8a7ab5-f659-4795-8e2f-c7610e1b55e8@66.235.200.59:8080?encryption=none&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://a34ada0b-dba9-5611-ba9b-fd0a06ebbece@162.251.82.56:8080?encryption=none&host=ElcAPoMahaNOkAPElO.koUrdsPEED.IR.&path=%2F%3Fed%3D2053&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vmess://62aa5f80-0328-4004-a375-7f5a59df4022@172.67.131.17:443?encryption=auto&host=hms19.best-tizi.top&path=%2Flinkws&security=tls&sni=hms19.best-tizi.top&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vmess://79a584cd-a4de-49b3-f2c3-747288ce5306@[2a03:6f00:a::2125]:8080?encryption=auto&type=tcp#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://bc71f8cb-4923-46f0-e5ad-70d68544def2@www.speedtest.net:2052?encryption=none&host=4.V2.h.www.speedtest.net.asve.iR.&path=%2F%3Fed%3D2560&type=httpupgrade#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://dcc4774b-da39-5483-a808-f2ac2213076e@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&type=httpupgrade#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://346dc791-6f67-5b8b-8453-ee705077378e@104.17.147.22:8880?encryption=none&host=1.www.speedtest.net.E.speedtest-2.Shop.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&type=httpupgrade#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?encryption=none&host=fastxv.pages.dev&path=%2FXV2ray%3Fed%3D512&security=tls&sni=pages.dev&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://dcc4774b-da39-5483-a808-f2ac2213076e@[2a01:4f8:1c1b:26eb::1]:8888?encryption=none&type=tcp#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://dcc4774b-da39-5483-a808-f2ac2213076e@[2a01:4f8:1c1b:26eb::1]:8888?encryption=none&type=tcp#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://dcc4774b-da39-5483-a808-f2ac2213076e@[2a01:4f8:1c1b:26eb::1]:8888?encryption=none&type=tcp#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://cccb4f83-3c1b-5749-984f-59d8691f5e13@[2a01:4f8:c010:c9a::1]:30490?encryption=none&type=tcp#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
