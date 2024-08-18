@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@jp2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@sg.zhenshihui.one:48489/#%40V2rayMiner
