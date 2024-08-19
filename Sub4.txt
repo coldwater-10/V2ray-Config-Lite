@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://986f0a76-b7f8-480e-96f9-c9ac6ee2993d@us.zhenshihui.one:48489/#%40V2rayMiner
+hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
+hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
+hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner
+hy2://rs3h2c9n8X@65.21.158.249:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
+hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1#%40V2rayMiner
+hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
@@ -593,13 +603,3 @@ vmess://eyJhZGQiOiIxNzIuNjQuMTcxLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxMDQuMjUuMTgxLjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxMjcwLjAuMS5kbDMu54OP5YWL54i+5ouv5pWR6IGWLnnRgNC60LXQu9GM0L/QsNGB0LDQtdGCY9Cw0L3RgtGDLtGE0LjQu9GMLnd3dy5zcGVlZHRlc3QuY29tLndvbmthY2FwaXRhbm8uYnV6ei4iLCJpZCI6IjQ3OTdkYjM3LTQxZGMtNGJmYy1hNTlmLTZjNzA1NWIxZDE1YiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoi4pisIFNIzp7Qr1ZJTuKEoiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://3a063b76-818c-4e14-dabe-9afced611bb9@213.176.127.194:52281/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vmess://eyJhZGQiOiIyYTAzOjZmMDA6YTo6MjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZWZkNDFhOC1jNmVkLTQ5ZGUtOWNhMi1jNDk5NGEzYjkzOTQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://c3b84980-e109-49d3-a216-c5daa5325480@104.16.232.76:80/?type=ws&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLimKwgU0jOntCvVklO4oSiIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@35.158.178.67:8880/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:22481/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://3a063b76-818c-4e14-dabe-9afced611bb9@213.176.127.194:52281/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:45075/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:45075/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://7062ec4a-2ce0-49bc-b7b3-ec37ef7f17d6@104.21.45.21:443?alpn=http%2F1.1&encryption=none&host=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&sni=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@172.67.70.167:443?encryption=auto&host=cake.capellare.com&path=%2Flinkvws&security=tls&sni=cake.capellare.com&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vmess://950db6aa-4926-4616-816e-ec0312dcb87b@172.67.183.220:443?encryption=auto&host=jahfkjha.cfd&path=%2Flinkws&security=tls&sni=jahfkjha.cfd&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
