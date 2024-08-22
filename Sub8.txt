@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://Filter-Shcan@188.245.92.41:443/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://Filter-Shcan@188.245.92.41:443/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:22481/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:22481/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://a33a4892-8d1b-45f8-a9f1-cef297dc3a8f@85.234.106.16:29329/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://a33a4892-8d1b-45f8-a9f1-cef297dc3a8f@85.234.106.16:29329/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vmess://eyJhZGQiOiIyMDAxOjRiYTA6OTJjMTowMDcyOmNmNWI6YzgwMTphMDAzOjViZTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkLmRlLXdlc3QtMDIud2lpdC1jbG91ZC5pby5wcm9kLmhvc3RzLm9va2xhc2VydmVyLm5ldCIsImlkIjoiMWU2YzgxZTYtNDA4OS00ODM5LWY1ZmMtYzhjYzZhY2I1YTc2IiwibmV0IjoidGNwIiwicGF0aCI6Ii9kb3dubG9hZCIsInBvcnQiOiI4MDgwIiwicHMiOiLimKwgU0jOntCvVklO4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:22481/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:45075/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -603,3 +595,11 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@138.201.204.218:8443/?type=ws&encry
 vmess://eyJhZGQiOiIxMDQuMTkuMTE5LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFiMWVlMWFjLTg4NGMtNDRkYy1hYjY1LWQ1MzNkMzJlMmIxYSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIyMDUyIiwicHMiOiLwn5GJ8J+GlCBAdjJyYXlfY29uZmlnc19wb29sICgyMCkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://c4e8402@109.61.42.32:18477/?type=grpc&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%28145%29
 vless://Parsashonam-44@185.146.173.39:8880/?type=httpupgrade&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%28146%29
+vless://c988cdbb-675e-40c0-b8e8-53962569a6ae@188.114.97.3:443/?type=ws&encryption=none&host=98f29237.VpNHaven.PAGeS.DeV&path=%2FKGKnBjRLwroyXGs9%3Fed%3D2560&security=tls&sni=98F29237.vpNhAVeN.paGeS.dev&alpn=h2%2Chttp%2F1.1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60
+vless://Mahanvpn-Team-1@172.66.44.172:2052/?type=httpupgrade&encryption=none#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigsHub%60%20%2814%29
+vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443/?type=ws&encryption=none&host=ArIAmehR-447.PAgES.Dev&path=%2F%3Fed%3D2560&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%281%29
+vless://8adb2275-c1db-422d-8847-d0c1894a132b@188.114.98.45:8080/?type=httpupgrade&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%28149%29
+vless://43b87968-d59f-4ccc-98ca-9beb0153c22a@104.21.94.168:8080/?type=ws&encryption=none&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%283%29
+vless://ee7c996a-1503-41d4-bc3e-1ca3ee5cd979@104.17.147.22:2052/?type=httpupgrade&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%28152%29
+vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@104.21.50.213:443/?type=ws&encryption=none&path=%2Fmasin&security=tls&sni=masin.minusober.com#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%284%29
+vless://110184b3-37c8-4590-93ee-132cfb85c9c4@172.67.2.238:8880/?type=ws&encryption=none&host=matin-sayad-poor-a7d3.jefalo5433.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60%20%2894%29
