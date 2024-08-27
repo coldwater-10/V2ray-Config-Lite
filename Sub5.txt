@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://f467b6a4-70e0-4f3d-b6ad-093c3b600576@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws87.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://7a70e749-a876-510b-abea-bfd364f481d6@172.67.171.93:443/?type=ws&encryption=none&host=de3.vless.site&path=%2Fvless%3Fed%3D443&security=tls&sni=de3.vless.site#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://4ab541aa-a815-47e4-bfc9-47d32ef80467@104.17.147.22:2082/?type=ws&encryption=none&host=academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcademiGroup.IR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://4c31128c-f110-4ee3-a4ca-b51d384ef5ce@88.198.127.140:12345/?encryption=none&host=uplod.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://f56d2364-b599-4b91-b5ea-edba54834d9c@172.67.199.19:8080/?type=ws&encryption=none&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://f56d2364-b599-4b91-b5ea-edba54834d9c@188.114.96.1:8080/?type=ws&encryption=none&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://dd5dbf0a-040a-4ccf-97f1-1b84fea27783@[2a06:98c1:3123::]:8080/?type=ws&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://aeb7ae4a-8cbd-4485-8c0c-d4f28a4176b7@[2606:4700:3108::ac42:2b36]:2087/?type=ws&encryption=none&host=lead.vista-eas.com&path=%2F&security=tls&sni=site.vista-eas.com&fp=randomized#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -596,10 +603,3 @@ vmess://eyJhZGQiOiI0Ni4zLjk5LjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Qi
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053/?type=ws&encryption=none&host=cXrolvpn.pagEs.DEv&path=%2Ftelegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&sni=cXrOLvPn.PAgEs.dev#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://bia--ZEDMODEON@speedtest.net:443/?type=ws&encryption=none&host=snapptrip.com&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&sni=speedtest.net#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://biatoo--ZEDMODEON@speedtest.net:443/?type=ws&encryption=none&host=snapp.taxi&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&sni=speedtest.net#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053/?type=ws&encryption=none&host=cXrolvpn.pagEs.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=cXrOLvPn.PAgEs.dev#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:44929/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:44929/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:43258/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
