@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://telegram-id-ArV2ray@188.245.32.88:2095/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://2d6d63be-e9a6-4477-9070-38f38089c46c@49.13.130.230:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://telegram-id-PcV2ray@49.13.167.82:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://36c038c9-4afd-4bf1-91f9-a80669fb8b9c@78.46.242.92:8080/?type=tcp&encryption=none#%40V2rayMiner
