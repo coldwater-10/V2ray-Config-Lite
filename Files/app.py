@@ -89,6 +89,7 @@ def main():
         "http://65.21.158.249:2096/sub/VbCim1uK?",
         "https://q50kqax6mo9llbitpzdh.bamengine.ir/0icfexpsyznb7mqtos7voo1ghkakbbvpvumkht3s2jxsm0upry/Hdhdhfhfjrudy?",
         "https://s6h.newbitplatform.com/ZTSjltlKHm0ty82DxVsxbDSIq1C4j/d24ab9af-c1c7-4183-a68d-4a708e45e9c9/sub64/?asn=unknown#default",
+        "http://103.196.20.127/api/v1/client/subscribe?token=ba1205a8193bdf364fc70eb5bd5efb0d#subscribe?token=ba1205a8193bdf364fc70eb5bd5efb0d",
         "https://free2s.iserver.store:2096/sub/Kevin-Frankfurt2?",
     ]
     dir_links = [
@@ -97,6 +98,7 @@ def main():
         "https://fiber.isherv.in",
         "https://api.yebekhe.link/shervin",
         "http://yalda.nscl.ir",
+        "https://raw.githubusercontent.com/ysmoradi/v/main/1",
         "Http://mosi.monster.freehost.io/Mosi/@FREE2CONFIG.Reality.txt",
         "https://raw.githubusercontent.com/darknessm427/miner/main/Miner/normal",
         "https://raw.githubusercontent.com/XYZMojtaba/V2rayMiner/main/Miner/normal",
