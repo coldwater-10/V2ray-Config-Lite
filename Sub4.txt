@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#1
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#HYSTERIA FRANCE
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#♾️1@oneclickvpnkeys
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️ @vipv2rey(Hysteria1)
@@ -603,3 +602,4 @@ vless://585a4670-f905-4043-a9a7-757c14f55621@185.155.72.114:28732/?encryption=no
 vless://4c31128c-f110-4ee3-a4ca-b51d384ef5ce@88.198.127.140:12345/?encryption=none&host=uplod.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://2a9c29ab-9610-5f8b-85e3-c5a07dd20f32@190.93.247.116:8080/?type=ws&encryption=none&host=Fr2.vless.site.&path=%2Fvless%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://f467b6a4-70e0-4f3d-b6ad-093c3b600576@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws87.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053/?type=ws&encryption=none&host=cXrolvpn.pagEs.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=cXrOLvPn.PAgEs.dev#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2

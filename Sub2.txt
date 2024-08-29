@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@tgju.org:2083?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.SassANIdemPIRE.Com&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=aboutus.SassANIdemPIRE.Com#RELAY🚩 | aboutus.SassANIdemPIRE.Com-2083 | 2.44ms
 vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@indeed.com:2096?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.sassanIdempirE.cOm&security=tls&alpn=h2.http%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=aboutus.sassanIdempirE.cOm#RELAY🚩 | aboutus.sassanIdempirE.cOm-2096 | 2.33ms
 vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@tgju.org:2087?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.SAsSANidEMpiRe.COm&security=tls&alpn=http%2F11.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=aboutus.SAsSANidEMpiRe.COm#RELAY🚩 | aboutus.SAsSANidEMpiRe.COm-2087 | 2.31ms
 vless://fcc1b8de-e32a-50b2-ad4f-ef69648aa418@indeed.com:443?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=aboutus.saSsANIdEmpiRe.cOM&security=tls&alpn=h2.http%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=aboutus.saSsANIdEmpiRe.cOM#RELAY🚩 | aboutus.saSsANIdEmpiRe.cOM-443 | 2.5ms
@@ -603,3 +602,4 @@ hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@141.147.156.213:52773/?insecure=1&sni
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@141.147.156.213:52773/?insecure=1&sni=h05.trojan.tel#⚓11@oneclickvpnkeys
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@141.147.156.213:52773?insecure=1&sni=h05.trojan.tel#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@141.147.156.213:52773?insecure=1&sni=h05.trojan.tel#🔒 HYSTERIA-UDP 🇯🇵 JP-141.147.156.213:52773
+hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@152.69.195.193:52773/?insecure=1&sni=h06.trojan.tel#%E2%9A%9310%40oneclickvpnkeys
