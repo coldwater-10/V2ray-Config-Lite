@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=google.com#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20109.104.152.89%20%E2%97%88%20udp:22441%20%E2%97%88%20BrainStorm%20Network,%20Inc%20/%20Oneprovider.com%20%E2%97%88%206030e
-hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇺🇸 US-109.104.152.89:22441
-hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇺🇸 US-109.104.152.89:22441 📡 PING-000.00-MS
 hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=porix#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Kansas%20City%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=porix#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20109.104.152.89%20%E2%97%88%20udp:22441%20%E2%97%88%20BrainStorm%20Network,%20Inc%20/%20Oneprovider.com%20%E2%97%88%201771e
 hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=porix#🔒 HYSTERIA-UDP 🇺🇸 US-109.104.152.89:22441
@@ -603,3 +600,6 @@ vless://7d043a1c-5417-491e-8c0a-d12f1dd8474a@87.107.146.77:8880/?type=ws&encrypt
 vless://ad434f1b-7e0b-4077-8b6a-445ab65ff267@104.25.0.86:8080/?type=ws&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.SiMansaNaT.Ir.#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNTciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+lgiDwnZGE8J2RovCdkZLwnZGS8J2RmyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNTAiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+lgiDwnZGE8J2RovCdkZLwnZGS8J2RmyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNTIiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+lgiDwnZGE8J2RovCdkZLwnZGS8J2RmyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://telegram-id-directvpn@51.44.2.49:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
+vmess://eyJhZGQiOiIxOTguMi4yMTguMTA4IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxNDAwIiwicHMiOiLimKwgU0jOntCvVklO4oSiIPCfpYIg8J2RhPCdkaLwnZGS8J2RkvCdkZsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
