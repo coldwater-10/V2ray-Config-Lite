@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://518bd7b3-f67c-4fce-f601-54506be8969c@65.21.188.58:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FTelegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://edade224-ab25-46e0-a41b-b415b182a59d@65.109.206.218:80/?type=ws&encryption=none&host=qwerdgy47892drvseddsesswdownload.namava.network&path=%2F54051%2Fdownload&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://220b6d1b-3de8-4d14-9471-432d0e08ed64@65.109.9.5:20000/?encryption=none&host=vkvd127.mycdn.me&type=tcp&headerType=http#%40V2rayMiner
 vless://188e716e-3350-41f6-8402-0a6fc8fa4519@95.216.204.122:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
