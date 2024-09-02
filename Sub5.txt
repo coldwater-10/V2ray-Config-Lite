@@ -593,7 +593,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004/?type=tcp&encryption=n
 
 
 .
-vless://%38%38%64%63%37%62%35%36%2d%61%61%37%37%2d%34%31%36%63%2d%61%32%64%65%2d%66%37%66%65%39%35%61%65%32%33%38%66@104.21.20.148:8880?Telegram=@V2RayTz,@V2RayTz&type=httpupgrade&path=%2FSHHPROXY%3Fed%3D2048&host=SHH%70rox%79--s%68hPR%4fXY-%2dSHH%70rox%79.Pl%75sFo%6fd.o%72g.&security=none#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+All+%7C+30443
+vless://14202ac6-fda1-525c-a359-58d69199f997@104.21.51.208:2052?path=%2Fhttpupgrade%2F%40ELiV2ray-%40ELiV2ray-EleNa-TheGreatDictator%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ray.crypto.se1.vless.Sitespeedtest.net.&type=httpupgrade#MCI-%40ELiV2ray
 vless://db92d9ef-8201-4ebe-9e37-497220f64aaf@104.16.11.133:80?path=/@Vpn_MikeyØ@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@meli_proxyy
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.161:443/?type=ws&encryption=none&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random#%F0%9F%93%8061%40oneclickvpnkeys
 vless://50b852f7-674f-4e1d-aedb-ec5eae3990c4@188.114.97.160:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-kanal-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2048&security=none&encryption=none&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#telegram+%40proxy_mtm
