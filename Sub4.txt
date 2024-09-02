@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪@ELiV2ray
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪@TEHRANARGO
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=EliV2ray.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇳🇱NL-ipv6
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=eliv2ray.elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#NL-@ELiV2ray
@@ -603,3 +602,4 @@ vless://87d803c7-f879-478e-e1f2-738d804de98e@[2a06:98c1:3121::3]:80/?type=ws&enc
 vless://2a9c29ab-9610-5f8b-85e3-c5a07dd20f32@190.93.247.116:8080/?type=ws&encryption=none&host=Fr2.vless.site.&path=%2Fvless%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.18.18.37:2053/?type=ws&encryption=none&host=FrEeDOM2.paGES.dEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2048&security=tls&sni=FrEeDOM2.paGES.dEV&alpn=http%2F1.1#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
 vless://cbeb450f-df92-46bf-9817-06d733118932@198.41.193.40:80/?type=ws&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
+vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLimKwgU0jOntCvVklO4oSiIPCfpYIg8J2RhPCdkaLwnZGS8J2RkvCdkZsiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
