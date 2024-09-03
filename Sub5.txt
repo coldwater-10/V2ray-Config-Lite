@@ -4,7 +4,6 @@
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNDciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+fpvCfn6giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNDciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+fpvCfn6giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNDciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+fpvCfn6giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -603,3 +602,4 @@ vless://65f299ae-a727-4df7-abd6-383d427f4ace@104.17.147.22:2095/?type=ws&encrypt
 vless://13f842a4-fce1-434e-8f0d-d761ac4678cc@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws89.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
 vless://13f842a4-fce1-434e-8f0d-d761ac4678cc@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws89.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
 vless://13f842a4-fce1-434e-8f0d-d761ac4678cc@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws89.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
+vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80/?type=ws&encryption=none&host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.&path=%2FJoinTelegram-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
