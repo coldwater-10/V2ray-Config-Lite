@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
-hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#ℹ️7@oneclickvpnkeys
-hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-34.92.152.163:11451
-hy2://maniubi@123.maniubi.filegear-sg.me:60800/?insecure=1&sni=www.bing.com#%E5%B7%B4%E8%A5%BF%40oneclickvpnkeys
-hy2://maniubi@123.maniubi.filegear-sg.me:60800/?insecure=1&sni=www.bing.com#巴西@oneclickvpnkeys
-hy2://maniubi@129.148.33.28:60800?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-129.148.33.28:60800
-hy2://maniubi@168.75.65.36:60800/?insecure=1&sni=www.bing.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-hy2://maniubi@168.75.65.36:60800?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-168.75.65.36:60800
 hy2://miaoge110.@170.64.183.54:33939?insecure=1&sni=www.bing.com#🇦🇺AU%20|%20hy2%20|%20@TUICity%20|%203
 hy2://miaoge110.@170.64.183.54:33939?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇺 AU-170.64.183.54:33939
 hy2://sTeki1$re5!8swohopro@78.141.215.68:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#@Zede_filteri 🇳🇱
@@ -313,7 +305,7 @@ vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@kcjb.cloudflare.182682.xyz:80?mode=
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@fast.issue.us.kg:80?mode=multi&security=&encryption=none&type=ws&path=%2F&host=dci-marseille-1.wymv.top#%E9%A9%AC%E8%B5%9B-CF%E5%A4%9A%E7%BA%BF-1
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@xn--b6gac.eu.org:80?mode=multi&security=&encryption=none&type=ws&path=%2F&host=dci-dubai-1.wymv.top#%E8%BF%AA%E6%8B%9C-CF%E5%A4%9A%E7%BA%BF-1
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@cfip.cfcdn.vip:80?mode=multi&security=&encryption=none&type=ws&path=%2F&host=dci-dubai-1.wymv.top#%E5%A4%9A%E4%BC%A6%E5%A4%9A-CF%E5%A4%9A%E7%BA%BF-1
-vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@47.238.115.89:443?mode=multi&security=tls&encryption=none&type=tcp&sni=hk-al-1.wymv.top#%E9%A6%99%E6%B8%AF-1
+vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@47.238.115.89:4433?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=hk-al-1.wymv.top#%E9%A6%99%E6%B8%AF-1
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@8.217.102.5:443?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=hk-al-2.wymv.top#%E9%A6%99%E6%B8%AF-2
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@149.104.26.31:443?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=hk-yc.wymv.top#%E9%A6%99%E6%B8%AF-3
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@47.236.128.92:443?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=sg-al.wymv.top#%E6%96%B0%E5%8A%A0%E5%9D%A1-1
@@ -603,3 +595,11 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004/?type=tcp&encryption=n
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNDciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+fpvCfn6giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNDciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+fpvCfn6giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNDciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKIg8J+fpvCfn6giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://65f299ae-a727-4df7-abd6-383d427f4ace@104.17.147.22:2095/?type=ws&encryption=none&host=Academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcadeMigroup.IR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
+vless://65f299ae-a727-4df7-abd6-383d427f4ace@104.17.147.22:2095/?type=ws&encryption=none&host=Academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcadeMigroup.IR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
+vless://65f299ae-a727-4df7-abd6-383d427f4ace@104.17.147.22:2095/?type=ws&encryption=none&host=Academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcadeMigroup.IR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
+vless://13f842a4-fce1-434e-8f0d-d761ac4678cc@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws89.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
+vless://13f842a4-fce1-434e-8f0d-d761ac4678cc@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws89.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
+vless://13f842a4-fce1-434e-8f0d-d761ac4678cc@104.17.148.22:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws89.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
+vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80/?type=ws&encryption=none&host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.&path=%2FJoinTelegram-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8
+vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80/?type=ws&encryption=none&host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.&path=%2FJoinTelegram-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%9F%A6%F0%9F%9F%A8

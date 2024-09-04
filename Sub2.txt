@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.25.104.216:8443?encryption=none&type=ws&host=msDONOr.pAges.dEV&security=tls&sni=msDonOR.paGES.dEV&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2FsIZpNrSbIWOzUFXJ%3Fed%3D2560#RELAY🚩 | msDonOR.paGES.dEV-8443 | 6.14ms
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.20.35.88:8443?encryption=none&type=ws&host=MsdonOR.PAGEs.DEV&security=tls&sni=MSdonor.PaGeS.DEV&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2F9jpvKnotWaUziySp%3Fed%3D2560#RELAY🚩 | MSdonor.PaGeS.DEV-8443 | 7.89ms
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.24.52.201:8443?encryption=none&type=ws&host=mSdONOr.PAgES.dEV&security=tls&sni=MSdOnor.PaGeS.dev&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2Fh4Bfkv0e8l8f0auy%3Fed%3D2560#RELAY🚩 | MSdOnor.PaGeS.dev-8443 | 6.06ms
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.24.165.171:8443?encryption=none&type=ws&host=msdoNOr.PaGES.DEV&security=tls&sni=msDoNOR.PaGes.dEv&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2FQ9VkwE1UA6HpGfg7%3Fed%3D2560#RELAY🚩 | msDoNOR.PaGes.dEv-8443 | 6.31ms
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@msdonor.pages.dev:2053?encryption=none&type=ws&host=MsDOnoR.PAGeS.DEV&security=tls&sni=MSDonor.pagEs.dev&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2F77GBw4sT7a1YTp9G%3Fed%3D2560#RELAY🚩 | MSDonor.pagEs.dev-2053 | 6.39ms
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@www.speedtest.net:2053?encryption=none&type=ws&host=mSDoNor.PageS.dEv&security=tls&sni=msDOnOR.paGeS.deV&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2Fdq07j2ZAoUfhgaq4%3Fed%3D2560#RELAY🚩 | msDOnOR.paGeS.deV-2053 | 6.09ms
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@172.66.46.211:2053?encryption=none&type=ws&host=MSDonor.pAGES.Dev&security=tls&sni=msDoNOR.PaGes.Dev&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2Frlo9I5t9iCORFOtr%3Fed%3D2560#RELAY🚩 | msDoNOR.PaGes.Dev-2053 | 5.8ms
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@172.66.45.45:2053?encryption=none&type=ws&host=mSDOnor.PAGes.dev&security=tls&sni=MsdOnor.pages.Dev&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2F3wK8pV8GY5cWrXLJ%3Fed%3D2560#RELAY🚩 | MsdOnor.pages.Dev-2053 | 5.91ms
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@[2606:4700:310c::ac42:2d2d]:2053?encryption=none&type=ws&host=MsDonOR.pAGeS.dEV&security=tls&sni=MSdOnoR.PAgeS.dev&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2FRyfWdXBrY4Xd2nJI%3Fed%3D2560#RELAY🚩 | MSdOnoR.PAgeS.dev-2053 | 5.94ms
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@[2606:4700:310c::ac42:2ed3]:2053?encryption=none&type=ws&host=MsDOnoR.pAGes.DEV&security=tls&sni=msdonOR.pAgEs.deV&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2Fhd2kpQYIQh8CYWnc%3Fed%3D2560#RELAY🚩 | msdonOR.pAgEs.deV-2053 | 6.13ms
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@zula.ir:2053?encryption=none&type=ws&host=MSdOnoR.pAGes.dEv&security=tls&sni=mSDOnOr.Pages.Dev&fp=randomized&alpn=h2%2Chttp%2F1.1&path=%2F9wVx5S6jvq8IhSiR%3Fed%3D2560#RELAY🚩 | mSDOnOr.Pages.Dev-2053 | 5.95ms
@@ -191,14 +183,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#US%F0%
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 
-hy2://fc38fd12-2f14-442a-91f0-1967055e9c08@207.211.164.255:44300?insecure=1&sni=us-01.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.164.255:44300
-hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#🔒 HYSTERIA-UDP 🇺🇸 US-66.135.28.59:443
-hy2://ac71c06e1336d0f7@193.57.41.31:443?obfs=salamander&obfs-password=159836e3&insecure=1#🔒 HYSTERIA-UDP 🇹🇷 TR-193.57.41.31:443
 hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#🔒 HYSTERIA-UDP 🇬🇧 GB-66.245.192.15:443
-hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#🔒 HYSTERIA-UDP 🇫🇷 FR-51.158.54.46:44550
+hy2://ac71c06e1336d0f7@193.57.41.31:443?obfs=salamander&obfs-password=159836e3&insecure=1#🔒 HYSTERIA-UDP 🇹🇷 TR-193.57.41.31:443
+hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#🔒 HYSTERIA-UDP 🇳🇱 NL-45.32.234.211:443
 hy2://de3c6567-1177-4b60-b1b0-89ea8b406c1b@149.130.210.148:44300?insecure=1&sni=us-01.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇺🇸 US-149.130.210.148:44300
 hy2://1a6d63c2-1ee5-41ea-be0d-678027c1656d@207.211.162.109:44300?insecure=1&sni=us-01.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.162.109:44300
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#🔒 HYSTERIA-UDP 🇳🇱 NL-45.32.234.211:443
+hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#🔒 HYSTERIA-UDP 🇺🇸 US-66.135.28.59:443
+hy2://fc38fd12-2f14-442a-91f0-1967055e9c08@207.211.164.255:44300?insecure=1&sni=us-01.worldfirst.eu.org#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.164.255:44300
+hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#🔒 HYSTERIA-UDP 🇫🇷 FR-51.158.54.46:44550
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️ @vipv2rey(Hysteria1)
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#⚡️@vipv2rey (Hysteria)
@@ -603,3 +595,11 @@ hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@18.183.245.244:30
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B03%40Antifilterjadid 
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B03%40oneclickvpnkeys
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@35.72.184.29:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B55%40Antifilterjadid 
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@35.72.184.29:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B55%40oneclickvpnkeys
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B58%40Antifilterjadid 
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B58%40oneclickvpnkeys
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B59%40Antifilterjadid 
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B59%40oneclickvpnkeys
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@43.207.142.72:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-43.207.142.72:3074
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B02%40Antifilterjadid 
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B02%40oneclickvpnkeys
