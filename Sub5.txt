@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41162/?insecure=1&sni=apple.com#â¬ SHÎÐ¯VINâ¢
 hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41163/?insecure=1&sni=apple.com#â¬ SHÎÐ¯VINâ¢
 hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41164/?insecure=1&sni=apple.com#â¬ SHÎÐ¯VINâ¢
 hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41200/?insecure=1&sni=apple.com#â¬ SHÎÐ¯VINâ¢
@@ -602,4 +603,3 @@ hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41132/?ins
 hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41133/?insecure=1&sni=apple.com#â¬ SHÎÐ¯VINâ¢
 hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41134/?insecure=1&sni=apple.com#â¬ SHÎÐ¯VINâ¢
 hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41136/?insecure=1&sni=apple.com#â¬ SHÎÐ¯VINâ¢
-hysteria2://cb32b3f7-1a74-4afd-9a6f-523b2f6cf050@cmcc.xn--jbyq16e.xyz:41137/?insecure=1&sni=apple.com#â¬ SHÎÐ¯VINâ¢
