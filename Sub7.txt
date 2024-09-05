@@ -3,29 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://9790f02f-9719-4de0-be33-5b30d006eaf0@chanel.lopanqo1.shop:8080/?type=ws&encryption=none&host=opa.kolacghi.ir&path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://bia--ZEDMODEON@45.145.43.132:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://5bdf790f-0af2-4481-a624-41b66e7e3489@185.254.97.110:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F%40ln2ray&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&sid=7554c6ea#%40V2rayMiner
-vless://world@5.181.23.116:7777/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://d12fd888-e00a-46b0-88f6-7d8ac86469dd@65.21.28.61:443/?type=ws&encryption=none&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D443&ed=443&eh=Sec-Websocket-Protocol&security=tls&sni=joinbedevmessorg.xn--54qv00ez5ar77g.co&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://edade224-ab25-46e0-a41b-b415b182a59d@65.109.206.218:443/?type=ws&encryption=none&host=qwerdgy47892drvseddsesswdownload.namava.network&path=%2F54051%2Fdownload&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=qwerdgy47892drvseddsesswdownload.namava.network&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://db9cf031-33ec-4a39-b27e-6da323144963@65.109.9.5:2053/?type=ws&encryption=none&host=shakhle.jd-vpn.shop.&path=%2F%40Jd_Vpn&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=shakhle.jd-vpn.shop.&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://c780cadb-7675-4368-bbda-a85c36f4a6ef@65.109.212.109:2096/?type=ws&encryption=none&host=fl.laknes.wiki&path=%2F&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=fl.laknes.wiki&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://beeedc2e-aaa6-4a60-b771-6daec05746d9@65.21.57.243:80/?type=ws&encryption=none&host=backup.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&path=49651%2Fscenic_photo&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://518bd7b3-f67c-4fce-f601-54506be8969c@65.21.188.58:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FTelegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://edade224-ab25-46e0-a41b-b415b182a59d@65.109.206.218:80/?type=ws&encryption=none&host=qwerdgy47892drvseddsesswdownload.namava.network&path=%2F54051%2Fdownload&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://220b6d1b-3de8-4d14-9471-432d0e08ed64@65.109.9.5:20000/?encryption=none&host=vkvd127.mycdn.me&type=tcp&headerType=http#%40V2rayMiner
-vless://188e716e-3350-41f6-8402-0a6fc8fa4519@95.216.204.122:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@57.128.25.48:443/?type=ws&encryption=none&host=unmanliest.appreviewcenter.com&path=%2Fnimws&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=unmanliest.appreviewcenter.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@57.128.28.249:443/?type=ws&encryption=none&host=masin.minusober.com&path=%2Fmasin&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=masin.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://1e038ff0-8678-464c-af28-0612d0c92b96@57.128.31.215:443/?type=ws&encryption=none&host=pesu.minusober.com&path=%2Fpesu&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=pesu.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@57.128.123.242:443/?type=ws&encryption=none&host=tere.minusober.com&path=%2Ftere&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=tere.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@152.228.242.27:443/?type=ws&encryption=none&host=auto.minusober.com&path=%2Fauto&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=auto.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://05ec2e61-efe9-4d5b-be47-5ba45a7890f8@213.32.90.17:2083/?type=tcp&encryption=none&sni=streaming.androidcentral.com&fp=chrome&security=reality&pbk=xTiUMLzUYkQ0tZFxQhQfnljI76_QtUIGrfcdyo1vGnA&sid=239F3F26#%40V2rayMiner
-vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@france.alighan.ir:2083/?type=ws&encryption=none&host=france.alighan.ir&path=%2Fvbd&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=france.alighan.ir&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@193.70.90.159:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Fwebsocket&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://43e00e4c-2316-4dc9-8262-cef31886dc56@51.77.108.58:443/?type=ws&encryption=none&host=marly.toptechnonews.com&path=%2Fnimws&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=marly.toptechnonews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@57.128.162.68:443/?type=ws&encryption=none&host=storeships.toptechnonews.com&path=%2Fnimws%3Fed%3D2560%40V2ray_Alpha&ed=2560&eh=Sec-Websocket-Protocol&security=tls&sni=storeships.toptechnonews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@57.128.164.150:443/?type=ws&encryption=none&host=thorianite.toptechnonews.com&path=%2Fnimws%3Fed%3D2560%40V2ray_Alpha&ed=2560&eh=Sec-Websocket-Protocol&security=tls&sni=thorianite.toptechnonews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
@@ -229,10 +206,10 @@ ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cG
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz04SiUyQkhzJTJGQ2ZoN0ZPVEMwNU5DNHhNREl1TlRjdU1UWXpMVFkwTlRVJTNEJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRZME56YyUzRCZwcm90b3BhcmFtPQ==
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-15-SHAHRIVAR-1403 🕑 18:31
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-15-SHAHRIVAR-1403 🕑 22:08
 tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@79.137.206.126:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#🆔goodbyefiltering%20🔒%20TU-UDP-N/A%20🇫🇮%20FI%20down
 tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@[2a12:5940:71f8::2]:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#🆔goodbyefiltering%20🔒%20TU-UDP-N/A%20❔%20XX%20down
-tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3#🆔univstar%20🔒%20TU-UDP-N/A%20❔%20XX%20down
+tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3#🆔univstar%20🔒%20TU-UDP-N/A%20🇺🇸%20US%20down
 tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?congestion_control=bbr&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#🆔vipv2rey%20🔒%20TU-UDP-N/A%20❔%20XX%20down
 tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?congestion_control=bbr&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#🆔vipv2rey%20🔒%20TU-UDP-N/A%20❔%20XX%20down
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#🆔vipv2rey%20🔒%20TU-UDP-N/A%20❔%20XX%20down
@@ -253,10 +230,10 @@ tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:44
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-15-SHAHRIVAR-1403 🕑 18:31
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-15-SHAHRIVAR-1403 🕑 22:08
 hysteria://108.181.5.133:26022?insecure=1&peer=google.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#🆔relaxv2ray%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
-hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxy%20🔒%20HY-UDP-N/A%20❔%20XX%20down
-hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20❔%20XX%20down
+hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
+hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
 hysteria://51.158.54.46:55396?insecure=1&peer=youku.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
 hysteria://130.61.24.219:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
 hysteria://fr1.chaoyuenode.sbs:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
