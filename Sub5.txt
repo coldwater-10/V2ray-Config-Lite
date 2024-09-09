@@ -600,6 +600,6 @@ vless://748f9035-775e-4b78-ae55-dfc54d6d51b5@162.159.153.2:80/?type=ws&encryptio
 
 
 .
-vless://e1baa082-e0aa-4ab6-a0df-eb56b1b80bb1@speedtest.net:443?path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=join-dailyconfigs.com&fp=random&type=ws&sni=speedtest.net#@meli_proxyy
+vless://%33%66%62%34%61%32%63%30%2d%35%66%37%39%2d%34%64%63%64%2d%38%34%39%32%2d%30%38%36%63%39%38%39%65%66%63%66%34@151.101.194.219:443?Telegram=@V2RayTz,@V2RayTz&security=tls&sni=spe%65dte%73t.n%65t&fp=fir%65fox&type=ws&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&host=htt%70.ww%77.sp%65edt%65st.%6eet.%66ast%2ecom%2eunl%69mit%65dde%76.ir%2e&encryption=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D+%E2%9E%A0+%40V2RayTz+-+All+%7C+30561
+vless://c7e47f82-79c4-4222-9ec9-6d184b36042f@speedtest.net:443?security=tls&sni=speedtest.net&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=http.www.speedtest.net.fast.com.google.com.vmessorg.ir.&encryption=none#vmessorg-
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443/?type=ws&encryption=none&host=tody.ir.&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%AA%9952%40oneclickvpnkeys
-vless://telegram-id-ArV2ray@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=dwojwh3.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS7-ALL|@ArV2ray
