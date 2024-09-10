@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-ca-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-ca-a-1.testred.xyz#%40V2rayMiner
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-nl-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-nl-a-1.testred.xyz#%40V2rayMiner
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-sw-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-sw-a-1.testred.xyz#%40V2rayMiner
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-sw-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-sw-a-2.testred.xyz#%40V2rayMiner
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-1.testred.xyz#%40V2rayMiner
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-hk-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-hk-a-1.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#@V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#@V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#@V2rayMiner
