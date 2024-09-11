@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443?sni=speedtest.realityforus.com#🔒 HYSTERIA-UDP 🇩🇪 DE-45.142.113.238:40443
-hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒 HYSTERIA-UDP 🇫🇷 FR-173.199.70.234:443
-hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒 HYSTERIA-UDP 🇫🇷 FR-173.199.70.234:443 📡 PING-000.00-MS
-hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.145.212.30:443?mport=21000-26000&insecure=1#🔒 HYSTERIA-UDP 🇫🇷 FR-141.145.212.30:443
-hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.148.245.250:443?mport=21000-26000&insecure=1#🔒 HYSTERIA-UDP 🇳🇱 NL-141.148.245.250:443
-hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@[2a01:4f9:c012:c28b::1]:34882?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f9:c012:c28b::1]:34882
-hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#%E2%9A%933%40oneclickvpnkeys
 hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#⚓3@oneclickvpnkeys
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-156.254.114.144:64470
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-156.254.114.144:64470 📡 PING-000.00-MS
@@ -603,3 +596,10 @@ vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.147.22:2082/?type=ws&encrypt
 vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.147.22:2082/?type=ws&encryption=none&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.147.22:2082/?type=ws&encryption=none&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://e33c881d-45d8-4b94-8763-d9b166aae168@104.17.147.22:2082/?type=ws&encryption=none&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://6c72ac2a-d6b9-4667-b9f5-3c69261436ec@104.17.148.22:8880/?type=ws&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://6c72ac2a-d6b9-4667-b9f5-3c69261436ec@104.17.148.22:8880/?type=ws&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vmess://eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiMmYxODhjNjEtNjYyMi00MDU2LTgxMGUtYTFhNWYxYzliMDIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwicG9ydCI6IjgwIiwicHMiOiLimKwgU0jOntCvVklO4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxOTguMi4yMTguMTA4IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxNDAwIiwicHMiOiLimKwgU0jOntCvVklO4oSiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://XpnTeam-Telegram-Channels-6@[2a01:4f8:1c1c:fcff::1]:39120/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:dc26::1]:19636/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:4bc4::1]:29510/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
