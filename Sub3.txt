@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://8bd4cc567f2845c1@[2a01:4f8:200:8095::7]:45176?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f8:200:8095::7]:45176
+hy2://NDUzMjA1OjI1NDg4OjgyN2YwYjdkMTQwOWFhYmQ@18.183.184.241:3074?insecure=1&sni=TG.@WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-18.183.184.241:3074
+hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#🔒 HYSTERIA-UDP 🇺🇸 US-66.135.28.59:443
+hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@209.38.66.185:40002?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-209.38.66.185:40002
+hy2://a8ba7a5f-8ca6-406a-bc79-92efa7326ed1@154.16.183.55:30102?insecure=1#🔒 HYSTERIA-UDP 🇭🇰 HK-154.16.183.55:30102
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️ @vipv2rey(Hysteria1)
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#⚡️@vipv2rey (Hysteria)
@@ -598,8 +603,3 @@ hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@60.249.35.96:3074
 hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇺🇸 US-178.236.237.84:443
 hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&sni=ELiV2RAY.ELENA.expert#fr-mci-@eliv2ray
 hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&sni=google.com#Hysteria%20%F0%9F%87%B3%F0%9F%87%B1%20%40v2meowcf
-hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&sni=warphiddify.expert#fr-mci-@warphiddify
-hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇳🇱 NL-45.135.180.4:443
-hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇳🇱 NL-45.135.180.4:443 📡 PING-084.38-MS
-hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=warphiddify.expert#🔒 HYSTERIA-UDP 🇳🇱 NL-45.135.180.4:443
-hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
