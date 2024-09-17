@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://2152a47a-265b-4b59-9e7f-8e92a66ddcac@drin2.irpodcasts.ir:36446/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tgju.org&fp=chrome&security=reality&pbk=qP4FiWub4j0vEEb53nu9Vv-XeLMcKRk0UcAe6qOYGDc&sid=324ed646#%40V2rayMiner
+vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@54.36.114.43:443/?type=ws&encryption=none&host=steel.footballlovernews.com&path=%2Fsteel&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=steel.footballlovernews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://19477f96-ea81-4f5b-93e7-119a171a7813@54.36.114.232:443/?type=ws&encryption=none&host=safe.footballlovernews.com&path=%2Fsafe&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=safe.footballlovernews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://d15f5947-f95c-4cc4-b8e0-20219e4bc2d1@57.129.30.134:443/?type=ws&encryption=none&host=divide.footballlovernews.com&path=%2Fdivide&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=divide.footballlovernews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://7502d8c0-b4cd-462f-93ec-b8e04e46caa8@135.125.216.154:443/?type=ws&encryption=none&host=map.footballlovernews.com&path=%2Fmap&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=map.footballlovernews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
