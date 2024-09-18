@@ -229,10 +229,10 @@ ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cG
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz04SiUyQkhzJTJGQ2ZoN0ZPVEMwNU5DNHhNREl1TlRjdU1UWXpMVFkxTkRBJTNEJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRZMU5qSSUzRCZwcm90b3BhcmFtPQ==
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-28-SHAHRIVAR-1403 🕑 01:48
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-28-SHAHRIVAR-1403 🕑 06:37
 tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@79.137.206.126:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#🆔goodbyefiltering%20🔒%20TU-UDP-N/A%20🇫🇮%20FI%20down
 tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@[2a12:5940:71f8::2]:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#🆔goodbyefiltering%20🔒%20TU-UDP-N/A%20❔%20XX%20down
-tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3#🆔univstar%20🔒%20TU-UDP-N/A%20🇺🇸%20US%20down
+tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3#🆔univstar%20🔒%20TU-UDP-N/A%20❔%20XX%205ms
 tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@[2a12:5940:72da::2]:8922?sni=www.google.com&alpn=h3%2C+spdy%2F3.1&congestion_control=bbr#🆔v2rayprotocol%20🔒%20TU-UDP-N/A%20❔%20XX%20down
 tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?sni=www.google.com&alpn=h3%2C+spdy%2F3.1&congestion_control=bbr#🆔v2rayprotocol%20🔒%20TU-UDP-N/A%20❔%20XX%20down
 tuic://2999e665-fa4e-498f-8417-4ab567010ed6:aa69e32eae500e1c@77.91.77.87:38382?sni=www.google.com&alpn=h3%2C+spdy%2F3.1&congestion_control=bbr#🆔v2rayprotocol%20🔒%20TU-UDP-N/A%20❔%20XX%20down
@@ -256,10 +256,10 @@ tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:44
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-28-SHAHRIVAR-1403 🕑 01:48
-hysteria://108.181.5.133:26022?insecure=1&peer=google.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#🆔relaxv2ray%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
-hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
-hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-28-SHAHRIVAR-1403 🕑 06:37
+hysteria://108.181.5.133:26022?insecure=1&peer=google.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#🆔relaxv2ray%20🔒%20HY-UDP-N/A%20❔%20XX%20down
+hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxy%20🔒%20HY-UDP-N/A%20❔%20XX%20down
+hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20❔%20XX%20down
 hysteria://51.158.54.46:55396?insecure=1&peer=youku.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
 hysteria://130.61.24.219:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
 hysteria://fr1.chaoyuenode.sbs:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
