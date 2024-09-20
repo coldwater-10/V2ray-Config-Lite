@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://d15f5947-f95c-4cc4-b8e0-20219e4bc2d1@57.129.30.134:443/?type=ws&encryption=none&host=divide.footballlovernews.com&path=%2Fdivide&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=divide.footballlovernews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://7502d8c0-b4cd-462f-93ec-b8e04e46caa8@135.125.216.154:443/?type=ws&encryption=none&host=map.footballlovernews.com&path=%2Fmap&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=map.footballlovernews.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://200e059b-51ec-4825-8e95-5e49db5d22ad@munich.butterfly-galaxy.com:443/?type=tcp&encryption=none&sni=analytics.google.com&fp=chrome&security=reality&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#%40V2rayMiner
 vless://349ca13d-a89d-4541-8701-69d9069d7172@141.95.108.25:2096/?type=ws&encryption=none&host=lathworks.aurorainiceland.com&path=%2Flathworks&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=lathworks.aurorainiceland.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://ed7e15af-8d2b-40a6-d78a-68096d594f05@95.179.170.227:2053/?type=ws&encryption=none&host=frag4.cpionline.cc&path=%2Fws&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=frag4.cpionline.cc&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
