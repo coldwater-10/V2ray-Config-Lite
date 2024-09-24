@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://188e716e-3350-41f6-8402-0a6fc8fa4519@95.216.204.122:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@57.128.25.48:443/?type=ws&encryption=none&host=unmanliest.appreviewcenter.com&path=%2Fnimws&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=unmanliest.appreviewcenter.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
+vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@57.128.28.249:443/?type=ws&encryption=none&host=masin.minusober.com&path=%2Fmasin&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=masin.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
+vless://1e038ff0-8678-464c-af28-0612d0c92b96@57.128.31.215:443/?type=ws&encryption=none&host=pesu.minusober.com&path=%2Fpesu&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=pesu.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
+vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@57.128.123.242:443/?type=ws&encryption=none&host=tere.minusober.com&path=%2Ftere&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=tere.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@152.228.242.27:443/?type=ws&encryption=none&host=auto.minusober.com&path=%2Fauto&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=auto.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://05ec2e61-efe9-4d5b-be47-5ba45a7890f8@213.32.90.17:2083/?type=tcp&encryption=none&sni=streaming.androidcentral.com&fp=chrome&security=reality&pbk=xTiUMLzUYkQ0tZFxQhQfnljI76_QtUIGrfcdyo1vGnA&sid=239F3F26#%40V2rayMiner
 vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@france.alighan.ir:2083/?type=ws&encryption=none&host=france.alighan.ir&path=%2Fvbd&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=france.alighan.ir&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
@@ -160,10 +166,10 @@ ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cG
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz04SiUyQkhzJTJGQ2ZoN0ZPVEMwNU5DNHhNREl1TlRjdU1UWXpMVFl4T0RBJTNEJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRZeU1ESSUzRCZwcm90b3BhcmFtPQ==
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Tue-03-MEHR-1403 🕑 09:54
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Tue-03-MEHR-1403 🕑 13:36
 tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@79.137.206.126:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#🆔goodbyefiltering%20🔒%20TU-UDP-N/A%20🇫🇮%20FI%20down
 tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@[2a12:5940:71f8::2]:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#🆔goodbyefiltering%20🔒%20TU-UDP-N/A%20❔%20XX%20down
-tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3#🆔univstar%20🔒%20TU-UDP-N/A%20🇺🇸%20US%2066ms
+tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3#🆔univstar%20🔒%20TU-UDP-N/A%20🇺🇸%20US%206ms
 tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@[2a12:5940:72da::2]:8922?sni=www.google.com&alpn=h3%2C+spdy%2F3.1&congestion_control=bbr#🆔v2rayprotocol%20🔒%20TU-UDP-N/A%20❔%20XX%20down
 tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?sni=www.google.com&alpn=h3%2C+spdy%2F3.1&congestion_control=bbr#🆔v2rayprotocol%20🔒%20TU-UDP-N/A%20❔%20XX%20down
 tuic://2999e665-fa4e-498f-8417-4ab567010ed6:aa69e32eae500e1c@77.91.77.87:38382?sni=www.google.com&alpn=h3%2C+spdy%2F3.1&congestion_control=bbr#🆔v2rayprotocol%20🔒%20TU-UDP-N/A%20❔%20XX%20down
@@ -190,7 +196,7 @@ tuic://2999e665-fa4e-498f-8417-4ab567010ed6:aa69e32eae500e1c@77.91.77.87:38382?s
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Tue-03-MEHR-1403 🕑 09:54
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Tue-03-MEHR-1403 🕑 13:36
 hysteria://108.181.5.133:26022?insecure=1&peer=google.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#🆔relaxv2ray%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
 hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
 hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
