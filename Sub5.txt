@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@cf.0sm.com:80?mode=multi&security=&encryption=none&type=ws&path=%2F&host=dci-london-1.wymv.top#%E4%BC%A6%E6%95%A6-CF%E5%A4%9A%E7%BA%BF-1
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@cnamefuckxxs.yuchen.icu:80?mode=multi&security=&encryption=none&type=ws&path=%2F&host=dci-london-1.wymv.top#%E4%BC%A6%E6%95%A6-CF%E5%A4%9A%E7%BA%BF-3
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@kcjb.cloudflare.182682.xyz:80?mode=multi&security=&encryption=none&type=ws&path=%2F&host=dci-tokyo-5.wymv.top#%E5%A4%A7%E9%98%AA-CF%E5%A4%9A%E7%BA%BF-5
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@fast.issue.us.kg:80?mode=multi&security=&encryption=none&type=ws&path=%2F&host=dci-marseille-1.wymv.top#%E9%A9%AC%E8%B5%9B-CF%E5%A4%9A%E7%BA%BF-1
@@ -602,4 +601,5 @@ vless://a49e8ddb-31ec-4c2e-9a9d-d8a73e9b275b@89.47.197.15:8081/?encryption=none&
 vless://a49e8ddb-31ec-4c2e-9a9d-d8a73e9b275b@89.47.197.15:8081/?encryption=none&host=Ponisha.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
 vless://16dbc072-3707-4a58-b1d9-955750fd2baf@185.133.125.140:12941/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
 vless://16dbc072-3707-4a58-b1d9-955750fd2baf@185.133.125.140:12941/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
+vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
 vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
