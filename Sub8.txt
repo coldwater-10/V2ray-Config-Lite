@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@57.128.28.249:443/?type=ws&encryption=none&host=masin.minusober.com&path=%2Fmasin&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=masin.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://1e038ff0-8678-464c-af28-0612d0c92b96@57.128.31.215:443/?type=ws&encryption=none&host=pesu.minusober.com&path=%2Fpesu&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=pesu.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@57.128.123.242:443/?type=ws&encryption=none&host=tere.minusober.com&path=%2Ftere&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=tere.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@152.228.242.27:443/?type=ws&encryption=none&host=auto.minusober.com&path=%2Fauto&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=auto.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
