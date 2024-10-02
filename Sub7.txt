@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://873c509a-550a-489a-ac1f-c887a4c133b2@151.101.194.219:443/?type=ws&encryption=none&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=tls&sni=speedtest.net&fp=firefox#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vless://873c509a-550a-489a-ac1f-c887a4c133b2@104.21.20.148:80/?type=ws&encryption=none&host=join-to.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
 vless://884e09dd-bcb5-41a7-ab86-48d0b44c510e@79.127.70.107:443/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
 vmess://eyJhZGQiOiIxNzIuNjcuMTM2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6ImF6MDUuYmV5b25keS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://16dbc072-3707-4a58-b1d9-955750fd2baf@185.133.125.140:12941/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
@@ -375,7 +373,7 @@ vless://ef46e73e-82ab-42dc-a37c-6037cc15f942@149.62.187.191:443/?type=tcp&encryp
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-11-MEHR-1403 🕑 05:06
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-11-MEHR-1403 🕑 06:54
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -385,7 +383,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-11-MEHR-1403 🕑 06:05
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-11-MEHR-1403 🕑 06:49
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
@@ -603,3 +601,5 @@ vless://edade224-ab25-46e0-a41b-b415b182a59d@65.109.206.218:443/?type=ws&encrypt
 vless://db9cf031-33ec-4a39-b27e-6da323144963@65.109.9.5:2053/?type=ws&encryption=none&host=shakhle.jd-vpn.shop.&path=%2F%40Jd_Vpn&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=shakhle.jd-vpn.shop.&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://c780cadb-7675-4368-bbda-a85c36f4a6ef@65.109.212.109:2096/?type=ws&encryption=none&host=fl.laknes.wiki&path=%2F&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=fl.laknes.wiki&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://beeedc2e-aaa6-4a60-b771-6daec05746d9@65.21.57.243:80/?type=ws&encryption=none&host=backup.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&path=49651%2Fscenic_photo&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://518bd7b3-f67c-4fce-f601-54506be8969c@65.21.188.58:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FTelegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://edade224-ab25-46e0-a41b-b415b182a59d@65.109.206.218:80/?type=ws&encryption=none&host=qwerdgy47892drvseddsesswdownload.namava.network&path=%2F54051%2Fdownload&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
