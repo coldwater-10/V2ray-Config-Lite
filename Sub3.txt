@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&insecure=1&sni=sni-here.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://01130e6dda139c1c@144.22.243.213:24749?insecure=1&sni=www.bing.com#%E2%9A%A1%EF%B8%8F@zebelkhan(Hysteria)
+hy2://04979c3cfe2a7945@92.246.139.15:443?obfs=salamander&obfs-password=205ef172277d3292&insecure=1&sni=www.google.com#%D9%87%D9%85%D8%B1%D8%A7%D9%87%D8%A7%D9%88%D9%84%D8%8C%D8%AE%D8%A7%D9%86%DA%AF%DB%8C
+hy2://04979c3cfe2a7945@[2a12:5940:9acf::2]:443?obfs=salamander&obfs-password=205ef172277d3292&insecure=1&sni=www.google.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%DB%8C%DA%A9
+hy2://0ec39bfb-7040-4953-9399-406c61ded790@160.251.212.157:443?insecure=1&sni=haneda.lol#%F0%9F%A7%B2@VPN_KODLARY
+hy2://10d753cc60212d26@free.netmh3.pro:443?obfs=salamander&obfs-password=159836e3&insecure=1#IPCF
+hy2://13185bc123940cfa@freedom.viipnetwork.pics:446?obfs=salamander&obfs-password=b92a1f1e&insecure=1#JoinUs:@MikasaVpn
+hy2://13185bc123940cfa@life.viipnetwork.pics:446?obfs=salamander&obfs-password=b92a1f1e&insecure=1#JoinUs:@MikasaVpn
+hy2://16b29608-4418-4fe9-9f74-56d7445b50ec@129.151.220.170:443?insecure=1&sni=www.apple.com#%F0%9F%87%B8%F0%9F%87%AA@ViP_Programs%F0%9F%8C%B9%F0%9F%A4%8D-hy2
+hy2://16b29608-4418-4fe9-9f74-56d7445b50ec@129.151.242.47:443?insecure=1&sni=www.apple.com#%F0%9F%87%AB%F0%9F%87%B7@ViP_Programs%F0%9F%8C%B9%F0%9F%A4%8Dhy2
+hy2://16b29608-4418-4fe9-9f74-56d7445b50ec@141.147.19.58:443?insecure=1&sni=api.push.apple.com#%F0%9F%87%A9%F0%9F%87%AA@ViP_Programs%F0%9F%8C%B9%F0%9F%A4%8Dhy2
+hy2://16b29608-4418-4fe9-9f74-56d7445b50ec@193.123.76.84:443?insecure=1&sni=www.apple.com#%F0%9F%87%A6%F0%9F%87%AA@ViP_Programs%F0%9F%8C%B9%F0%9F%A4%8Dhy2
+hy2://18240b2dfdd76484@[2a05:f480:2000:1384:5400:5ff:fe19:8b0a]:443?obfs=salamander&obfs-password=d2648ec2&insecure=1#@Network_442_network%F0%9F%9B%9C%F0%9F%87%B8%F0%9F%87%AA
+hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#t.me/entryNET
 hy2://18d4bcb1-dfab-4af2-b2cb-f8e61384da22@gpt.nai3.cc:10429?sni=gpt.nai3.cc#akile
 hy2://1ab02865393bfa6d@5.161.213.184:443?obfs=salamander&obfs-password=d5a9baeec9b61a44&insecure=1&sni=www.google.com#%D8%AA%D9%85%D8%A7%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%AF%D9%88
 hy2://1ab02865393bfa6d@[2a01:4ff:f0:c551::1]:443?obfs=salamander&obfs-password=d5a9baeec9b61a44&insecure=1&sni=www.google.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%D8%AF%D9%88
@@ -589,17 +603,3 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.145.203.148:2052?insecure=1&sni=bl1.mangshe.xyz#🔒 HYSTERIA-UDP 🇫🇷 FR-141.145.203.148:2052
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.147.188.151:2052?insecure=1&sni=dj2.mangshe.xyz#🔒 HYSTERIA-UDP 🇯🇵 JP-141.147.188.151:2052
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.201.7:2052?insecure=1&sni=mm2.mangshe.xyz#🔒 HYSTERIA-UDP 🇮🇳 IN-141.148.201.7:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.204.183:2052?insecure=1&sni=mm1.mangshe.xyz#🔒 HYSTERIA-UDP 🇮🇳 IN-141.148.204.183:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.21.59.53:2052?insecure=1&sni=ld1.mangshe.xyz#🔒 HYSTERIA-UDP 🇬🇧 GB-144.21.59.53:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.22.132.212:2052?insecure=1&sni=sbl.mangshe.xyz#🔒 HYSTERIA-UDP 🇧🇷 BR-144.22.132.212:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.145.69:2052?insecure=1&sni=hdlb1.mangshe.xyz#🔒 HYSTERIA-UDP 🇮🇳 IN-144.24.145.69:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1.mangshe.xyz#🔒 HYSTERIA-UDP 🇰🇷 KR-144.24.93.108:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.136.65.4:2052?insecure=1&sni=asb1.mangshe.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-150.136.65.4:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒 HYSTERIA-UDP 🇯🇵 JP-150.230.194.74:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@158.178.226.255:2052?insecure=1&sni=xjp1.mangshe.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-158.178.226.255:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒 HYSTERIA-UDP 🇬🇧 GB-81.208.175.184:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2.mangshe.xyz#🔒 HYSTERIA-UDP 🇫🇷 FR-89.168.53.138:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2052/?insecure=1&sni=asb1.mangshe.xyz#%F0%9F%94%B06%40oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2052/?insecure=1&sni=asb1.mangshe.xyz#🔰6@oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2052/?insecure=1&sni=bl1.mangshe.xyz#%F0%9F%94%B01%40oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2052/?insecure=1&sni=bl1.mangshe.xyz#🔰1@oneclickvpnkeys
