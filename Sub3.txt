@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#t.me/entryNET
 hy2://18d4bcb1-dfab-4af2-b2cb-f8e61384da22@gpt.nai3.cc:10429?sni=gpt.nai3.cc#akile
 hy2://1ab02865393bfa6d@5.161.213.184:443?obfs=salamander&obfs-password=d5a9baeec9b61a44&insecure=1&sni=www.google.com#%D8%AA%D9%85%D8%A7%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%AF%D9%88
 hy2://1ab02865393bfa6d@[2a01:4ff:f0:c551::1]:443?obfs=salamander&obfs-password=d5a9baeec9b61a44&insecure=1&sni=www.google.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%D8%AF%D9%88
@@ -603,3 +602,4 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2052/?insecure=1&sni=asb1.mangshe.xyz#%F0%9F%94%B06%40oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2052/?insecure=1&sni=asb1.mangshe.xyz#🔰6@oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2052/?insecure=1&sni=bl1.mangshe.xyz#%F0%9F%94%B01%40oneclickvpnkeys
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2052/?insecure=1&sni=bl1.mangshe.xyz#🔰1@oneclickvpnkeys
