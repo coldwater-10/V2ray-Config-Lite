@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://d2e21fabfe6ddb83@70.34.205.24:443?obfs=salamander&obfs-password=ca39a177&insecure=1&sni=www.apple.com#%E2%9A%A1%EF%B8%8F@vipv2rey(Hysteria3)
-hy2://d2e21fabfe6ddb83@hys1.cpionline.us:443?obfs=salamander&obfs-password=ca39a177&insecure=1&sni=www.apple.com#sshoceanVIPVPN%E2%AD%90
 hy2://dc494887-0686-47ba-a2c1-d5667f270770@48.888553.xyz:6845?insecure=1&sni=48.888553.xyz#TG%E9%A2%91%E9%81%93:@hkaa0%E2%96%93%E7%BE%8E%7C%E4%BC%98%E5%8C%96
 hy2://dc494887-0686-47ba-a2c1-d5667f270770@rsm.888451.xyz:4628?insecure=1&sni=rsm.888451.xyz#TG%E9%A2%91%E9%81%93:@hkaa0%E2%96%93%E7%BE%8E%E5%9B%BD%7C%E9%9D%9E%E8%A7%A3%E9%94%81%7C%E4%BC%98%E5%8C%96
 hy2://dc494887-0686-47ba-a2c1-d5667f270770@sgy.441122.xyz:22200?insecure=1&sni=sgy.441122.xyz#TG%E9%A2%91%E9%81%93:@hkaa0%E2%96%93%E6%97%A5%E6%9C%AC%7C%E9%9D%9E%E8%A7%A3%E9%94%81%7C%E4%BC%98%E5%8C%96
@@ -603,3 +601,5 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.231:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_231%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.231:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.3.231:3074
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B56%40Antifilterjadid
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B56%40oneclickvpnkeys
+hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@139.162.119.212:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_212%20%40wangcai_8
