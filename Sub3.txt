@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://a7a51295@156.254.115.124:55134?insecure=1&sni=www.bing.com#Hysteria2
 hy2://ac71c06e1336d0f7@free.netmh3.pro:443?obfs=salamander&obfs-password=159836e3&insecure=1#IPCF2
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@ae.eyujichang.xyz:2052?insecure=1&sni=ae.eyujichang.xyz#@ViP_Programs%F0%9F%A4%8D%F0%9F%8C%B96
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@ae1.eyujichang.xyz:2052?insecure=1&sni=ae1.eyujichang.xyz#@ViP_Programs%F0%9F%A4%8D%F0%9F%8C%B94
@@ -602,4 +603,3 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.11.104.44:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇭🇰 HK-45.11.104.44:3074
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_079%20%40WangCai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_229%20%40wangcai_8
-hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.194.254.229:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-52.194.254.229:3074
