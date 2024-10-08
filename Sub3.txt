@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@ae1.eyujichang.xyz:2052?insecure=1&sni=ae1.eyujichang.xyz#@ViP_Programs%F0%9F%A4%8D%F0%9F%8C%B94
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@de.eyujichang.xyz:2052?insecure=1&sni=de.eyujichang.xyz#@ViP_Programs%F0%9F%A4%8D%F0%9F%8C%B92
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@fr1.eyujichang.xyz:2052?insecure=1&sni=fr1.eyujichang.xyz#@ViP_Programs%F0%9F%A4%8D%F0%9F%8C%B93
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@fr2.eyujichang.xyz:2052?insecure=1&sni=fr2.eyujichang.xyz#@ViP_Programs%F0%9F%A4%8D%F0%9F%8C%B91
@@ -603,3 +602,4 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.227:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_227%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.227:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.3.227:3074
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.228:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_228%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.228:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.3.228:3074
