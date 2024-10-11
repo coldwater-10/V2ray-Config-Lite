@@ -602,4 +602,4 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 .
 
 .
-vless://708fb8bd-be45-4d25-978e-1c7caecb2c55@104.18.68.168:2053?path=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran %3Fed%3D2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Telegram-iD-TEHRANARGO.pages.dev&fp=random&type=ws&sni=Telegram-iD-TehranArgo.pages.dev#@mehrosaboran
+vless://22fd79e3-7b35-4402-9bb2-40d341ff9dad@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Awawaw.net&type=ws#Telegram+%3A+%40proxy_kafee%F0%9F%A7%8C
