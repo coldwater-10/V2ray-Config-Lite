@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://fokaS4id3bretay-7rit@hys8.freelines.net:443?obfs=salamander&obfs-password=fokaS4id3bretay-7rit&insecure=1&sni=google.com#hysteria3&&detour=warp://188.114.97.120:1843/?ifp=1-5
-hy2://fokaS4id3bretay-7rit@hys8.freelines.net:443?obfs=salamander&obfs-password=fokaS4id3bretay-7rit&insecure=1&sni=google.com#hysteria4&&detour=warp://162.159.192.181:3138
-hy2://i2XRv7zj1uWE@167.160.90.251:10981?insecure=1&sni=www.bing.com#Meta_HysTeria2(sshocean)%F0%9F%92%AB
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
@@ -603,3 +599,7 @@ hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@35.74.239.19:3074?insecure=1#�
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@54.238.69.229:3074?insecure=1#🔒 HYSTERIA-UDP 🇯🇵 JP-54.238.69.229:3074
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@57.180.35.76:3074?insecure=1#🔒 HYSTERIA-UDP 🇯🇵 JP-57.180.35.76:3074
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3DTG%20%40WangCai_1%3D@45.11.104.79:3074/?insecure=1&sni=45.11.104.79#%40Zede_filteri%20%F0%9F%87%AD%F0%9F%87%B0%20
+hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3DTG%20%40WangCai_1%3D@45.11.104.79:3074/?insecure=1&sni=45.11.104.79#%40proprojec
+hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3DTG%20%40WangCai_1%3D@45.11.104.79:3074/?insecure=1&sni=45.11.104.79#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%28AzadNet.t.me%29
+hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3DTG%20%40WangCai_1%3D@45.11.104.79:3074?insecure=1&sni=45.11.104.79#🔒 HYSTERIA-UDP 🇭🇰 HK-45.11.104.79:3074
+hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG @WangCai_1=@45.11.104.79:3074/?insecure=1&sni=45.11.104.79#@Zede_filteri 🇭🇰
