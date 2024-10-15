@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20❔%20XX%20down
+hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
 hysteria://51.158.54.46:55396?insecure=1&peer=youku.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
 hysteria://130.61.24.219:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
 hysteria://fr1.chaoyuenode.sbs:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
