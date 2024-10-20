@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                        .st0{fill:#FFFFFF;}
+                        .st1{fill:#C1E9F4;}
                         .st2{fill:#A3D5E9;}
                         .st3{fill:#EAEAEA;}
                         .st4{fill:#FDFDFF;}
@@ -601,5 +603,3 @@
                                         </g>
                                         <g>
                                             <g>
-                                                <polygon class="st24" points="360.8,331.4 359.3,329.9 378.2,311.5 379.8,313 							"/>
-                                            </g>

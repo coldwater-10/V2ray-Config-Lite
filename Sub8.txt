@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                                            
+                                                <ellipse id="XMLID_2_" transform="matrix(0.4235 -0.9059 0.9059 0.4235 -81.2304 268.8702)" cx="170.6" cy="198.3" rx="6" ry="6"/>
                                         </defs>
                                         <use xlink:href="#XMLID_2_"  style="overflow:visible;fill:#EB8175;"/>
                                         <clipPath id="XMLID_4_">
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.111:443?path=%2F3IEyTMFdC
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?path=%2FTel-%40N%55FiLTER%2F%3Fed%3D2048&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=pardazesh18.pages.dev&fp=chrome&type=ws&sni=pardazesh18.pages.dev#%40mehrosaboran
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?path=%2F%40Azarakhsh_Proxy%2F%3Fed%3D2048&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=pardazesh18.pages.dev&fp=chrome&type=ws&sni=pardazesh18.pages.dev#%40mehrosaboran
 vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:2053?path=%2Fo0vLhmqNqsC1Tufo%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPB-WorKER-PaNeL1-E4p.PaGES.deV#%F0%9F%87%AE%F0%9F%87%B1telegram+%E2%9E%A0+%40v2rayNG_Matsuri
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#%F0%9F%87%AE%F0%9F%87%B3telegram+%E2%9E%A0+%40v2rayNG_Matsuri
-vless://76eab2c7-ce4d-47dc-a0b6-7151dfa08eb0@173.245.49.174:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=poin.centerserver.ggff.net&fp=randomized&type=ws&sni=poin.centerserver.ggff.net#@meli_proxyy
