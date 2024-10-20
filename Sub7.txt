@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                                                <g>
+                                                    <g>
                                                         <g>
                                                             <path class="st24" d="M379.8,276.2h-20.5v-20.5h20.5V276.2z M361.4,274.1h16.3v-16.3h-16.3V274.1z"/>
                                                         </g>
@@ -601,5 +603,3 @@
                                         <defs>
                                             
                                                 <ellipse id="XMLID_2_" transform="matrix(0.4235 -0.9059 0.9059 0.4235 -81.2304 268.8702)" cx="170.6" cy="198.3" rx="6" ry="6"/>
-                                        </defs>
-                                        <use xlink:href="#XMLID_2_"  style="overflow:visible;fill:#EB8175;"/>
