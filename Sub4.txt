@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.148.245.250:443?mport=21000-26000&insecure=1#🔒 HYSTERIA-UDP 🇳🇱 NL-141.148.245.250:443
-hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@[2a01:4f9:c012:c28b::1]:34882?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f9:c012:c28b::1]:34882
-hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#%E2%9A%933%40oneclickvpnkeys
-hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#⚓3@oneclickvpnkeys
-hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-156.254.114.144:64470
-hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-156.254.114.144:64470 📡 PING-000.00-MS
-hy2://dongtaiwang.com@104.192.224.140:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x3%40oneclickvpnkeys
-hy2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com
-hy2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-104.192.224.140:40391
-hy2://dongtaiwang.com@104.192.224.141:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x4%40oneclickvpnkeys
-hy2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-104.192.224.141:40391
-hy2://dongtaiwang.com@109.104.152.89:22441//@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY?insecure=1&sni=EliV2ray.Elena.expert#US-@ELiV2ray
-hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=ELiV2ray.Elena.expert#🇳🇱MTN-ELi
-hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=ELiV2ray.Elena.expert#🇳🇱MTN-TEHRANARGO
-hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#%40An0nymousteam-H5
-hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#%40v2rayserverfreenet%20
-hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%2829%29
 hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#%F0%9F%8C%8E2%40oneclickvpnkeys
 hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#@v2rayserverfreenet
 hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#BlueButterfly
@@ -603,3 +586,20 @@ vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@8.221.142.133:443?mode=multi&securi
                         .st12{fill:#E1AD9D;}
                         .st13{fill:#C8C6F2;}
                         .st14{fill:#D8D7FD;}
+                        .st15{fill:#091218;}
+                        .st16{fill:#1B2934;}
+                        .st17{fill:#E16C5F;}
+                        .st18{clip-path:url(#XMLID_4_);fill:#231C61;}
+                        .st19{fill:#F5D100;}
+                        .st20{fill:none;stroke:#F1AB00;stroke-width:0.2802;stroke-miterlimit:10;}
+                        .st21{fill:none;stroke:#FFFFFF;stroke-width:1.1206;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+                        .st22{fill:none;stroke:#106797;stroke-width:2.1624;stroke-miterlimit:10;}
+                        .st23{fill:none;stroke:#FFFFFF;stroke-width:1.1138;stroke-miterlimit:10;}
+                        .st24{fill:#106797;}
+                        .st25{fill:#0F5A7C;}
+                        .st26{fill:none;stroke:#106797;stroke-width:2.6489;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+                    </style>
+                    <g id="BACKGROUND">
+                        <rect class="st0" width="500" height="500"/>
+                    </g>
+                    <g id="OBJECTS">
