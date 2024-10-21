@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                                                    </g>
+                                                    <g>
                                                         <g>
                                                             
                                                                 <rect x="368.5" y="234.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -66.7939 333.7817)" class="st24" width="2.1" height="26"/>
@@ -601,5 +603,3 @@
                                 <path class="st16" d="M144,212.4l13.7,1.3c0.5,0,0.8,0.4,0.9,0.8l1.4,12.3c0.1,0.6-0.4,1.1-1,1.1l-13.9-1.3
                                     c-0.5,0-0.8-0.4-0.9-0.9l-1.2-12.3C142.9,212.8,143.4,212.3,144,212.4z"/>
                                 <path class="st15" d="M160.4,227l9.4,0.9c0.3,0,0.5,0.3,0.5,0.6l0,0c0,0.3-0.3,0.5-0.6,0.5l-9.9-0.9L160.4,227z"/>
-                                
-                                    <ellipse transform="matrix(9.390160e-02 -0.9956 0.9956 9.390160e-02 -82.5677 348.755)" class="st0" cx="150.3" cy="219.7" rx="1.5" ry="1.5"/>
