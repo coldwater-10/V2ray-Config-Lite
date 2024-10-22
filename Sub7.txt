@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                                                            
+                                                                <rect x="319.5" y="117.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 13.6502 269.8155)" class="st24" width="26" height="2.1"/>
+                                                        </g>
+                                                    </g>
                                                     <g>
                                                         <g>
                                                             
@@ -599,7 +603,3 @@
                                                     <g>
                                                         <g>
                                                             
-                                                                <rect x="356.5" y="117.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 24.2888 296.054)" class="st24" width="26" height="2.1"/>
-                                                        </g>
-                                                    </g>
-                                                </g>
