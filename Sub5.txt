@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-            <p class="subheading">This account has been suspended</p>
-            <div class="main-image">
-                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
                     <style type="text/css">
                         .st0{fill:#FFFFFF;}
                         .st1{fill:#C1E9F4;}
@@ -603,3 +599,7 @@
                                         </g>
                                         <g>
                                             <g>
+                                                <polygon class="st24" points="378.2,331.4 359.3,313 360.8,311.5 379.8,329.9 							"/>
+                                            </g>
+                                        </g>
+                                        <g>

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-                                                <polygon class="st24" points="378.2,331.4 359.3,313 360.8,311.5 379.8,329.9 							"/>
-                                            </g>
-                                        </g>
-                                        <g>
                                             <g>
                                                 <polygon class="st24" points="360.8,331.4 359.3,329.9 378.2,311.5 379.8,313 							"/>
                                             </g>
@@ -603,3 +599,7 @@
                                                                 <rect x="368.5" y="234.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -66.7939 333.7817)" class="st24" width="2.1" height="26"/>
                                                         </g>
                                                     </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="356.5" y="246.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -66.7906 333.7981)" class="st24" width="26" height="2.1"/>
