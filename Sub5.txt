@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-                                    <ellipse transform="matrix(9.390160e-02 -0.9956 0.9956 9.390160e-02 -82.5677 348.755)" class="st0" cx="150.3" cy="219.7" rx="1.5" ry="1.5"/>
-                            </g>
-                            <polygon class="st13" points="176.6,212.5 176.9,221.2 165.2,223.5 175.5,220.2 		"/>
-                        </g>
                         <g>
                             <g>
                                 <path class="st9" d="M170.4,203.9l0.8,2.1c0.3,0.8,1,1.3,1.8,1.3l0,0c1.5,0.1,2.6-1.4,2-2.9l-1.4-3.2L170.4,203.9z"/>
@@ -603,3 +599,7 @@
 
     <style>
         * {
+            box-sizing: border-box;
+            margin: 0;
+        }
+        html {
