@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-                                                    </g>
-                                                    <g>
-                                                        <g>
-                                                            
-                                                                <rect x="276.1" y="105.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2.5753 230.6435)" class="st24" width="2.1" height="26"/>
-                                                        </g>
-                                                    </g>
-                                                </g>
-                                                <g>
-                                                    <g>
-                                                        <g>
                                                             <path class="st24" d="M323.7,128.7h-20.5v-20.5h20.5V128.7z M305.3,126.6h16.3v-16.3h-16.3V126.6z"/>
                                                         </g>
                                                     </g>
@@ -603,3 +592,14 @@
                                                                 <rect x="356.5" y="136.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 11.2832 301.4571)" class="st24" width="26" height="2.1"/>
                                                         </g>
                                                     </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M379.8,165.8h-20.5v-20.5h20.5V165.8z M361.4,163.7h16.3v-16.3h-16.3V163.7z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="368.5" y="142.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.7353 306.8322)" class="st24" width="2.1" height="26"/>
