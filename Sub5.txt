@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+
+.
+#profile-title: â¬ SHÎÐ¯VINâ¢ 
+#profile-update-interval: 1 
+#subscription-userinfo: upload=100; download=100; total=10000000000000; expire= 44462495316 #support-url: isherv.in #profile-web-page-url: isherv.in
+
+
+
+vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIzOTIzODMxOTMxMDk2NDU0MzkyMDUxOTQ4OTcwMTkwMC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiYTRhZjZmYTItMjY0Zi00ZGRkLTg3MTgtMjQ2ZGM5OTkzODZiIiwibmV0Ijoid3MiLCJwYXRoIjoiL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwicG9ydCI6IjgwIiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIyYTA2Ojk4YzE6MzEyMTo6NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYXZlaXJvci5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisIFNIzp7Qr1ZJTuKEolxuUG93ZXJlZCBieSBZRUJFS0hFICIsInNjeSI6ImF1dG8iLCJzbmkiOiJhdmVpcm9yLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIyNjA2OjQ3MDA6MzAzNjo6NjgxNTo1ZWE4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisIFNIzp7Qr1ZJTuKEolxuUG93ZXJlZCBieSBZRUJFS0hFICIsInNjeSI6ImF1dG8iLCJzbmkiOiJobXMxOS5iZXN0LXRpemkudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://1b9b7c77-2f12-5d04-8f57-e01112305ad6@104.17.147.22:2052/?type=ws&encryption=none&host=www.abrha.com.abrha.net.www.speedtest.net.join.ELiV2ry.io.ch1.vless.Sitespeedtest.net.&path=%2F-ELENA-TheGreatDictator%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
 vless://bd2914ed-69b1-4533-a7f0-929527541c35@104.24.196.20:80/?type=ws&encryption=none&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
@@ -593,13 +603,3 @@ vless://%35%64%66%37%39%36%32%65%2d%66%39%66%65%2d%34%31%65%36%2d%61%62%34%39%2d
 vless://f7b8c369-6ec0-4f8f-b0f2-96cbbb13e545@172.66.47.172:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=K5z3-1h6p-9t8R-2f4B-0W7g-3x2m-5u9D-8N1c-7e4J-6q0Y-5S8v-2A9.pAGeS.Dev&fp=randomized&type=ws&sni=k5z3-1h6p-9t8R-2f4B-0W7G-3x2M-5U9d-8n1C-7E4j-6q0y-5s8v-2A9.pagES.dEv#@meli_proxyy
 vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ShAh-9aQ.PaGEs.DEV&fp=randomized&type=ws&sni=SHAh-9Aq.PAGes.deV#telegram-proxy_mtm
 vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.21.69.44:8443?path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=ggho.pages.dev.&fp=randomized&type=ws&sni=ggho.pages.dev.#telegram-proxy_mtm
-vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ShAh-9aQ.PaGEs.DEV&fp=randomized&type=ws&sni=SHAh-9Aq.PAGes.deV#@meli_proxyy
-vless://76eab2c7-ce4d-47dc-a0b6-7151dfa08eb0@173.245.49.174:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=poin.centerserver.ggff.net&fp=randomized&type=ws&sni=poin.centerserver.ggff.net#[
-vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?encryption=none&security=tls&sni=pAHlAvi-184.pAGEs.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PaHLAvi-184.PAgES.dEV&path=%2F%3Fed%3D2560#[
-vless://2f758eb2-d936-4254-9227-71c38fc04609@172.66.44.90:443?path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg89.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg89.pages.dev#[
-vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443/?type=ws&encryption=none&host=pardazesh18.pages.dev&path=%2F&security=tls&sni=pardazesh18.pages.dev&fp=chrome#%F0%9F%94%B253%40oneclickvpnkeys
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?encryption=none&security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2F%3Fed%3D2048#[
-vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.21.69.44:8443?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=ggho.pages.dev.&fp=randomized&type=ws&sni=ggho.pages.dev.#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+proxy_mtm
-vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.21.69.44:8443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=ggho.pages.dev.&fp=randomized&type=ws&sni=ggho.pages.dev.#@meli_proxyy
-vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?security=tls&encryption=none&host=pardazesh18.pages.dev&fp=randomized&type=ws&sni=pardazesh18.pages.dev#%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@w3.org:443?path=%2F40Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=56897854.pAGES.dEv&fp=randomized&type=ws&sni=56897854.PaGeS.DEv#[
