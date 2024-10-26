@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 8.32ms
+vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.3ms
+vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.07ms
+vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitT.CoM&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.57ms
+vless://5870e7d7-24e6-411a-914e-c965d7f7ae8a@172.67.193.36:80?path=%2FTelegram%3A%40%40vpnclashfa+-+308#RELAY🚩 | 172.67.193.36-80 | 5.68ms
+vless://584bc2cf-2d25-41b9-97a3-f843d5c776a2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 6.73ms
+vless://584bc2cf-2d25-41b9-97a3-f843d5c776a2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.56ms
+vless://5767ae45-cdd4-4df2-bbe3-c21b66ced9b1@95.164.68.37:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 6.38ms
+vless://5181717e-892b-45a9-a8b7-e6d5fac1c77b@workerr.hosseinpool10.workers.dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=workerr.hosseinpool10.workers.dev&type=ws#RELAY🚩 | workerr.hosseinpool10.workers.dev-80 | 24.42ms
+vless://5181717e-892b-45a9-a8b7-e6d5fac1c77b@m543.hosseinpool10.workers.dev:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=m543.hosseinpool10.workers.dev&type=ws#RELAY🚩 | m543.hosseinpool10.workers.dev-2082 | 24.59ms
+vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v25.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 6.58ms
+vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v24.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.13ms
+vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.23ms
+vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.58ms
+vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.63ms
 vless://513db028-d7d1-487d-db5c-6d93bdb744d0@Zmaoz.Faculty.UcdavIS.Edu:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=chde.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.UcdavIS.Edu.#US🇺🇸 | Zmaoz.Faculty.UcdavIS.Edu.-443 | 96.74ms
 vless://4cb8d3bf-2afa-4126-a0ed-f16ce4642889@ketabnak.com:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 123.69ms
 vless://4cb8d3bf-2afa-4126-a0ed-f16ce4642889@188.164.158.173:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 111.28ms
@@ -313,20 +328,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#US%F0%
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 
-hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#🔒 HYSTERIA-UDP 🇺🇸 US-66.135.28.59:443
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:805:d300::2b57:569b]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇩🇪 DE-[2001:41d0:805:d300::2b57:569b]:443
 hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@83.147.17.130:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇬🇧 GB-83.147.17.130:443
+hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#🔒 HYSTERIA-UDP 🇺🇸 US-66.135.28.59:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@87.121.61.171:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-87.121.61.171:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:40b:7700::68ff:eac6]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇩🇪 DE-[2001:41d0:40b:7700::68ff:eac6]:443
+hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#🔒 HYSTERIA-UDP 🇫🇷 FR-51.158.54.46:44550
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@193.31.41.172:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-193.31.41.172:443
 hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:805:d300::ab67:dda8]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇩🇪 DE-[2001:41d0:805:d300::ab67:dda8]:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@209.200.246.141:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇺🇸 US-209.200.246.141:443
+hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#🔒 HYSTERIA-UDP 🇬🇧 GB-66.245.192.15:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2607:5300:210:2900::d917:ac09]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇨🇦 CA-[2607:5300:210:2900::d917:ac09]:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:805:d300::2b57:569b]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇩🇪 DE-[2001:41d0:805:d300::2b57:569b]:443
+hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#🔒 HYSTERIA-UDP 🇳🇱 NL-45.32.234.211:443
 hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:245:d400::236c:ead6]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇩🇪 DE-[2001:41d0:245:d400::236c:ead6]:443
 hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@83.147.17.189:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇬🇧 GB-83.147.17.189:443
-hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#🔒 HYSTERIA-UDP 🇬🇧 GB-66.245.192.15:443
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:40b:7700::68ff:eac6]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇩🇪 DE-[2001:41d0:40b:7700::68ff:eac6]:443
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@209.200.246.141:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇺🇸 US-209.200.246.141:443
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@193.31.41.172:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-193.31.41.172:443
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@87.121.61.171:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-87.121.61.171:443
-hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#🔒 HYSTERIA-UDP 🇫🇷 FR-51.158.54.46:44550
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2607:5300:210:2900::d917:ac09]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇨🇦 CA-[2607:5300:210:2900::d917:ac09]:443
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#🔒 HYSTERIA-UDP 🇳🇱 NL-45.32.234.211:443
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️ @vipv2rey(Hysteria1)
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#⚡️@vipv2rey (Hysteria)
@@ -588,18 +603,3 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.150.55.250:2052?insecure=1&sni=xj
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf1.mangshe.xyz#🔒 HYSTERIA-UDP 🇩🇪 DE-130.61.84.98:2052
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.145.203.148:2052?insecure=1&sni=bl1.mangshe.xyz#🔒 HYSTERIA-UDP 🇫🇷 FR-141.145.203.148:2052
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.147.188.151:2052?insecure=1&sni=dj2.mangshe.xyz#🔒 HYSTERIA-UDP 🇯🇵 JP-141.147.188.151:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.201.7:2052?insecure=1&sni=mm2.mangshe.xyz#🔒 HYSTERIA-UDP 🇮🇳 IN-141.148.201.7:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.204.183:2052?insecure=1&sni=mm1.mangshe.xyz#🔒 HYSTERIA-UDP 🇮🇳 IN-141.148.204.183:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.21.59.53:2052?insecure=1&sni=ld1.mangshe.xyz#🔒 HYSTERIA-UDP 🇬🇧 GB-144.21.59.53:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.22.132.212:2052?insecure=1&sni=sbl.mangshe.xyz#🔒 HYSTERIA-UDP 🇧🇷 BR-144.22.132.212:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.145.69:2052?insecure=1&sni=hdlb1.mangshe.xyz#🔒 HYSTERIA-UDP 🇮🇳 IN-144.24.145.69:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1.mangshe.xyz#🔒 HYSTERIA-UDP 🇰🇷 KR-144.24.93.108:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.136.65.4:2052?insecure=1&sni=asb1.mangshe.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-150.136.65.4:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒 HYSTERIA-UDP 🇯🇵 JP-150.230.194.74:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@158.178.226.255:2052?insecure=1&sni=xjp1.mangshe.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-158.178.226.255:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒 HYSTERIA-UDP 🇬🇧 GB-81.208.175.184:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2.mangshe.xyz#🔒 HYSTERIA-UDP 🇫🇷 FR-89.168.53.138:2052
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2052/?insecure=1&sni=asb1.mangshe.xyz#%F0%9F%94%B06%40oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2052/?insecure=1&sni=asb1.mangshe.xyz#🔰6@oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2052/?insecure=1&sni=bl1.mangshe.xyz#%F0%9F%94%B01%40oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2052/?insecure=1&sni=bl1.mangshe.xyz#🔰1@oneclickvpnkeys
