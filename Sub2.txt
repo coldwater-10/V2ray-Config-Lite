@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@188.164.158.117:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&fp=firefox&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 127.34ms
+vless://5d0ba2f0-be35-403d-8cb5-460b38b3384f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 89.68ms
+vless://5d0ba2f0-be35-403d-8cb5-460b38b3384f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.35ms
+vless://5d0ba2f0-be35-403d-8cb5-460b38b3384f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 90.37ms
+vless://5d0ba2f0-be35-403d-8cb5-460b38b3384f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.28ms
 vless://5cce871f-4638-45e6-e24e-4ecbf07f9ea1@185.146.173.58:2095?path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM%2FVMESSKHODAM%3Fed&security=none&encryption=none&host=V2ray-_-_-_-_vmesskhodam.lars1.nl.&type=ws#RELAY🚩 | V2ray-_-_-_-_vmesskhodam.lars1.nl.-2095 | 5.98ms
 vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.18ms
 vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.62ms
@@ -598,8 +603,3 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj2.mangshe.xyz:2052/?insecure=1&sni=
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj2.mangshe.xyz:2052/?insecure=1&sni=dj2.mangshe.xyz#🔰36@oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#🔰20@oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#%F0%9F%94%B03%40oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#🔰3@oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%94%B028%40oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sni=hdlb1.mangshe.xyz#🔰28@oneclickvpnkeys
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
