@@ -109,6 +109,8 @@ def main():
         "https://raw.githubusercontent.com/nameless255/shadow/main/shadow.txt",
         "https://raw.githubusercontent.com/Suevpnx/Subscription/main/Suevpnx2",
         "https://raw.githubusercontent.com/iPsycho1/Subscription/main/Suevpnx",
+        "https://raw.githubusercontent.com/freedomnet25500/cfsub/refs/heads/main/freesub",
+        "https://raw.githubusercontent.com/freedomnet25500/freesub/refs/heads/main/yousefsegaro",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ssr.txt",
         "https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/sub/splitted/ssr.txt",
         "https://raw.githubusercontent.com/coldwater-10/HiN-VPN/main/subscription/normal/tuic",
