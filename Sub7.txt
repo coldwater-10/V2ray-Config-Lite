@@ -56,6 +56,7 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@64.64.243.58:20248?encryption=none&
 vless://de44b044-8f90-4e18-b742-16591667ff96@74.211.96.225:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-12
 vless://de44b044-8f90-4e18-b742-16591667ff96@65.75.194.66:51246?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-13
 vless://de44b044-8f90-4e18-b742-16591667ff96@47.243.106.124:34184?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-14
+vless://de44b044-8f90-4e18-b742-16591667ff96@101.32.40.116:8888?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-15
 
 
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@www.iakeys.com:443?encryption=none&security=tls&sni=freedom-1rj.pages.dev&fp=randomized&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#freedom-1rj.pages.dev%20
