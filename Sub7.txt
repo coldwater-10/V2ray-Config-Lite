@@ -106,6 +106,7 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@48.217.34.120:443?encryption=none&s
 vless://de44b044-8f90-4e18-b742-16591667ff96@64.181.240.173:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-41
 vless://de44b044-8f90-4e18-b742-16591667ff96@129.80.123.71:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-42
 vless://de44b044-8f90-4e18-b742-16591667ff96@173.242.123.189:51042?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-43
+vless://de44b044-8f90-4e18-b742-16591667ff96@64.181.240.173:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-44
 
 
 
