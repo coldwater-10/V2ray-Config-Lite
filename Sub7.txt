@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://a8b026be-0f07-4a55-a45e-6edd389096a3@q.hostingvps.ir:33536/?type=tcp&encryption=none#%40V2rayMiner
-vless://telegram-id-ArV2ray@188.245.42.255:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&ed=8080&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@h5.xn--gmq282ekfhyys3gs.com.:2060/?type=grpc&encryption=none&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398#%40V2rayMiner
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@f41.maryam1500.top:2096/?type=grpc&encryption=none&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#%40V2rayMiner
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443/?type=grpc&encryption=none&serviceName=L7rg6DtGQXTvbwhkjdrG&security=tls&sni=hidd2.parthianempire.org&alpn=h2%2Chttp%2F1.1&fp=chrome#%40V2rayMiner
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443/?type=ws&encryption=none&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=hidd2.parthianempire.org&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@hdfy4d1cpi.iraniancpi.uk:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.survive.org.uk&alpn=http%2F1.1&fp=chrome&security=reality&pbk=gZLTRrh9Z0TIvMoXHB7_ih3EN6Zn0IuLstFFZ0y7Ryc&sid=cc61d4#%40V2rayMiner
-vless://a034f973-9a9c-4dfa-897e-e10647ac7109@81.31.245.106:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=microsoft.com&fp=chrome&security=reality&pbk=5JA5Y0-T4zvUCJ018TbvhhZ0jkNPjuUFbdm2K2Rwiz4&sid=182f0114#%40V2rayMiner
-vless://config--BLUEV2RAYNG--chaneel15@89.208.107.133:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FChaneel-BLUETOWVRAYNG%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:80/?type=ws&encryption=none&host=hidd2.parthianempire.org&path=%2FL7rg6DtGQXTjd07ui73LZgwx8s&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=partner.g2.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40V2rayMiner
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443/?type=grpc&encryption=none&serviceName=g2com&sni=partner.g2.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40V2rayMiner
-vless://251780c1-1501-43b3-be2a-d144a20d479a@hdfy5.cpionline.co:443/?type=grpc&encryption=none&serviceName=Y7aWYIhAUAt2De4KVnk9AHQv&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=0gIKNJFOByW3cSvxJxCqw_A1pYc66fuJXZe6Ny80bmA&sid=52eb502a#%40V2rayMiner
-vless://d5c1dc83-ebd1-4f92-9787-9f3b46723bee@70.34.209.18:56639/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_-6yLvMK98xqGz80pOiKHnMWUKx-xSy4Fm6EYPMwkn0&sid=58b47b01#%40V2rayMiner
-vless://332a79fd-ee69-4b14-bf04-5a70bf927fa0@70.34.198.202:62051/?type=grpc&encryption=none&sni=refersion.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=luA3fJEc73jh02NJnZ0QcAmjLXGc7dcIr_tpZ1vc9gg&sid=8bd3aca8#%40V2rayMiner
 vless://251780c1-1501-43b3-be2a-d144a20d479a@hdfy5.cpionline.co:80/?type=ws&encryption=none&host=65.20.113.203&path=%2FY7aWYIhAUAt2D6MrrFQHeSDQ7&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://c845e5bd-49e7-4952-a69f-6c384799a9a1@speedtest.net:443/?type=ws&encryption=none&host=parsvds.ir&path=%2FFreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop%3Fed%3D2096&ed=2096&eh=Sec-Websocket-Protocol&security=tls&sni=speedtest.net&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://c845e5bd-49e7-4952-a69f-6c384799a9a1@154.205.148.148:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FFreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop-FreakShop%3Fed%3D2096&ed=2096&eh=Sec-Websocket-Protocol#%40V2rayMiner
@@ -141,6 +124,26 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@84.8.148.129:443?encryption=none&se
 vless://de44b044-8f90-4e18-b742-16591667ff96@193.123.37.157:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-48
 vless://de44b044-8f90-4e18-b742-16591667ff96@84.8.145.170:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-49
 vless://de44b044-8f90-4e18-b742-16591667ff96@89.168.112.118:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-50
+vless://de44b044-8f90-4e18-b742-16591667ff96@4.221.60.243:2053?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-51
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.91.225.232:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-52
+vless://de44b044-8f90-4e18-b742-16591667ff96@4.255.56.138:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-53
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.217.216.51:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-54
+vless://de44b044-8f90-4e18-b742-16591667ff96@4.221.60.243:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-55
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.33.62.19:2083?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-56
+vless://de44b044-8f90-4e18-b742-16591667ff96@48.217.34.120:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-57
+vless://de44b044-8f90-4e18-b742-16591667ff96@52.149.136.203:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-58
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.151.60.161:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-59
+vless://de44b044-8f90-4e18-b742-16591667ff96@158.23.81.224:2053?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-60
+vless://de44b044-8f90-4e18-b742-16591667ff96@158.23.81.224:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-61
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.25.205.37:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-62
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.62.202.159:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-63
+vless://de44b044-8f90-4e18-b742-16591667ff96@158.23.168.120:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-64
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.84.117.28:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-65
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.220.29.122:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-66
+vless://de44b044-8f90-4e18-b742-16591667ff96@40.123.41.147:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-67
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.220.29.122:2053?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-68
+vless://de44b044-8f90-4e18-b742-16591667ff96@172.177.248.69:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-69
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.62.172.88:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-70
 
 
 
