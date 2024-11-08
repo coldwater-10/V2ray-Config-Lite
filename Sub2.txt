@@ -596,10 +596,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#US%F0%
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@87.121.61.171:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-87.121.61.171:443
-hy2://0123e6e1-cdcc-445d-96c8-ede02a4e0768@[2407:cdc0:b02e::18c0]:443?mport=30000-40000#🔒 HYSTERIA-UDP 🇭🇰 HK-[2407:cdc0:b02e::18c0]:443
-hy2://a08de66d-fe9e-4c81-9db0-4308994fd5a6@204.10.194.86:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇩🇪 DE-204.10.194.86:443
-hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@68.183.199.224:10001?sni=CA.1010520.shop#🔒 HYSTERIA-UDP 🇨🇦 CA-68.183.199.224:10001
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:40b:7700::68ff:eac6]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-[2001:41d0:40b:7700::68ff:eac6]:443
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:805:d300::ab67:dda8]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-[2001:41d0:805:d300::ab67:dda8]:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@83.147.17.130:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇬🇧 GB-83.147.17.130:443
+hy2://0123e6e1-cdcc-445d-96c8-ede02a4e0768@80.85.152.22:443?mport=30000-40000#🔒 HYSTERIA-UDP 🇷🇺 RU-80.85.152.22:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:245:d400::236c:ead6]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-[2001:41d0:245:d400::236c:ead6]:443
 hy2://a08de66d-fe9e-4c81-9db0-4308994fd5a6@108.181.22.153:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.22.153:443
+hy2://a08de66d-fe9e-4c81-9db0-4308994fd5a6@192.9.176.249:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇺 AU-192.9.176.249:443
+hy2://a08de66d-fe9e-4c81-9db0-4308994fd5a6@163.123.192.140:443?mport=54000-54060&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-163.123.192.140:443
+hy2://0123e6e1-cdcc-445d-96c8-ede02a4e0768@[2407:cdc0:b02e::19c0]:443?mport=30000-40000#🔒 HYSTERIA-UDP 🇭🇰 HK-[2407:cdc0:b02e::19c0]:443
