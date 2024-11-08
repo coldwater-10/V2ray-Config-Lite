@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://e91ce118-4698-45fc-9d35-0c7448f21527@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://e91ce118-4698-45fc-9d35-0c7448f21527@jp2.zhenshihui.one:48489/#%40V2rayMiner
@@ -603,3 +602,4 @@ trojan://auto@otto.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=
 trojan://auto@172.67.49.134:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#trojanmz.pages.dev%20%E8%AF%B7%E9%80%9A%E8%BF%87%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E8%AE%A2%E9%98%85%EF%BC%81
 trojan://auto@172.67.120.0:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#trojanmz.pages.dev%20%E8%AF%B7%E9%80%9A%E8%BF%87%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E8%AE%A2%E9%98%85%EF%BC%81
 trojan://auto@162.159.36.104:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#trojanmz.pages.dev%20%E8%AF%B7%E9%80%9A%E8%BF%87%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E8%AE%A2%E9%98%85%EF%BC%81
+trojan://auto@www.digitalocean.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#trojanmz.pages.dev%20%E8%AF%B7%E9%80%9A%E8%BF%87%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E8%AE%A2%E9%98%85%EF%BC%81
