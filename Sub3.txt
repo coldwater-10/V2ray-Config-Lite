@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@138.2.28.145:443?mport=55000-56000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇯🇵 JP-138.2.28.145:443
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.236.149.43:10001?sni=SG3.1010520.shop#🔒 HYSTERIA-UDP 🇸🇬 SG-172.236.149.43:10001
+hy2://81ea378b37931b23@77.221.158.52:7373?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=7d9dff369a11f6e0#🔒 HYSTERIA-UDP 🇫🇮 FI-77.221.158.52:7373
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:805:d300::ab67:dda8]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-[2001:41d0:805:d300::ab67:dda8]:443
+hy2://bc19ee74-433d-4c34-be4b-67f969a2bb57@104.168.128.219:10002?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.128.219:10002
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@193.31.41.172:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-193.31.41.172:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@87.121.61.171:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-87.121.61.171:443
+hy2://0123e6e1-cdcc-445d-96c8-ede02a4e0768@[2407:cdc0:b02e::1bc0]:443?mport=30000-40000#🔒 HYSTERIA-UDP 🇭🇰 HK-[2407:cdc0:b02e::1bc0]:443
+hy2://0123e6e1-cdcc-445d-96c8-ede02a4e0768@[2407:cdc0:b02e::19c0]:443?mport=30000-40000#🔒 HYSTERIA-UDP 🇭🇰 HK-[2407:cdc0:b02e::19c0]:443
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.118.147:443?mport=55000-56000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.118.147:443
+hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
+hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️ @vipv2rey(Hysteria1)
+hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#⚡️@vipv2rey (Hysteria)
+hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#⚡️ @vipv2rey(Hysteria)
+hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#⚡️ @vipv2rey(Hysteria2)
 hy2://18240b2dfdd76484@70.34.207.153:443?obfs=salamander&obfs-password=d2648ec2&insecure=1&sni=70.34.207.153#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Sp%C3%A5nga%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://freeasfree.f215b295e3c0bf6a@65.109.219.247:7443?obfs=salamander&obfs-password=f215b295e3c0bf6a&insecure=1&sni=zara.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://81ea378b37931b23@77.221.158.52:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
@@ -588,18 +603,3 @@ hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@54.249.79.143:307
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@54.250.34.221:3074/?insecure=1&sni=TG.%40WangCai2#%E2%99%BB%EF%B8%8F3%40oneclickvpnkeys
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@54.250.34.221:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-54.250.34.221:3074
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@60.249.35.59:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9222%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@60.249.35.60:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9223%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@60.249.35.94:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9218%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@60.249.35.95:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9217%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@60.249.35.96:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9219%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@60.249.35.96:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.35.96:3074
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.@WangCai2#⚡️@vpnserverrr (Hysteria)
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG WangCai2@23.247.137.67:3074/?insecure=1&sni=TG.@WangCai2#⚡️@vpnserverrr (Hysteria)
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.@WangCai2#♻️8@oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.@WangCai2#⚡️@vpnserverrr (Hysteria)
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.@WangCai2#⚡️@vpnserverrr (Hysteria)
-hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_239%20%40wangcai_8
-hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_244%20%40wangcai_8
-hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@18.183.245.244:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-18.183.245.244:3074
-hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
-hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_72%20%40wangcai_8
