@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@209.200.246.141:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇺🇸 US-209.200.246.141:443
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.22.187.105:30102?insecure=1#🔒 HYSTERIA-UDP 🇧🇷 BR-144.22.187.105:30102
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@207.211.175.16:443?mport=55000-56000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.175.16:443
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@129.154.234.42:30102?insecure=1#🔒 HYSTERIA-UDP 🇮🇳 IN-129.154.234.42:30102
+hy2://0123e6e1-cdcc-445d-96c8-ede02a4e0768@[2407:cdc0:b02e::18c0]:443?mport=30000-40000#🔒 HYSTERIA-UDP 🇭🇰 HK-[2407:cdc0:b02e::18c0]:443
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.236.149.43:10001?sni=SG3.1010520.shop#🔒 HYSTERIA-UDP 🇸🇬 SG-172.236.149.43:10001
 hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379?insecure=1&sni=hsg.fobbc.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-47.128.157.34:3379
 hy2://freeasfree.f215b295e3c0bf6a@65.109.219.247:7443?obfs=salamander&obfs-password=f215b295e3c0bf6a&insecure=1&sni=zara.com#🔒 HYSTERIA-UDP 🇫🇮 FI-65.109.219.247:7443
 hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@193.123.229.26:443?insecure=1&sni=ftp.chillwaze.com#🔒 HYSTERIA-UDP 🇰🇷 KR-193.123.229.26:443
@@ -597,9 +603,3 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@18.183.184.241:3074/?
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.@WangCai2#🔰13@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.@WangCai2#🔰32@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@23.247.137.67:3074/?insecure=1&sni=TG.@WangCai2#🔰7@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@35.72.184.29:3074/?insecure=1&sni=TG.@WangCai2#🔰11@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.@WangCai2#🔰12@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.@WangCai2#🔰16@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.@WangCai2#🔰33@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@45.11.104.44:3074/?insecure=1&sni=TG.@WangCai2#🔰31@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.@WangCai2#🔰29@oneclickvpnkeys
