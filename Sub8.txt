@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://de44b044-8f90-4e18-b742-16591667ff96@20.243.85.49:10443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-102
 vless://de44b044-8f90-4e18-b742-16591667ff96@40.79.73.114:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf
 vless://de44b044-8f90-4e18-b742-16591667ff96@20.240.254.247:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf
 vless://de44b044-8f90-4e18-b742-16591667ff96@20.74.223.241:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-80
