@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#🔒 HYSTERIA-UDP 🇬🇧 GB-[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631
-hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒 HYSTERIA-UDP 🇺🇸 US-129.159.97.206:443
 hy2://cd3306c2-cef9-4644-812d-7437780e3658@64.110.68.113:18383?insecure=1#🔒 HYSTERIA-UDP 🇰🇷 KR-64.110.68.113:18383
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.164.255:30102?insecure=1&sni=us11.wish.ml#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.164.255:30102
 hy2://66db8d98-06d5-4624-bdc4-9e014fb3fda2@159.69.244.72:443?mport=30000-40000#🔒 HYSTERIA-UDP 🇩🇪 DE-159.69.244.72:443
@@ -603,3 +601,5 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.184.241:
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_244%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.152:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_152%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.155:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_155%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.157:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_157%20%40wangcai_8
