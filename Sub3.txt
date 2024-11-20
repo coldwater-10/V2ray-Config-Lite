@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.118.147:443?mport=55000-56000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.118.147:443
-hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-178.128.113.131:30002
-hy2://782efefcaac2a7f26e2be42f7bc5d75a@185.219.132.29:443?insecure=1&sni=quran.mci.ai#🔒 HYSTERIA-UDP 🇹🇷 TR-185.219.132.29:443
-hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080?sni=jp4.trojanws.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-140.82.16.240:8080
-hy2://966b38ef-3d70-4d4e-8e0f-179bf6f5533a@130.61.92.212:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇩🇪 DE-130.61.92.212:443
-hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-156.229.163.98:22222
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@40.233.91.166:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇨🇦 CA-40.233.91.166:443
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@83.147.17.130:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇬🇧 GB-83.147.17.130:443
-hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379?insecure=1&sni=hsg.fobbc.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-47.128.157.34:3379
 hy2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=con.bitplatform-servers.com#🔒 HYSTERIA-UDP 🇩🇪 DE-156.67.30.77:48173
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒 HYSTERIA-UDP 🇺🇸 US-129.159.97.206:443
 hy2://a7a51295@156.254.115.124:55134?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-156.254.115.124:55134
@@ -603,3 +594,12 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@125.227.83.22:3
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@125.227.83.24:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_24%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@125.227.83.25:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_25%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@125.227.83.26:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_26%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_237%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.184.241:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_241%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_244%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.152:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_152%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.155:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_155%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.157:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_157%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.158:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_158%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@35.72.184.29:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_29%20%40wangcai_8
