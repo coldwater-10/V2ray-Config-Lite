@@ -3,6 +3,36 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M398,128.7h-20.5v-20.5H398V128.7z M379.6,126.6h16.3v-16.3h-16.3V126.6z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="374.7" y="117.4" transform="matrix(0.707 -0.7072 0.7072 0.707 29.8555 308.9193)" class="st24" width="26" height="2.1"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="386.7" y="105.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 29.8185 308.8498)" class="st24" width="2.1" height="26"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <path class="st24" d="M379.6,128.7h-20.5v-20.5h20.5V128.7z M361.2,126.6h16.3v-16.3h-16.3V126.6z"/>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
                                                             <path class="st24" d="M361.2,128.7h-20.5v-20.5h20.5V128.7z M342.8,126.6h16.3v-16.3h-16.3V126.6z"/>
                                                         </g>
                                                     </g>
@@ -573,33 +603,3 @@
                                 </g>
                                 <g>
                                     <g>
-                                        <circle class="st24" cx="249.8" cy="166.7" r="9.7"/>
-                                        <circle class="st25" cx="249.8" cy="166.7" r="6.9"/>
-                                    </g>
-                                    <g>
-                                        <line class="st26" x1="249.8" y1="128.7" x2="249.8" y2="166.7"/>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                        <g>
-                            <g>
-                                <g>
-                                    <g>
-                                        <g>
-                                            <g>
-                                                <g>
-                                                    <g>
-                                                        <path class="st24" d="M380,276.2h-21v-186h21V276.2z M361.1,274.1H378V92.2h-16.9V274.1z"/>
-                                                    </g>
-                                                </g>
-                                                <g>
-                                                    <g>
-                                                        <g>
-                                                            <path class="st24" d="M379.8,110.6h-20.5V90.1h20.5V110.6z M361.4,108.5h16.3V92.2h-16.3V108.5z"/>
-                                                        </g>
-                                                    </g>
-                                                    <g>
-                                                        <g>
-                                                            
-                                                                <rect x="368.5" y="87.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 37.3 290.6633)" class="st24" width="2.1" height="26"/>
