@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-                        <g>
-                            <g>
-                                <path class="st3" d="M335.6,369.9l-180,0.1c-6.8,0-12.4-5.5-12.4-12.3l0,0l204.7-0.2l0,0C348,364.3,342.4,369.9,335.6,369.9z"/>
-                                <path class="st4" d="M335.6,365.6l-180,0.1c-5.3,0-9.8-3.4-11.6-8.1l-0.8,0c0,6.8,5.5,12.3,12.4,12.3l180-0.1
                                     c6.8,0,12.3-5.5,12.3-12.4l-0.8,0C345.5,362.2,340.9,365.6,335.6,365.6z"/>
                                 <path class="st5" d="M257.2,361.7l-23.3,0c-2.3,0-4.1-1.8-4.1-4.1l0,0l31.5,0l0,0C261.4,359.9,259.5,361.7,257.2,361.7z"/>
                             </g>
@@ -603,3 +599,7 @@
 
                         .ssst1 {
                             fill: #34383C;
+                        }
+
+                        .ssst2 {
+                            fill: #0682B4;
