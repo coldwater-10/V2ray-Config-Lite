@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-                    style="enable-background:new 0 0 453.4 102.2;" xml:space="preserve">
-                    <style type="text/css">
-                        .st007 {
-                            fill: #8F9195;
-                        }
-
-                        .ssst1 {
-                            fill: #34383C;
-                        }
-
-                        .ssst2 {
-                            fill: #0682B4;
-                        }
-
                         .ssst3 {
                             fill: #31B7E9;
                         }
@@ -603,3 +589,17 @@
                                                         </g>
                                                     </g>
                                                     <g>
+                                                        <g>
+                                                            
+                                                                <rect x="405.1" y="105.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 35.2087 321.8626)" class="st24" width="2.1" height="26"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M398,128.7h-20.5v-20.5H398V128.7z M379.6,126.6h16.3v-16.3h-16.3V126.6z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
