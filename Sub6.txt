@@ -3,6 +3,25 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                        </g>
+                        <g>
+                            <path class="st2" d="M361.9,251.7h-11.7v-12.8c0-6.4-4.5-11.8-10.5-13.2v-15.9h-4.3v15.6c-6.9,0.6-12.4,6.4-12.4,13.5v13.2h-11.7
+                                v14.7h-0.8v27.4l-21.2-0.2v-32.7H265v24H248v23.3h-20.6v61.6h68.5v0h14.7v0h85.9v-77.7h-34.5L361.9,251.7z"/>
+                            <polygon class="st2" points="119.8,285.6 119.8,254.9 131.3,254.9 131.3,238.5 135.6,238.5 135.6,254.9 146.2,254.9 146.2,285.6 
+                                158.1,285.6 158.1,303.9 177,303.9 177,241.4 216.5,241.4 216.5,370.2 190.8,370.2 179.7,370.2 151.8,370.2 138.9,370.2 
+                                105.2,370.2 105.2,285.6 		"/>
+                        </g>
+                        <g>
+                            <g>
+                                <path class="st3" d="M335.6,369.9l-180,0.1c-6.8,0-12.4-5.5-12.4-12.3l0,0l204.7-0.2l0,0C348,364.3,342.4,369.9,335.6,369.9z"/>
+                                <path class="st4" d="M335.6,365.6l-180,0.1c-5.3,0-9.8-3.4-11.6-8.1l-0.8,0c0,6.8,5.5,12.3,12.4,12.3l180-0.1
+                                    c6.8,0,12.3-5.5,12.3-12.4l-0.8,0C345.5,362.2,340.9,365.6,335.6,365.6z"/>
+                                <path class="st5" d="M257.2,361.7l-23.3,0c-2.3,0-4.1-1.8-4.1-4.1l0,0l31.5,0l0,0C261.4,359.9,259.5,361.7,257.2,361.7z"/>
+                            </g>
+                            <g>
+                                <path class="st0" d="M337.4,357.5l-183.6,0.1l-0.1-110.8c0-6.4,5.1-11.5,11.5-11.5l160.6-0.1c6.4,0,11.5,5.1,11.5,11.5
+                                    L337.4,357.5z"/>
+                                <rect x="163.3" y="244.8" class="st2" width="164.5" height="103.2"/>
                                 <rect x="163.3" y="338.1" class="st2" width="164.5" height="9.9"/>
                                 <rect x="163.3" y="244.8" class="st2" width="164.5" height="4.9"/>
                                 <g>
@@ -584,22 +603,3 @@
             <span class="logo"><a href="https://www.directadmin.com" target="_blank">
                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 453.4 102.2"
-                    style="enable-background:new 0 0 453.4 102.2;" xml:space="preserve">
-                    <style type="text/css">
-                        .st007 {
-                            fill: #8F9195;
-                        }
-
-                        .ssst1 {
-                            fill: #34383C;
-                        }
-
-                        .ssst2 {
-                            fill: #0682B4;
-                        }
-
-                        .ssst3 {
-                            fill: #31B7E9;
-                        }
-                    </style>
-                    <g>
