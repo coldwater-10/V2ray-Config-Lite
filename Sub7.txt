@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+    <footer class="container">
+        <div class="left-side">
             <p>Powered by</p>
             <span class="logo"><a href="https://www.directadmin.com" target="_blank">
                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
@@ -601,5 +603,3 @@
                                                         </g>
                                                     </g>
                                                     <g>
-                                                        <g>
-                                                            
