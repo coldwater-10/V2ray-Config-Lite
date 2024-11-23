@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%AB%F0%9F%87%B7+%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87+%F0%9F%95%8A%EF%B8%8F%40Gozargah_Azadi
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.179:5498#%40Artemisvpn1
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.10:9090#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.218:7002#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#%40Artemisvpn1
 vless://85ceb245-40ee-433b-9e51-4c7a3167a70b@zula.ir:443/?type=ws&encryption=none&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2Fc3afc49f.ab841-rcb.pages.dev%2F%3Fed%3D2048.%40AB_841.%40AB_841.%40AB_841.%40AB_841&security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%E2%AD%9533%40oneclickvpnkeys
@@ -206,7 +203,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-03-AZAR-1403 🕑 06:08
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-03-AZAR-1403 🕑 06:54
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
@@ -603,3 +600,6 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@20.221.32.145:443?encryption=none&s
 vless://de44b044-8f90-4e18-b742-16591667ff96@65.75.194.66:51246?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-13
 vless://de44b044-8f90-4e18-b742-16591667ff96@20.220.29.122:2053?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf
 vless://de44b044-8f90-4e18-b742-16591667ff96@40.123.47.252:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-226
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.221.32.145:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@40.123.41.147:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-59
+vless://de44b044-8f90-4e18-b742-16591667ff96@40.123.42.160:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-247
