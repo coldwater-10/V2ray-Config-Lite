@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                                                        </g>
                                                     </g>
                                                     <g>
                                                         <g>
@@ -602,4 +603,3 @@
                                     <line class="st22" x1="253.1" y1="173.6" x2="264.7" y2="207.3"/>
                                     <line class="st22" x1="245.1" y1="169.6" x2="222.4" y2="200.1"/>
                                     <g>
-                                        <path class="st19" d="M251.8,184.6l23.4,30.6c2.6,3.4,1.9,8.2-1.4,10.7l-30.6,23.4c-3.4,2.6-8.2,1.9-10.7-1.4l-23.4-30.6
