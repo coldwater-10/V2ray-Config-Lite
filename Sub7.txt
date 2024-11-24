@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e7c1a1f9f080658</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">40.76.119.7</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
     
   </p>
@@ -57,7 +77,7 @@ vless://ef46e73e-82ab-42dc-a37c-6037cc15f942@149.62.187.191:443/?type=tcp&encryp
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-04-AZAR-1403 🕑 22:14
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-04-AZAR-1403 🕑 23:07
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -67,7 +87,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-04-AZAR-1403 🕑 22:42
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-04-AZAR-1403 🕑 23:45
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
@@ -583,23 +603,3 @@ ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDI5OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bH
 ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDIyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNakl4TVElM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
 ssr://MTgzLjI0MC4yMjAuODQ6MTE4NDY6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qRXkmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
 ssr://MTgzLjI0MC4yMjAuODQ6MTE4MDc6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qRXomcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTgzLjI0MC4yMjAuODQ6MTE4MDY6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qRTAmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTgzLjI0MC4yMjAuODQ6MzUyNDc6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qRTEmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDIzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNakl4TmclM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDI3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNakl4TnclM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTgzLjI0MC4yMjAuODQ6MTE4MDQ6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qRTQmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTgzLjI0MC4yMjAuODQ6MTE4MDU6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qRTUmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDQ1OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNakl5TUElM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTIwLjIzMi4yMzQuMjQ2OjExNTAxOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNakl5TVElM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTgzLjI0MC4yMjAuODQ6MTEwMDU6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qSXkmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTgzLjI0MC4yMjAuODQ6MTE4MDM6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qSXomcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://MTgzLjI0MC4yMjAuODQ6MjI4NDg6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweU1qSTAmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
-ssr://ejAxMTcuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkh1UENmaDZwVFJTMHhOaTR4TnpBdU1USTNMamN6TFRJeU16RSUzRCZwcm90b3BhcmFtPQ==
-ssr://ejAxMTEuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxJTJGQ2ZoN2RHVWkweE15NHpOaTR6TXk0eE5qSXRNakl6TWclM0QlM0QmcHJvdG9wYXJhbT0=
-ssr://ejAxMTAuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabCZyZW1hcmtzPThKJTJCSHFmQ2ZoNnBFUlMweE9DNHhOVE11TmprdU1UUTBMVEl5TXpNJTNEJnByb3RvcGFyYW09
-ssr://ejAxMTYuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabCZyZW1hcmtzPThKJTJCSHJ2Q2ZoNnBKUlMwekxqSTFNaTQ1TlM0M01DMHlNak0wJnByb3RvcGFyYW09
-ssr://MTIwLjE5OC43MS4xODQ6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP29iZnNwYXJhbT1kQzV0WlM5MmNHNW9ZWFElM0QmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhNakF1TVRrNExqY3hMakU0TkMweU1qZzQmcHJvdG9wYXJhbT1Oak13TmpnNllXcG9hbVZwTVRJek5EVTI=
-ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1QVDA5UFElM0QlM0QmcmVtYXJrcz04SiUyQkhydkNmaDdOSlRpMHhOUzR5TURZdU1qVXdMakUzTUMweU5ERTEmcHJvdG9wYXJhbT1QVDA5UFElM0QlM0Q=
-ssr://ejAxMTMuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhwdkNmaDdwQlZTMHpMakkxTGpFME9DNHhNekF0TWpRek1BJTNEJTNEJnByb3RvcGFyYW09
-ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhOQzR5T1M0eE1qUXVNVFk0TFRJMk9UUSUzRCZwcm90b3BhcmFtPQ==
-ssr://MzYuMTU2LjIyMi4yNTozMjk4NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6aHR0cF9zaW1wbGU6ZW5wMGR6bHFhemRuZFE9PS8/b2Jmc3BhcmFtPVpUVmhZakEyTVRneExtMXBZM0p2YzI5bWRDNWpiMjAlM0QmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHpOaTR4TlRZdU1qSXlMakkxTFRJM01qYyUzRCZwcm90b3BhcmFtPU5qRTRNVHB0T1c5RVNXTSUzRA==
