@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2607:5300:210:2900::d917:ac09]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇨🇦 CA-[2607:5300:210:2900::d917:ac09]:443
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒 HYSTERIA-UDP 🇧🇷 BR-132.226.162.10:30102
-hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒 HYSTERIA-UDP 🇩🇪 DE-77.91.77.27:39292
-hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@107.175.34.118:10003?sni=US.1010520.shop#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.34.118:10003
-hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@164.92.254.56:10001?sni=de.1010520.shop#🔒 HYSTERIA-UDP 🇩🇪 DE-164.92.254.56:10001
-hy2://d2e21fabfe6ddb83@70.34.205.24:443?obfs=salamander&obfs-password=ca39a177&insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇸🇪 SE-70.34.205.24:443
 hy2://81ea378b37931b23@77.221.158.52:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒 HYSTERIA-UDP 🇫🇮 FI-77.221.158.52:7373
 hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@83.147.17.130:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇬🇧 GB-83.147.17.130:443
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-144.202.119.175:8080
@@ -603,3 +597,9 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.194.254.229:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-52.194.254.229:3074
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_206%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-52.199.249.206:3074
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.125:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_125%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.125:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.3.125:3074
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.227:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_227%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.227:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.3.227:3074
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.228:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_228%20%40wangcai_8
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.228:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇹🇼 TW-60.249.3.228:3074
