@@ -3,14 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://9974b6a7-9c0e-423b-a77b-87ac90465d81@38.242.215.250:11924?obfs=salamander&obfs-password=HxAZoyubMe5ADvIs&sni=con.shellcorp.ir#🔒 HYSTERIA-UDP 🇩🇪 DE-38.242.215.250:11924
-hy2://a08de66d-fe9e-4c81-9db0-4308994fd5a6@163.123.192.140:443?mport=54000-54060&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-163.123.192.140:443
-hy2://80ad038b-bf70-41d8-bcd6-87d5c79eb0b2@170.39.217.209:443?insecure=1&sni=alipay-api-fr-a-1.testred.xyz#🔒 HYSTERIA-UDP 🇫🇷 FR-170.39.217.209:443
-hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒 HYSTERIA-UDP 🇺🇸 US-163.123.192.167:443
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@40.233.91.166:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇨🇦 CA-40.233.91.166:443
-hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒 HYSTERIA-UDP 🇺🇸 US-129.159.97.206:443
-hy2://0123e6e1-cdcc-445d-96c8-ede02a4e0768@80.85.152.22:443?mport=30000-40000#🔒 HYSTERIA-UDP 🇷🇺 RU-80.85.152.22:443
-hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@[2603:c024:4510:2769:3788:4df6:250e:bc8b]:23729?insecure=1#🔒 HYSTERIA-UDP 🇸🇬 SG-[2603:c024:4510:2769:3788:4df6:250e:bc8b]:23729
+hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇵🇱 PL-31.186.85.171:12378
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@107.189.29.215:32739?sni=lu.jisovpn.site#🔒 HYSTERIA-UDP 🇱🇺 LU-107.189.29.215:32739
+hy2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#🔒 HYSTERIA-UDP 🇬🇧 GB-[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631
+hy2://rs3h2c9n8X@65.21.158.249:2053?insecure=1#🔒 HYSTERIA-UDP 🇫🇮 FI-65.21.158.249:2053
+hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-[2400:8a20:113:36::]:64321
+hy2://9f73c619627d6a5d@66.245.192.15:443?obfs=salamander&obfs-password=bd7f765e&insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇬🇧 GB-66.245.192.15:443
+hy2://bc19ee74-433d-4c34-be4b-67f969a2bb57@104.168.128.219:10002?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.128.219:10002
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.84.168.166:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇲🇽 MX-140.84.168.166:443
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️ @vipv2rey(Hysteria1)
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#⚡️@vipv2rey (Hysteria)
