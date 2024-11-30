@@ -3,20 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@83.147.17.189:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇬🇧 GB-83.147.17.189:443
-hy2://59df7208-e1f6-4e0c-ab8c-fc8d4d2608e0@23.26.34.209:8080?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇯🇵 JP-23.26.34.209:8080
-hy2://a08de66d-fe9e-4c81-9db0-4308994fd5a6@108.181.22.153:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.22.153:443
-hy2://cd3306c2-cef9-4644-812d-7437780e3658@150.230.29.194:18383?insecure=1#🔒 HYSTERIA-UDP 🇨🇦 CA-150.230.29.194:18383
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.130.218:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-192.9.130.218:443
-hy2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?obfs=salamander&obfs-password=cd29099d&insecure=1&sni=vkvd127.mycdn.me#🔒 HYSTERIA-UDP 🇺🇸 US-[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443
-hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@1.162.146.24:51373?insecure=1&sni=hkt.trojan.tel#🔒 HYSTERIA-UDP 🇹🇼 TW-1.162.146.24:51373
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.178.161:30102?insecure=1&sni=us6.wish.ml#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.178.161:30102
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.189.252:30102?insecure=1&sni=us12.wish.ml#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.189.252:30102
-hy2://84854B66-8478-4B87-8C0D-CD1699426C41@52.220.69.217:3531?sni=sg2.ddns-link-b5.uk#🔒 HYSTERIA-UDP 🇸🇬 SG-52.220.69.217:3531
-hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@107.172.235.75:40443?sni=speedtest.realityforus.com#🔒 HYSTERIA-UDP 🇺🇸 US-107.172.235.75:40443
+hy2://bc19ee74-433d-4c34-be4b-67f969a2bb57@104.168.128.219:10002?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.128.219:10002
+hy2://KevinZakarian@179.61.132.96:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇩🇪 DE-179.61.132.96:8443
+hy2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&insecure=1&sni=vkvd127.mycdn.me#🔒 HYSTERIA-UDP 🇫🇷 FR-51.15.19.206:8443
+hy2://01130e6dda139c1c@144.22.243.213:24749?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-144.22.243.213:24749
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:40b:7700::68ff:eac6]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-[2001:41d0:40b:7700::68ff:eac6]:443
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443?sni=dxobg4azmk.gafnode.sbs#🔒 HYSTERIA-UDP 🇺🇸 US-107.172.235.75:47443
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?insecure=1&sni=du.wish.ml#🔒 HYSTERIA-UDP 🇨🇦 CA-40.233.76.38:30102
-hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@[2001:41d0:245:d400::236c:ead6]:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-[2001:41d0:245:d400::236c:ead6]:443
+hy2://cd3306c2-cef9-4644-812d-7437780e3658@150.230.29.194:18383?insecure=1#🔒 HYSTERIA-UDP 🇨🇦 CA-150.230.29.194:18383
+hy2://560b1d72-bc85-4154-86b0-fa2c4775cf4b@61.223.142.138:443?mport=10001-19999#🔒 HYSTERIA-UDP 🇹🇼 TW-61.223.142.138:443
+hy2://21e3bbd8-1dbe-42c3-a998-ea0c1b7a1cde@87.121.61.171:443?mport=50000-60000#🔒 HYSTERIA-UDP 🇫🇷 FR-87.121.61.171:443
+hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒 HYSTERIA-UDP 🇬🇧 GB-142.93.39.217:10001
+hy2://81ea378b37931b23@77.221.158.52:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒 HYSTERIA-UDP 🇫🇮 FI-77.221.158.52:7373
+hy2://28f6d888-cbc5-4210-8cd2-b40cf566d9a8@194.87.18.224:1200?insecure=1&obfs=salamander&obfs-password=NjkxYTRjYWIzNjRiNGQyOQ%3D%3D#🔒 HYSTERIA-UDP 🇨🇭 CH-194.87.18.224:1200
+hy2://KevinZakarian@179.61.132.91:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇩🇪 DE-179.61.132.91:8443
+hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@140.245.51.129:10001?sni=SG.1010520.shop#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.51.129:10001
+hy2://freeasfree.f215b295e3c0bf6a@65.109.219.247:7443?obfs=salamander&obfs-password=f215b295e3c0bf6a&insecure=1&sni=zara.com#🔒 HYSTERIA-UDP 🇫🇮 FI-65.109.219.247:7443
 hy2://3a10983a-d8b3-4b16-b3d5-fe3ed7ec724c@ru.mochizuki.top:80/?sni=ru.mochizuki.top#CHANEL@v2rayngzendegimamad_Aq
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️ @vipv2rey(Hysteria1)
@@ -602,4 +603,3 @@ hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@35.77.94.152:3074
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B59%40Antifilterjadid 
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B59%40oneclickvpnkeys
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@43.207.142.72:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-43.207.142.72:3074
-hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B02%40Antifilterjadid 
