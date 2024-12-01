@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://f0604697-d602-11ee-aaa8-00505603e70d@104.21.49.18:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&fp=chrome&type=ws&sni=st-fr-1.brocdn.com#RELAY🚩 | st-fr-1.brocdn.com-443 | 60.99ms
-vless://ecf605cd-bddf-45db-a3d4-a254c776ef52@95.164.36.59:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 3.58ms
-vless://ece920eb-bdbf-4219-bda4-06e48c031d7d@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&host=meta1.modinso.ir&type=ws&sni=meta1.modinso.ir#RELAY🚩 | meta1.modinso.ir-443 | 2.16ms
-vless://eb5af328-bbd9-44ad-a978-7385e2971114@190.93.247.155:80?path=%2Fvless+%40hopev2ray+%2C%40hopev2ray+%2C%40hopev2ray&security=none&encryption=none&host=De2.vless.site.&type=ws#DE🇩🇪 | De2.vless.site.-80 | 164.86ms
-vless://e481c368-59a0-471d-ad54-b08292c6e32b@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 69.22ms
-vless://e481c368-59a0-471d-ad54-b08292c6e32b@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 25.8ms
-vless://e481c368-59a0-471d-ad54-b08292c6e32b@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.01ms
 vless://e481c368-59a0-471d-ad54-b08292c6e32b@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 29.77ms
 vless://e481c368-59a0-471d-ad54-b08292c6e32b@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 2.86ms
 vless://e481c368-59a0-471d-ad54-b08292c6e32b@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v14.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 2.78ms
@@ -603,3 +596,10 @@ vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.234:443?path=%2F%3Fed%3D2
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.75:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 237.76ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.110:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 235.81ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.244:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 338.4ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.189:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 223.07ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.108:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 243.91ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.195:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 244.35ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.20:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 249.85ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.102:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 227.43ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.188:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 241.33ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.166:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 236.12ms
