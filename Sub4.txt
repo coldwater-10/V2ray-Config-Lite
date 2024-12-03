@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@139.185.36.59:443?insecure=1&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://9SbSesP9Q3@193.188.21.227:28188?insecure=1&sni=ir.ir.ir.speedtest.net.iririr.monster#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://undefined@193.188.21.227:28188?insecure=1&sni=ir.ir.ir.speedtest.net.iririr.monster#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@152.69.208.30:23729?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Kampong%20Loyang%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@129.150.38.200:23729?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Kampong%20Loyang%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@[2603:c024:4510:2769:3788:4df6:250e:bc8b]:23729?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Kampong%20Loyang%20%F0%9F%8C%8F%20HY2-UDP-TLS%206%E2%83%A3
+hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@[2603:c024:4510:2769:4c5b:e9a0:2427:7f58]:23729?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Kampong%20Loyang%20%F0%9F%8C%8F%20HY2-UDP-TLS%206%E2%83%A3
+hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=google.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@140.245.51.129:10001?sni=SG.1010520.shop#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.236.149.43:10001?sni=SG3.1010520.shop#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379?insecure=1&sni=hsg.fobbc.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.47.111:443?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.57.42:443?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@139.185.34.29:50000?insecure=1&sni=www.hoyoverse.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
@@ -588,18 +603,3 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@45.11.104.113:3074/?i
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@45.11.104.44:3074/?insecure=1&sni=TG.@WangCai2#🔰31@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.@WangCai2#🔰29@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.@WangCai2#🔰14@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.@WangCai2#🔰18@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.@WangCai2#🔰10@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@54.250.34.221:3074/?insecure=1&sni=TG.@WangCai2#🔰15@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@54.64.148.82:3074/?insecure=1&sni=TG.@WangCai2#🔰19@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@57.180.35.76:3074/?insecure=1&sni=TG.@WangCai2#🔰8@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.59:3074/?insecure=1&sni=TG.@WangCai2#🔰25@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.60:3074/?insecure=1&sni=TG.@WangCai2#🔰22@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.94:3074/?insecure=1&sni=TG.@WangCai2#🔰21@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.95:3074/?insecure=1&sni=TG.@WangCai2#🔰26@oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.96:3074/?insecure=1&sni=TG.@WangCai2#🔰24@oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@139.162.119.212:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9221%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9210%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%928%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%E2%99%BB%EF%B8%8F10%40oneclickvpnkeys
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@194.104.146.113:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇭🇰 HK-194.104.146.113:3074
