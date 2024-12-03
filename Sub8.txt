@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@www.speedtest.net.whiteber.insistom.d6625996.v03.simansanat.ir.:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@www.speedtest.net.whiteber.insistom.d6625996.v05.simansanat.ir.:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@www.speedtest.net.whiteber.insistom.d6625996.v09.simansanat.ir.:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://5fbd0f92-1eb4-4e65-9c86-5c08a3950c57@91.107.159.81:80/?type=ws&encryption=none&host=main-page-2.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&path=23425%2Fphoto-art&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@91.107.141.210:2052/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@91.107.169.110:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://d7002083-e7f5-488c-f8e7-1417a86cac7c@91.107.232.209:32864/?type=grpc&encryption=none#%40V2rayMiner
@@ -334,7 +338,6 @@ trojan://auto@ipv4.ip.sb:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&t
 trojan://auto@tasteatlas.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#trojanmz.pages.dev%20%E8%AF%B7%E9%80%9A%E8%BF%87%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E8%AE%A2%E9%98%85%EF%BC%81
 trojan://auto@yecaoyun.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#trojanmz.pages.dev%20%E8%AF%B7%E9%80%9A%E8%BF%87%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D%E8%AE%A2%E9%98%85%EF%BC%81
 
-ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHIlMkZDZmg3VktVQzAxTWk0eE9UVXVNakkxTGpFNE5TMHlOVFl6JnByb3RvcGFyYW09
 ssr://ejAxMTUuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxUENmaDZaRFFTMHhOUzR4TlRZdU1USXpMakUzT1MweE1qYzAmcHJvdG9wYXJhbT0=
 ssr://NDIuMTU3LjE5Ni4xMDM6MTAxMjA6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6aHR0cF9wb3N0OldXczBWV1J5VDNsUlp3PT0vP29iZnNwYXJhbT1ZV3BoZUM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMDBNaTR4TlRjdU1UazJMakV3TXkweU1URTAmcHJvdG9wYXJhbT0=
 ssr://NDIuMTU3LjE5Ni4xMDQ6MTA5Njc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpka050Y0RoQlRHbG9OZz09Lz9vYmZzcGFyYW09WVdwaGVDNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTAwTWk0eE5UY3VNVGsyTGpFd05DMHlNVEUxJnByb3RvcGFyYW09
@@ -346,6 +349,7 @@ ssr://ejAxMTYuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LW
 ssr://MTIwLjE5OC43MS4xODQ6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP29iZnNwYXJhbT1kQzV0WlM5MmNHNW9ZWFElM0QmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhNakF1TVRrNExqY3hMakU0TkMweU16UTAmcHJvdG9wYXJhbT1Oak13TmpnNllXcG9hbVZwTVRJek5EVTI=
 ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1QVDA5UFElM0QlM0QmcmVtYXJrcz04SiUyQkhydkNmaDdOSlRpMDBNeTR5TURRdU1UZzFMakl4TWkweU5EY3gmcHJvdG9wYXJhbT1QVDA5UFElM0QlM0Q=
 ssr://ejAxMTMuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhwdkNmaDdwQlZTMHpMakkxTGpFME1TNHhNVEl0TWpRNE5nJTNEJTNEJnByb3RvcGFyYW09
+ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHIlMkZDZmg3VktVQzAxTWk0eE9UVXVNakkxTGpFNE5TMHlOVFl6JnByb3RvcGFyYW09
 ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhOQzR5T1M0eE1qUXVNVFk0TFRJM05UQSUzRCZwcm90b3BhcmFtPQ==
 ssr://MzYuMTU2LjIyMi4yNTozMjk4NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6aHR0cF9zaW1wbGU6ZW5wMGR6bHFhemRuZFE9PS8/b2Jmc3BhcmFtPVpUVmhZakEyTVRneExtMXBZM0p2YzI5bWRDNWpiMjAlM0QmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHpOaTR4TlRZdU1qSXlMakkxTFRJM09ETSUzRCZwcm90b3BhcmFtPU5qRTRNVHB0T1c5RVNXTSUzRA==
 ssr://c3NyZnJlZS56aHVqaWNuMi5uZXQ6MTAwMDI6YXV0aF9jaGFpbl9hOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHV2Q2ZoN2hWVXkwMk5DNHpNaTQzTGpFME1pMHpNRE14JnByb3RvcGFyYW09
