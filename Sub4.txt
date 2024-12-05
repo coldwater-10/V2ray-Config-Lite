@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
-hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
-hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379?insecure=1&sni=hsg.fobbc.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.47.111:443?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.57.42:443?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@139.185.34.29:50000?insecure=1&sni=www.hoyoverse.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Dubai%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
@@ -603,3 +600,6 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.60:3074/?in
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.94:3074/?insecure=1&sni=TG.@WangCai2#🔰21@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.95:3074/?insecure=1&sni=TG.@WangCai2#🔰26@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.96:3074/?insecure=1&sni=TG.@WangCai2#🔰24@oneclickvpnkeys
+hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@139.162.119.212:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9221%40oneclickvpnkeys
+hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%9210%40oneclickvpnkeys
+hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%86%928%40oneclickvpnkeys
