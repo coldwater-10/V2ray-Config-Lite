@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 2.71ms
 vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v14.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 3.78ms
 vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 3.22ms
 vless://9e8aad0e-5ba2-4005-b5fb-03521dc00345@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 3.72ms
@@ -602,4 +603,3 @@ vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.4:443?path=%2F%3Fed%3D204
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.2:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 269.43ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.182:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 274.7ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.48:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 260.3ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.206:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 267.14ms
