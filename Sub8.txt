@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://de44b044-8f90-4e18-b742-16591667ff96@141.147.109.120:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@129.159.222.174:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@141.144.206.96:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@130.162.187.1:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@141.148.246.166:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@143.47.188.100:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@143.47.228.63:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@158.178.145.70:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
+vless://de44b044-8f90-4e18-b742-16591667ff96@143.47.253.72:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
 vless://de44b044-8f90-4e18-b742-16591667ff96@130.162.171.122:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
 vless://de44b044-8f90-4e18-b742-16591667ff96@129.154.50.220:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
 vless://de44b044-8f90-4e18-b742-16591667ff96@84.8.147.5:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#cf
