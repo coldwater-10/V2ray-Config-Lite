@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@129.150.38.200:23729?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Kampong%20Loyang%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
-hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@[2603:c024:4510:2769:3788:4df6:250e:bc8b]:23729?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Kampong%20Loyang%20%F0%9F%8C%8F%20HY2-UDP-TLS%206%E2%83%A3
 hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@[2603:c024:4510:2769:4c5b:e9a0:2427:7f58]:23729?insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Kampong%20Loyang%20%F0%9F%8C%8F%20HY2-UDP-TLS%206%E2%83%A3
 hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=google.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@140.245.51.129:10001?sni=SG.1010520.shop#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
@@ -603,3 +601,5 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@52.199.249.206:3074/?
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.@WangCai2#🔰10@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@54.250.34.221:3074/?insecure=1&sni=TG.@WangCai2#🔰15@oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@54.64.148.82:3074/?insecure=1&sni=TG.@WangCai2#🔰19@oneclickvpnkeys
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@57.180.35.76:3074/?insecure=1&sni=TG.@WangCai2#🔰8@oneclickvpnkeys
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@60.249.35.59:3074/?insecure=1&sni=TG.@WangCai2#🔰25@oneclickvpnkeys
