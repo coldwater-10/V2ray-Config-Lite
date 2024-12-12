@@ -115,6 +115,11 @@ def main():
         "https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/sub/splitted/ssr.txt",
         "https://raw.githubusercontent.com/coldwater-10/HiN-VPN/main/subscription/normal/tuic",
         "https://raw.githubusercontent.com/coldwater-10/HiN-VPN/main/subscription/normal/hysteria",
+        "https://raw.githubusercontent.com/Rayan-Config/Rayan-Config.github.io/refs/heads/main/ALL",
+        "https://raw.githubusercontent.com/Rayan-Config/Rayan-Config.github.io/refs/heads/main/CF",
+        "https://raw.githubusercontent.com/Rayan-Config/Rayan-Config.github.io/refs/heads/main/FL",
+        "https://raw.githubusercontent.com/Rayan-Config/Rayan-Config.github.io/refs/heads/main/GC",
+        "https://raw.githubusercontent.com/Rayan-Config/Rayan-Config.github.io/refs/heads/main/HYS",
     ]
 
     decoded_links = decode_links(links)
