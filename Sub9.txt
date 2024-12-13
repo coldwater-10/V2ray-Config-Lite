@@ -4,6 +4,9 @@
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
 
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@zmaoz.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-1.com&type=ws#Rayan - FL - F1 - 80
+
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@pscresearch.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-2.com&type=ws#Rayan - FL - F2 - 80
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-3.com&type=ws#Rayan - FL - F3 - 80
