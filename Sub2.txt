@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://ccf34b8e-2eba-4115-9748-904f18ca3aac@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#RELAY🚩 | gard.starmc.ir-443 | 2.15ms
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=%2F%3Fed&security=tls&encryption=none&alpn=http%2F1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#RELAY🚩 | ircp-617.pages.dev.-443 | 9.82ms
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@104.21.74.98:443?encryption=none&security=tls&sni=cc.limoo.online&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=cc.limoo.online&path=%2F_jwiEbjsl0_ol8E-%3Fed%3D2048#RELAY🚩 | cc.limoo.online-443 | 9.58ms
 vless://c8b413ab-62fd-4f36-8ed9-d962ac3e63c8@104.25.119.97:443?path=%2Fvless&security=tls&encryption=none&alpn=h2&host=fi1.vless.site&fp=firefox&type=ws&sni=fi1.vless.site#FI🇫🇮 | fi1.vless.site-443 | 115.42ms
@@ -602,4 +603,3 @@ vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@104.17.142.12:443?security=tls&type
 vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@104.17.68.85:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 2.31ms
 vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@huxley.ns.cloudflare.com:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 2.01ms
 vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@julio.ns.cloudflare.com:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 2.56ms
-vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@kyree.ns.cloudflare.com:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 2.07ms
