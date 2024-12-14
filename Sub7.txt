@@ -3,27 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vmess://eyJhZGQiOiIxNzIuNjcuMTM2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6ImF6MDUuYmV5b25keS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://16dbc072-3707-4a58-b1d9-955750fd2baf@185.133.125.140:12941/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vmess://eyJhZGQiOiIxMDQuMjEuNzQuMjM5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://8fb03411-a47b-4068-d5e8-5f7fe8a3bb4a@104.17.147.22:2082/?type=ws&encryption=none&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vmess://eyJhZGQiOiIxNzIuNjcuNzAuMTY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYWtlLmNhcGVsbGFyZS5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisIFNIzp7Qr1ZJTuKEolxuUG93ZXJlZCBieSBZRUJFS0hFICIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYWtlLmNhcGVsbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxODguMTE0Ljk5LjIwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKJcblBvd2VyZWQgYnkgWUVCRUtIRSAiLCJzY3kiOiJhdXRvIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMjEuNS4xNzAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEuYmFyYWRpaGEuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKJcblBvd2VyZWQgYnkgWUVCRUtIRSAiLCJzY3kiOiJhdXRvIiwic25pIjoiYS5iYXJhZGloYS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjYuMTIuNzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNha2UuY2FwZWxsYXJlLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6ImNha2UuY2FwZWxsYXJlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://3142ceda-6964-4377-94e5-190f17c8ad32@190.93.247.56:2052/?type=ws&encryption=none&host=webmail.palmex.iR.&path=%2Fspeedtest%3Fed%3D2560#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vless://d901e011-893d-4303-b47c-52483a2d8918@79.127.70.84:2083/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vless://a49e8ddb-31ec-4c2e-9a9d-d8a73e9b275b@89.47.197.15:8081/?encryption=none&host=Ponisha.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vmess://eyJhZGQiOiIxNTQuNDcuMjEuNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDk5IiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNzIuNjcuNjQuMTIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiZDY0NmZkOGMtMzQwNS00MGM0LThkZjgtZmI4NWQ2YmY4YjI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwicG9ydCI6IjgwIiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://a49e8ddb-31ec-4c2e-9a9d-d8a73e9b275b@89.47.197.15:8081/?encryption=none&host=Ponisha.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vless://a49e8ddb-31ec-4c2e-9a9d-d8a73e9b275b@89.47.197.15:8081/?encryption=none&host=Ponisha.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vless://a49e8ddb-31ec-4c2e-9a9d-d8a73e9b275b@89.47.197.15:8081/?encryption=none&host=Ponisha.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vless://16dbc072-3707-4a58-b1d9-955750fd2baf@185.133.125.140:12941/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vless://16dbc072-3707-4a58-b1d9-955750fd2baf@185.133.125.140:12941/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vless://16dbc072-3707-4a58-b1d9-955750fd2baf@185.133.125.140:12941/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
-vmess://eyJhZGQiOiIxNTQuNDcuMjEuNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDk5IiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTQuNDcuMjEuNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDk5IiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTQuNDcuMjEuNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDk5IiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://a49e8ddb-31ec-4c2e-9a9d-d8a73e9b275b@89.47.197.15:8081/?encryption=none&host=Ponisha.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
 vless://a49e8ddb-31ec-4c2e-9a9d-d8a73e9b275b@89.47.197.15:8081/?encryption=none&host=Ponisha.ir&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
@@ -357,6 +336,21 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 .
 
 .
+<!doctype html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_Wj2C4qR+98VjwMs3Dzdb9Cnfuynetbdl/BU0PK7DqAn9Qq2CU8cTaM8bEfFTHnL9lVophDXxXb9tgeieouNtmA==" lang="en" style="background: #2B2B2B;">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
+    <link rel="preconnect" href="https://www.google.com" crossorigin>
+</head>
+<body>
+<div id="target" style="opacity: 0"></div>
+<script>window.park = "eyJ1dWlkIjoiNjViMjMwYmUtOWJkNS00MTk3LWE4ZTUtNmU5Njg0ZmVmM2IxIiwicGFnZV90aW1lIjoxNzM0MTc5OTc1LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMTYxLjc4LjE0NyJ9Cg==";</script>
+<script src="/bOWOsHSTi.js"></script>
+</body>
+</html>
+
 hysteria2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?hiddify=1&obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=con.bitplatform-servers.com#public-hys2
 hysteria2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?hiddify=1&obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=www.google.com&insecure=1#public-hys2-2
 
@@ -392,7 +386,7 @@ vless://ef46e73e-82ab-42dc-a37c-6037cc15f942@149.62.187.191:443/?type=tcp&encryp
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-24-AZAR-1403 🕑 14:11
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-24-AZAR-1403 🕑 16:08
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -402,7 +396,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-24-AZAR-1403 🕑 14:42
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-24-AZAR-1403 🕑 15:59
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
@@ -603,3 +597,9 @@ vless://telegram-id-ArV2ray@49.13.230.16:2095/?type=ws&encryption=none&host=vkvd
 vless://telegram-id-ArV2ray@159.69.151.10:2095/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://telegram-id-ArV2ray@159.69.155.83:2095/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&ed=2095&eh=Sec-Websocket-Protocol&security=none%3D%40bored_vpn%2C%40bored_vpn%2C%40bored_vpn%2C%40bored_vpn%2C%40bored_vpn%2C%40bored_vpn%2C%40bored_vpn%2C%40bored_vpn#%40V2rayMiner
 vless://telegram-id-ArV2ray@162.55.51.215:2095/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://telegram-id-ArV2ray@188.245.32.88:2095/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://2d6d63be-e9a6-4477-9070-38f38089c46c@49.13.130.230:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://telegram-id-PcV2ray@49.13.167.82:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://36c038c9-4afd-4bf1-91f9-a80669fb8b9c@78.46.242.92:8080/?type=tcp&encryption=none#%40V2rayMiner
+vless://telegram-id-ArV2ray@188.245.64.60:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&ed=8080&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://Telegram-EXPRESSVPN_420@5.75.194.216:8880/?type=ws&encryption=none&host=9.9.9.9.76.v.www.speedtest.net.nestle.ir.ftp.debian.org.arvinbaluch.ir.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
