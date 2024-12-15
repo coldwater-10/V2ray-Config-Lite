@@ -348,7 +348,7 @@ tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:44
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-25-AZAR-1403 🕑 18:06
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-25-AZAR-1403 🕑 21:57
 hysteria://2hk.prometheusnet01.xyz:7539?auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=none&protocol=udp&mport=5000-10000&fastopen=1#🆔freev2rayi%20🔒%20HY-UDP-N/A%20🇭🇰%20HK%20down
 hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
 hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
@@ -536,13 +536,17 @@ ShadowSocks:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook.com - S1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac2MwMkRRVDR3SWhIdWtt@admin.c4.havij.co:443#Rayan - SS - @iranfreeinternet_bot - S2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac2MwMkRRVDR3SWhIdWtt@ifi-2.atena.us.kg:443#Rayan - SS - @iranfreeinternet_bot - S2
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac2MwMkRRVDR3SWhIdWtt@emamkazem.qawqa.link:443#Rayan - SS - @iranfreeinternet_bot - S3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac2MwMkRRVDR3SWhIdWtt@ifi-3.atena.us.kg:443#Rayan - SS - @iranfreeinternet_bot - S3
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVTJHdFZjVXhSbFQ4ME5X@admin.c4.havij.co:443#Rayan - SS - @iranfreeinternet_bot - S4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVTJHdFZjVXhSbFQ4ME5X@ifi-4.parmida.us.kg:443#Rayan - SS - @iranfreeinternet_bot - S4
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVTJHdFZjVXhSbFQ4ME5X@emamkazem.qawqa.link:443#Rayan - SS - @iranfreeinternet_bot - S5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVTJHdFZjVXhSbFQ4ME5X@ifi-5.parmida.us.kg:443#Rayan - SS - @iranfreeinternet_bot - S5
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYUFKdkU4QXhNMHNJQnY5@ifi-6.hedieh.us.kg:443#Rayan - SS - @iranfreeinternet_bot - S6
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYUFKdkU4QXhNMHNJQnY5@ifi-7.hedieh.us.kg:443#Rayan - SS - @iranfreeinternet_bot - S7
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@zula.ir:443?security=tls&sni=colombia.sahel.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=colombia.sahel.us.kg&encryption=none#Rayan - CF - C1 - 443
 
@@ -598,8 +602,4 @@ vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:80?pat
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@zmaoz.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-5.com&type=ws#Rayan - FL - F5 - 80
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@pscresearch.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-6.com&type=ws#Rayan - FL - F6 - 80
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-7.com&type=ws#Rayan - FL - F7 - 80
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-8.com&type=ws#Rayan - FL - F8 - 80
 
