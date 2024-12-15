@@ -581,7 +581,7 @@ wireguard://IOHx7CT2Q307vHKb2on6gab7exXhy2nEWJ8Qi47wGFI%3D@188.114.97.182:854?ad
 
 ShadowSocks:
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan%20-%20VPNBook
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook.com
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@zula.ir:443?security=tls&sni=rayan.sahel.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan.sahel.us.kg&encryption=none#Rayan - CF - C1 - 443
 
