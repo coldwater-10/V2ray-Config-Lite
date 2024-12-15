@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@57.128.25.48:443/?type=ws&encryption=none&host=unmanliest.appreviewcenter.com&path=%2Fnimws&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=unmanliest.appreviewcenter.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@57.128.28.249:443/?type=ws&encryption=none&host=masin.minusober.com&path=%2Fmasin&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=masin.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
-vless://1e038ff0-8678-464c-af28-0612d0c92b96@57.128.31.215:443/?type=ws&encryption=none&host=pesu.minusober.com&path=%2Fpesu&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=pesu.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@57.128.123.242:443/?type=ws&encryption=none&host=tere.minusober.com&path=%2Ftere&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=tere.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@152.228.242.27:443/?type=ws&encryption=none&host=auto.minusober.com&path=%2Fauto&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=auto.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://05ec2e61-efe9-4d5b-be47-5ba45a7890f8@213.32.90.17:2083/?type=tcp&encryption=none&sni=streaming.androidcentral.com&fp=chrome&security=reality&pbk=xTiUMLzUYkQ0tZFxQhQfnljI76_QtUIGrfcdyo1vGnA&sid=239F3F26#%40V2rayMiner
@@ -602,4 +598,8 @@ vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:4
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-10.com&encryption=none#Rayan - FL - F10 - 443
 
 
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@zmaoz.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-1.com&type=ws#Rayan - FL - F1 - 80
+
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@pscresearch.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-2.com&type=ws#Rayan - FL - F2 - 80
 

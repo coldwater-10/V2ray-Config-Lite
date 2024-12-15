@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vmess://eyJhZGQiOiIyNjA2OjQ3MDA6MzAzMjo6YWM0Mzo4YTQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisIFNIzp7Qr1ZJTuKEolxuUG93ZXJlZCBieSBZRUJFS0hFIiwic2N5IjoiYXV0byIsInNuaSI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKJcblBvd2VyZWQgYnkgWUVCRUtIRSAiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIyNjA2OjQ3MDA6MjA6OmFjNDM6NDZhNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2FwZWxsYXJlLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLimKwgU0jOntCvVklO4oSiXG5Qb3dlcmVkIGJ5IFlFQkVLSEUgIiwic2N5IjoiYXV0byIsInNuaSI6ImNhcGVsbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIyYTA2Ojk4YzE6MzEyMjo6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi4pisIFNIzp7Qr1ZJTuKEolxuUG93ZXJlZCBieSBZRUJFS0hFICIsInNjeSI6ImF1dG8iLCJzbmkiOiJobXMxOS5iZXN0LXRpemkudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNzIuNjcuMjE5LjE5NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsImlkIjoiYjMyMWZkNWQtZTZlYy00MjkzLWE2NDQtMTY0ZTM4ODVmNTJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKJcblBvd2VyZWQgYnkgWUVCRUtIRSAiLCJzY3kiOiJhdXRvIiwic25pIjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI3d2loLWRhcmtuZXNzLWYwYWYuaml2ZWdvaDExNi53b3JrZXJzLmRldiIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dsd2VpZGYuY2ZkL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKYrCBTSM6e0K9WSU7ihKJcblBvd2VyZWQgYnkgWUVCRUtIRSAiLCJzY3kiOiJhdXRvIiwic25pIjoiN3dpaC1kYXJrbmVzcy1mMGFmLmppdmVnb2gxMTYud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://17caf9e8-4d17-5c67-9544-b2b05412e3a8@185.146.173.34:80/?type=ws&encryption=none&host=Nl2.vless.site.&path=%2Fvless#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
@@ -331,8 +327,8 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiZjAzMzFmZjItNWQ1Yi00MzVmLWI2MDgtODE3NDBlMTU3YzBhIiwicGFnZV90aW1lIjoxNzM0Mjc2MDQ3LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuNTUuNDcuMTYifQo=";</script>
-<script src="/bJWHWMrAK.js"></script>
+<script>window.park = "eyJ1dWlkIjoiODQ0ZDg2Y2EtNTJmYS00NjM1LThjYzMtZWQ1ZmViNzdmNjg3IiwicGFnZV90aW1lIjoxNzM0Mjc5ODk1LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuNDIuNDkuODAifQo=";</script>
+<script src="/bhQkgnSYC.js"></script>
 </body>
 </html>
 
@@ -371,7 +367,7 @@ vless://ef46e73e-82ab-42dc-a37c-6037cc15f942@149.62.187.191:443/?type=tcp&encryp
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-25-AZAR-1403 🕑 18:50
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-25-AZAR-1403 🕑 19:54
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -381,7 +377,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-25-AZAR-1403 🕑 18:45
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-25-AZAR-1403 🕑 19:48
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
@@ -603,3 +599,7 @@ vless://518bd7b3-f67c-4fce-f601-54506be8969c@65.21.188.58:80/?type=ws&encryption
 vless://edade224-ab25-46e0-a41b-b415b182a59d@65.109.206.218:80/?type=ws&encryption=none&host=qwerdgy47892drvseddsesswdownload.namava.network&path=%2F54051%2Fdownload&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
 vless://220b6d1b-3de8-4d14-9471-432d0e08ed64@65.109.9.5:20000/?encryption=none&host=vkvd127.mycdn.me&type=tcp&headerType=http#%40V2rayMiner
 vless://188e716e-3350-41f6-8402-0a6fc8fa4519@95.216.204.122:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
+vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@57.128.25.48:443/?type=ws&encryption=none&host=unmanliest.appreviewcenter.com&path=%2Fnimws&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=unmanliest.appreviewcenter.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
+vless://c35358bb-f11f-4348-ab1c-d4d2f8a982ec@57.128.28.249:443/?type=ws&encryption=none&host=masin.minusober.com&path=%2Fmasin&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=masin.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
+vless://1e038ff0-8678-464c-af28-0612d0c92b96@57.128.31.215:443/?type=ws&encryption=none&host=pesu.minusober.com&path=%2Fpesu&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=pesu.minusober.com&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
