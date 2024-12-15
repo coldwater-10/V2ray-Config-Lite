@@ -581,7 +581,15 @@ wireguard://IOHx7CT2Q307vHKb2on6gab7exXhy2nEWJ8Qi47wGFI%3D@188.114.97.182:854?ad
 
 ShadowSocks:
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook.com - S1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac2MwMkRRVDR3SWhIdWtt@admin.c4.havij.co:443#Rayan - SS - @iranfreeinternet_bot - S2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac2MwMkRRVDR3SWhIdWtt@emamkazem.qawqa.link:443#Rayan - SS - @iranfreeinternet_bot - S3
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVTJHdFZjVXhSbFQ4ME5X@admin.c4.havij.co:443#Rayan - SS - @iranfreeinternet_bot - S4
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVTJHdFZjVXhSbFQ4ME5X@emamkazem.qawqa.link:443#Rayan - SS - @iranfreeinternet_bot - S5
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@zula.ir:443?security=tls&sni=rayan.sahel.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan.sahel.us.kg&encryption=none#Rayan - CF - C1 - 443
 
@@ -594,12 +602,4 @@ vless://f2004126-5865-4980-b6dd-2211dbaadf10@creativecommons.org:443?security=tl
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@nslookup.io:443?security=tls&sni=rayan.sahel.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.sahel.us.kg&encryption=none#Rayan - CF - C5 - 443
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@digitalocean.com:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C6 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@sourceforge.net:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C7 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@vimeo.com:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C8 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@www.speedtest.net:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C9 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@jquery.com:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C10 - 443
 
