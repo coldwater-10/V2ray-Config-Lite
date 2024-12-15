@@ -3,32 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-
-ShadowSocks:
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan%20-%20VPNBook
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@zula.ir:443?security=tls&sni=rayan.sahel.us.kg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan.sahel.us.kg&encryption=none#Rayan - CF - C1 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?security=tls&sni=rayan.sahel.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.sahel.us.kg&encryption=none#Rayan - CF - C2 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.io:443?security=tls&sni=rayan.sahel.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.sahel.us.kg&encryption=none#Rayan - CF - C3 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@creativecommons.org:443?security=tls&sni=rayan.sahel.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.sahel.us.kg&encryption=none#Rayan - CF - C4 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@nslookup.io:443?security=tls&sni=rayan.sahel.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.sahel.us.kg&encryption=none#Rayan - CF - C5 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@digitalocean.com:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C6 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@sourceforge.net:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C7 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@vimeo.com:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C8 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@www.speedtest.net:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C9 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@jquery.com:443?security=tls&sni=rayan.parmis.us.kg&allowInsecure=1&type=ws&path=/?ed%3D2560&host=rayan.parmis.us.kg&encryption=none#Rayan - CF - C10 - 443
-
-
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-1.com&encryption=none#Rayan - FL - F1 - 443
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-2.com&encryption=none#Rayan - FL - F2 - 443
