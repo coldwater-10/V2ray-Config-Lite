@@ -3,16 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇩🇪 DE-146.19.100.138:443
-hy2://18240b2dfdd76484@70.34.207.153:443?obfs=salamander&obfs-password=d2648ec2&insecure=1&sni=70.34.207.153#🔒 HYSTERIA-UDP 🇸🇪 SE-70.34.207.153:443
-hy2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.166.131:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.166.131:443
-hy2://KevinZakarian@[2606:a8c0:101:7e::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:7e::a]:8443
-hy2://rs3h2c9n8X@65.21.158.249:2096?obfs=salamander&obfs-password=Vk@l@b@shV&insecure=1#🔒 HYSTERIA-UDP 🇫🇮 FI-65.21.158.249:2096
-hy2://9a714ec6-40b8-4ab6-9e95-05846c812661@1.170.221.9:24231?insecure=1&sni=ddns.200566.xyz#🔒 HYSTERIA-UDP 🇹🇼 TW-1.170.221.9:24231
-hy2://TEAS5wxqmV@147.45.175.72:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#🔒 HYSTERIA-UDP 🇷🇺 RU-147.45.175.72:443
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.164.54:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇺 AU-192.9.164.54:443
-hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-178.128.113.131:30002
-hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@141.11.125.225:17766?insecure=1#🔒 HYSTERIA-UDP 🇭🇰 HK-141.11.125.225:17766
+hy2://c72ee44c@[2001:41d0:a:2a7a:a:b:df4e:2408]:35051?insecure=1&sni=2001:41d0:a:2a7a:a:b:df4e:2408#🔒 HYSTERIA-UDP 🇫🇷 FR-[2001:41d0:a:2a7a:a:b:df4e:2408]:35051
+hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@107.175.34.118:10003?sni=US.1010520.shop#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.34.118:10003
+hy2://699f8498-7e4f-44fa-a65c-f8e8fc739a8e@194.87.69.42:7660?insecure=1&obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA==#🔒 HYSTERIA-UDP 🇷🇺 RU-194.87.69.42:7660
+hy2://KevinZakarian@[2606:a8c0:101:6d::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:6d::a]:8443
+hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&insecure=1&sni=207.148.22.93#🔒 HYSTERIA-UDP 🇺🇸 US-207.148.22.93:443
+hy2://9f73c619627d6a5d@66.245.192.15:443?obfs=salamander&obfs-password=bd7f765e&insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇬🇧 GB-66.245.192.15:443
+hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇫🇷 FR-129.151.242.47:35000
+hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇨🇿 CZ-194.87.2.3:443
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000/?insecure=1&sni=www.apple.com#@v2rayCrow
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000/?insecure=1&sni=www.apple.com#@v2rayCrow
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.249.89:35000/?insecure=1&sni=www.apple.com#@v2rayCrow
@@ -603,3 +601,5 @@ hy2://3adb6780-1cdc-4046-bbb9-4038bd66fa8a@5.39.252.182:3898?obfs=salamander&obf
 hy2://3adb6780-1cdc-4046-bbb9-4038bd66fa8a@5.39.254.34:5128?obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D&insecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://3b23679d-6ea2-4098-b2ee-fff8c46cfbfb@176.32.32.68:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://3b23679d-6ea2-4098-b2ee-fff8c46cfbfb@176.32.33.100:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://3b23679d-6ea2-4098-b2ee-fff8c46cfbfb@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://3b23679d-6ea2-4098-b2ee-fff8c46cfbfb@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3

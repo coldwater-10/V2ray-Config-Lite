@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
-hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@212.192.15.239:1327?obfs=salamander&obfs-password=Y2JhZTU3ZjE4ZTI0MzRmMQ%3D%3D&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@46.29.161.109:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
@@ -603,3 +601,5 @@ hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@176.32.33.124:2453?obfs=salamander&ob
 hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@176.32.33.73:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@194.87.69.42:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://0302a9eb-71d6-46ff-8836-bbc82ed267b0@212.192.15.239:1327?obfs=salamander&obfs-password=Y2JhZTU3ZjE4ZTI0MzRmMQ%3D%3D&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
