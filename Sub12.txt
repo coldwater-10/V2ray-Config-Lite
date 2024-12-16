@@ -1,7 +1,0 @@
-#profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViMTIg8J+rgg==
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/coldwater-10/V2ray-Config-Lite
-#profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjdhODc1MzY5LWI1ODItNDI1YS05Zjk3LWRiM2E0MzJiNDQ0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
