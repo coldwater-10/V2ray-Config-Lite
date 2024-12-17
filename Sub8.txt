@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@jp.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@jp2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@sg.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@sg2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@kr.zhenshihui.one:48489/#%40V2rayMiner
@@ -597,9 +602,4 @@ vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMi
 vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjA0OTVmZTA3LWM3ZmUtNGFmNi05ODI3LTA2OWIzMjQ1NzExMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjdhODc1MzY5LWI1ODItNDI1YS05Zjk3LWRiM2E0MzJiNDQ0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzQ2NzEiLCJwcyI6IlJheWFuIC0gR0FGTiAtIFA3Iiwic2N5IjoiYXV0byIsInNuaSI6ImdhZm4uc2FoZWwudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjdhODc1MzY5LWI1ODItNDI1YS05Zjk3LWRiM2E0MzJiNDQ0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-
-
-Hysteria :
-
 
