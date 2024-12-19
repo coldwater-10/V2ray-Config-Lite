@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#@V2rayMiner
+hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#@V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-ca-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-ca-a-1.testred.xyz#@V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-nl-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-nl-a-1.testred.xyz#@V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-sw-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-sw-a-1.testred.xyz#@V2rayMiner
@@ -601,5 +603,3 @@ ssr://NjguMTgzLjc0LjYzOjEyOTI4Om9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpORE0yT1
 ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RPS8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHFQQ2ZoN05EVGkweE1qQXVNak15TGpJd05pNHlOVEV0TkRreE9RJTNEJTNEJnByb3RvcGFyYW09TlRVNU5UWTZNVEV4TVRFeA==
 ssr://MjIyLjE4Ni4yMC4xMDI6NDEyMjg6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnBsYWluOmFIUjBjRG92TDJOakxtRjRMdz09Lz9vYmZzcGFyYW09WkdGMFlTNWlhV3hwWW1sc2FTNWpiMjB2WldRMVlUSXhOalUwTURBJTNEJnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB5TWpJdU1UZzJMakl3TGpFd01pMDFNekV6JnByb3RvcGFyYW09TVRZMU5EQXdPa2h5TW1GWVR3JTNEJTNE
 ssr://NDIuMTU3LjE5Ni4xMDQ6MjAwMzc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOmh0dHBfcG9zdDpRMWRUV25OalRHdHFaZz09Lz9vYmZzcGFyYW09WVdwaGVDNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTAwTWk0eE5UY3VNVGsyTGpFd05DMHhORGc1JnByb3RvcGFyYW09
-ssr://NDIuMTU3LjE5Ni4xMDQ6MTA5Njc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpka050Y0RoQlRHbG9OZz09Lz9vYmZzcGFyYW09WVdwaGVDNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTAwTWk0eE5UY3VNVGsyTGpFd05DMHhORGc0JnByb3RvcGFyYW09
-ssr://NDIuMTU3LjE5Ni4xMDM6MTAxMjA6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6aHR0cF9wb3N0OldXczBWV1J5VDNsUlp3PT0vP29iZnNwYXJhbT1ZV3BoZUM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMDBNaTR4TlRjdU1UazJMakV3TXkweE5EZzMmcHJvdG9wYXJhbT0=
