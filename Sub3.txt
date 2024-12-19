@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-195.58.48.220:7660
-hy2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443?insecure=1&sni=%5B2001%3A19f0%3A1000%3A20d0%3A5400%3A5ff%3Afe19%3A3ba9%5D&obfs=salamander&obfs-password=13f7ba5f#🔒 HYSTERIA-UDP 🇺🇸 US-[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443
-hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@129.150.38.200:23729?insecure=1#🔒 HYSTERIA-UDP 🇸🇬 SG-129.150.38.200:23729
-hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@164.92.254.56:10001?sni=de.1010520.shop#🔒 HYSTERIA-UDP 🇩🇪 DE-164.92.254.56:10001
-hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.144.2.154:52773?insecure=1&sni=ssrsub.h04.trojan.tel#🔒 HYSTERIA-UDP 🇭🇰 HK-45.144.2.154:52773
-hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@178.62.239.35:10001?sni=NL.1010520.shop#🔒 HYSTERIA-UDP 🇳🇱 NL-178.62.239.35:10001
-hy2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443/?insecure=1&sni=[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]&obfs=salamander&obfs-password=13f7ba5f#@vpnv2rayNGv
-hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
-hy2://KevinZakarian@66.23.198.32:443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=www.eliv2ray.net#@vpnv2rayNGv
 hy2://a278eadd-c35c-403f-a286-7767a74307c1@45.140.169.231:8080/?insecure=1&sni=www.eliv2ray.net#@vpnv2rayNGv
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️ @vipv2rey(Hysteria1)
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#⚡️@vipv2rey (Hysteria)
@@ -603,3 +594,12 @@ hy2://9100adfb-34a9-4998-8adc-21347fedf74c@5.39.252.182:3898?obfs=salamander&obf
 hy2://67a88042-c5e7-4ec7-9515-82355536c5a7@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://d3b92983-9dbe-48e8-9170-6761e43678c2@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://1f3ac74c-0c5a-4fb3-a5c4-f024421c07c5@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://4760f18a-768e-4dca-b3b8-d7234d366fe9@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://1e50f3a9-c5f1-438d-a729-487ce6591676@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://sysadmin.sysadmin@23.95.20.134:446?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
+hy2://18eca628-83f7-42bd-a143-4769353cd06d@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://ffed9ff9-ec0f-4c97-854b-369e2931a777@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://45c1c996-a1f2-4f0f-9b33-64147a0fe4d9@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://9dd3dbc5-e556-478c-9177-569f98eb2129@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://9a775012-32b5-48b1-acdc-c1c0cf88e8e5@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://3de377ec-5031-4199-8d14-491702ff3665@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
