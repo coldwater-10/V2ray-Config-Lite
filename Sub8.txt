@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcFA0VDAyQjVkVk9GOXZk@ifi-4.parmida.us.kg:443#Rayan - SS - IFI - S4
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcFA0VDAyQjVkVk9GOXZk@52.237.155.68:443#Rayan - SS - IFI - S5
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYUFKdkU4QXhNMHNJQnY5@ifi-6.narges.us.kg:443#Rayan - SS - IFI - S6
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYUFKdkU4QXhNMHNJQnY5@52.237.155.68:443#Rayan - SS - IFI - S7
