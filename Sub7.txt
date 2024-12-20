@@ -580,8 +580,8 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiZWNiNmE1MGEtMTk5ZS00ZDA3LWE4ZTktYzQxYzE5MjE3YTAxIiwicGFnZV90aW1lIjoxNzM0Njc2MTM5LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiMjAuMTY5LjAuMTkyIn0K";</script>
-<script src="/bCCkANpWp.js"></script>
+<script>window.park = "eyJ1dWlkIjoiOThjNDQyZTYtYTdlMy00OTQ5LWIyOTEtYmQ1YWJmODQ1OTYxIiwicGFnZV90aW1lIjoxNzM0Njc5MTQ3LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYXBpLnllYmVraGUubGluayIsImlwIjoiNTIuMTU1LjYyLjI0NCJ9Cg==";</script>
+<script src="/bexbVxIUs.js"></script>
 </body>
 </html>
 
