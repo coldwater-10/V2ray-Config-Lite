@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://649c1549-da73-406a-a184-9b4c4347d76c@151.249.104.35:34623?insecure=1&sni=themeisle.com#Rayan%20-%20GAFN%20-%20Hys2%20-%20P8
 hy2://649c1549-da73-406a-a184-9b4c4347d76c@107.172.235.75:47443?insecure=1&sni=g2.com#Rayan%20-%20GAFN%20-%20Hys2%20-%20LA8
 hy2://ab4baa8c-98e2-419c-a0e9-df7faf09ebbe@151.249.104.35:34623?insecure=1&sni=didgahnews.ir#Rayan%20-%20GAFN%20-%20Hys2%20-%20P9
 hy2://ab4baa8c-98e2-419c-a0e9-df7faf09ebbe@107.172.235.75:47443?insecure=1&sni=vinatech.ir#Rayan%20-%20GAFN%20-%20Hys2%20-%20LA9
