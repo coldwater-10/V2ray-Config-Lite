@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
-vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
-vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.89.160:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080?flow=&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&type=ws#@V2rayMiner
 vless://telegram-id-ArV2ray@www.speedtest.net:2095?flow=&host=6.V2.c.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&type=ws#@V2rayMiner
@@ -603,3 +600,6 @@ hy2://729922eb-2020-40a1-89f9-6eb97abcaa02@107.172.235.75:47443?insecure=1&sni=c
 hy2://0495fe07-c7fe-4af6-9827-069b32457110@151.249.104.35:34623?insecure=1&sni=monitor.tgju.org#Rayan%20-%20GAFN%20-%20Hys2%20-%20P7
 hy2://0495fe07-c7fe-4af6-9827-069b32457110@107.172.235.75:47443?insecure=1&sni=git-scm.com#Rayan%20-%20GAFN%20-%20Hys2%20-%20LA7
 hy2://649c1549-da73-406a-a184-9b4c4347d76c@151.249.104.35:34623?insecure=1&sni=themeisle.com#Rayan%20-%20GAFN%20-%20Hys2%20-%20P8
+hy2://649c1549-da73-406a-a184-9b4c4347d76c@107.172.235.75:47443?insecure=1&sni=g2.com#Rayan%20-%20GAFN%20-%20Hys2%20-%20LA8
+hy2://ab4baa8c-98e2-419c-a0e9-df7faf09ebbe@151.249.104.35:34623?insecure=1&sni=didgahnews.ir#Rayan%20-%20GAFN%20-%20Hys2%20-%20P9
+hy2://ab4baa8c-98e2-419c-a0e9-df7faf09ebbe@107.172.235.75:47443?insecure=1&sni=vinatech.ir#Rayan%20-%20GAFN%20-%20Hys2%20-%20LA9
