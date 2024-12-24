@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://bf01c992-2c50-47b9-9062-4fb6824f76ff@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#RELAY🚩 | gard.starmc.ir-8443 | 3.28ms
+vless://b5e071d2-19bb-46b9-8f47-73707e70290c@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#RELAY🚩 | gard.starmc.ir-443 | 3.53ms
+vless://b12bebf8-0200-4ffd-976b-ba13574f7bd8@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#RELAY🚩 | Ruc80.TehrANsiMAn.co.UK.-443 | 206.5ms
 vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@shemronhome.ir:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 120.83ms
 vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@nexload.ir:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 138.47ms
 vless://ab51af2e-2819-480e-afaf-b682c82dc63f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v23.TzZLiMitTNeWz.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.66ms
@@ -600,6 +603,3 @@ hy2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?insecure=1&sni=ww
 hy2://KevinZakarian@66.23.198.26:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-66.23.198.26:8443
 hy2://sysadmin.sysadmin@192.210.235.104:10053?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-192.210.235.104:10053
 hy2://sysadmin.sysadmin@193.123.229.162:8443?insecure=1#🔒 HYSTERIA-UDP 🇰🇷 KR-193.123.229.162:8443
-hy2://sysadmin.sysadmin@45.130.146.21:443?insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-45.130.146.21:443
-hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080?sni=jp4.trojanws.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-140.82.16.240:8080
-hy2://KevinZakarian@[2606:a8c0:101:6e::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:6e::a]:8443
