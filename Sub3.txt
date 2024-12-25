@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒 HYSTERIA-UDP 🇸🇬 SG-18.142.44.217:3531
-hy2://96cad374-7573-4463-8804-4665c2c3d932@54.178.107.109:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒 HYSTERIA-UDP 🇯🇵 JP-54.178.107.109:5001
-hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.154.233.123:35000?insecure=1&sni=api.push.apple.com#🔒 HYSTERIA-UDP 🇮🇳 IN-129.154.233.123:35000
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.47.111:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.47.111:443
-hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215?insecure=1&sni=shy35.zqjc.cloud#🔒 HYSTERIA-UDP 🇬🇧 GB-132.226.208.232:55215
-hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒 HYSTERIA-UDP 🇩🇪 DE-77.91.77.27:39292
-hy2://4e9ee29b39a28277@66.135.11.68:443?obfs=salamander&obfs-password=13f7ba5f&insecure=1&sni=66.135.11.68#🔒 HYSTERIA-UDP 🇺🇸 US-66.135.11.68:443
-hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-195.58.48.220:7660
-hy2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.166.131:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.166.131:443
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇺 AU-159.13.34.59:443
-hy2://KevinZakarian@[2606:a8c0:101:22::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:22::a]:8443
-hy2://910398c0493d2d9d@104.168.128.162:57635?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.128.162:57635
-hy2://KevinZakarian@66.23.198.26:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-66.23.198.26:443
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443?sni=dxobg4azmk.gafnode.sbs#🔒 HYSTERIA-UDP 🇺🇸 US-107.172.235.75:47443
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@1.162.146.24:51057?insecure=1&sni=tw.trojan.tel#🔒 HYSTERIA-UDP 🇹🇼 TW-1.162.146.24:51057
 hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@178.62.239.35:10001?sni=NL.1010520.shop#🔒 HYSTERIA-UDP 🇳🇱 NL-178.62.239.35:10001
@@ -603,3 +590,16 @@ hy2://e5fc76f4-8dd6-45ea-b3ec-b7bf25678b01@176.32.33.124:2453?obfs=salamander&ob
 hy2://4733f66a-4326-4046-b7b0-fc3f55c15283@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://55d6b1b1-b541-4ce8-bc95-a9f20a1b0f86@46.29.161.159:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://3557dc22-95ae-4b8a-a8c2-3f6fef31aaeb@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://641a3b47-c999-4bf0-8c80-e91babb25131@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://3eb8d6d8-ade2-4200-9ca9-115d588f0fa3@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://1ef11b07-39fe-4ec9-b74a-a5f3a0a01cc9@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://5646abdc-5c8d-44f9-84b4-ff20dc7dacb6@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://e5fc76f4-8dd6-45ea-b3ec-b7bf25678b01@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://25fc5a36-de60-4771-9cdd-0e32f2f89906@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://173bf289-8e94-4261-9c34-d4ecacbb3fdb@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://55d6b1b1-b541-4ce8-bc95-a9f20a1b0f86@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://45c1c996-a1f2-4f0f-9b33-64147a0fe4d9@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://b75c73ec-f431-49d1-a407-8e062be10443@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://756d4fb3-8fa0-454c-bd32-1982d956a477@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://6b52d304-6ed8-4714-9b42-f77570486473@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://99eaacdd-fdfb-4635-a2b0-def0f924b52d@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
