@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://b75c73ec-f431-49d1-a407-8e062be10443@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://756d4fb3-8fa0-454c-bd32-1982d956a477@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://6b52d304-6ed8-4714-9b42-f77570486473@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://99eaacdd-fdfb-4635-a2b0-def0f924b52d@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
@@ -603,3 +602,4 @@ hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@172.104.42.126:443?mport=40001-50000&
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@45.118.132.243:443?mport=40001-50000&insecure=1&sni=yup.441122.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-45.118.132.243:443
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@dj1.yiyiyun.top:443/?mport=30001-40000&insecure=1&sni=bing.com#%E2%99%BB%EF%B8%8F1%40oneclickvpnkeys
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@ynb.441122.xyz:443/?mport=40001-50000&insecure=1&sni=ynb.441122.xyz#%E2%99%BB%EF%B8%8F4%40oneclickvpnkeys
+hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@ynn.441166.xyz:443/?mport=40001-50000&insecure=1&sni=ynn.441166.xyz#%E2%99%BB%EF%B8%8F5%40oneclickvpnkeys
