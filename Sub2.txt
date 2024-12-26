@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://ab51af2e-2819-480e-afaf-b682c82dc63f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitTNeWz.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 3.9ms
-vless://ab51af2e-2819-480e-afaf-b682c82dc63f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeWz.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 2.94ms
-vless://ab51af2e-2819-480e-afaf-b682c82dc63f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeWz.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 84.04ms
-vless://a91b85c5-de1a-4ff2-a447-933202708386@188.119.113.68:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 2.41ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@185.176.26.4:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws#RELAY🚩 | t-netplus-4vx.pages.dev-2096 | 10.7ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@103.21.244.2:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws#RELAY🚩 | t-netplus-4vx.pages.dev-2096 | 1.59ms
 vless://a75d633b-9c68-4c45-a2d3-dc07630775e2@ip.irino.sbs:443?path=%2Fv2raybaz%2Fvless&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=tr2.vless.site&fp=firefox&type=ws&sni=tr2.vless.site#TR🇹🇷 | tr2.vless.site-443 | 90.06ms
@@ -603,3 +599,7 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.176.63:30102?insecure=1&sni=u
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇫🇷 FR-129.151.242.47:35000
 hy2://f206702e@82.152.142.67:3341?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-82.152.142.67:3341
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@158.180.69.229:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒 HYSTERIA-UDP 🇰🇷 KR-158.180.69.229:30001
+hy2://ffed9ff9-ec0f-4c97-854b-369e2931a777@176.32.35.194:28993?obfs=salamander&obfs-password=MGJiYThkMjgwNDE1Y2FkMg%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-176.32.35.194:28993
+hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒 HYSTERIA-UDP 🇺🇸 US-47.89.248.125:5113
+hy2://sysadmin.sysadmin@37.123.193.73:443?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-37.123.193.73:443
+hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒 HYSTERIA-UDP 🇫🇷 FR-166.88.228.144:2052
