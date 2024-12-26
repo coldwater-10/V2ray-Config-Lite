@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-1.testred.xyz#@V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@jp.zhenshihui.one:48489/#%40V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@jp2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@sg.zhenshihui.one:48489/#%40V2rayMiner
-hy2://75ea33d6-7ace-4efe-ad33-269817020750@sg2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@kr.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@us.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@us2.zhenshihui.one:48489/#%40V2rayMiner
@@ -603,3 +594,12 @@ tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:44
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-06-DEY-1403 🕑 13:31
+hysteria://2hk.prometheusnet01.xyz:7539?auth=de08f485-8f8c-4316-9e80-6e7ecdf91d45&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=none&protocol=udp&mport=5000-10000&fastopen=1#🆔freev2rayi%20🔒%20HY-UDP-N/A%20🇭🇰%20HK%20down
+hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
+hysteria://108.181.5.133:26022?upmbps=80&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=google.com&alpn=h3#🆔toyota_proxyyyy%20🔒%20HY-UDP-N/A%20🇺🇸%20US%20down
+hysteria://51.158.54.46:55396?insecure=1&peer=youku.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
+hysteria://130.61.24.219:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
+hysteria://fr1.chaoyuenode.sbs:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
+hysteria://de1.chaoyuenode.sbs:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🆔vipv2rey%20🔒%20HY-UDP-N/A%20❔%20XX%20down
+vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
