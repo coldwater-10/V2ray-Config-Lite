@@ -3,16 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
-#profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
-#profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://V2rayMinerGp.t.me
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-07-DEY-1403 🕑 09:51
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-07-DEY-1403 🕑 10:44
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
@@ -603,3 +599,7 @@ ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDI5OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bH
 ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDIyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNVGc0TnclM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
 ssr://MTgzLjI0MC4yMjAuODQ6MTE4NDY6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweE9EZzQmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
 ssr://MTgzLjI0MC4yMjAuODQ6MTE4MDc6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweE9EZzUmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
+ssr://MTgzLjI0MC4yMjAuODQ6MTE4MDY6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweE9Ea3cmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
+ssr://MTgzLjI0MC4yMjAuODQ6MzUyNDc6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSbWhpWlRCNi8/b2Jmc3BhcmFtPVpUQmxNelV5TkM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhPRE11TWpRd0xqSXlNQzQ0TkMweE9Ea3gmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
+ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDIzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNVGc1TWclM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
+ssr://MTIwLjIzMi4yMzQuMjQ2OjExNDI3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP29iZnNwYXJhbT1aVEJsTXpVeU5DNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4TWpBdU1qTXlMakl6TkM0eU5EWXRNVGc1TXclM0QlM0QmcHJvdG9wYXJhbT1NalE2V25oaVJqaG0=
