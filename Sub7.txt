@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443?flow=&fp=chrome&host=pay.technator.net&path=%2Fimage%2F20992&security=tls&sni=pay.technator.net&type=ws#@V2rayMiner
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082?flow=&host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&path=%2F&type=ws#@V2rayMiner
 vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829?flow=&headerType=http&host=fast.com&type=tcp#@V2rayMiner
 vless://63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095?flow=&host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&path=TelegramChanel%3At.me%2FHTTP_injector99&type=ws#@V2rayMiner
@@ -603,3 +602,4 @@ hy2://729922eb-2020-40a1-89f9-6eb97abcaa02@107.172.235.75:47443?insecure=1&sni=c
 hy2://0495fe07-c7fe-4af6-9827-069b32457110@151.249.104.35:34623?insecure=1&sni=monitor.tgju.org#Rayan%20-%20GAFN%20-%20Hys2%20-%20P7
 hy2://0495fe07-c7fe-4af6-9827-069b32457110@107.172.235.75:47443?insecure=1&sni=git-scm.com#Rayan%20-%20GAFN%20-%20Hys2%20-%20LA7
 hy2://649c1549-da73-406a-a184-9b4c4347d76c@151.249.104.35:34623?insecure=1&sni=themeisle.com#Rayan%20-%20GAFN%20-%20Hys2%20-%20P8
+hy2://649c1549-da73-406a-a184-9b4c4347d76c@107.172.235.75:47443?insecure=1&sni=g2.com#Rayan%20-%20GAFN%20-%20Hys2%20-%20LA8
