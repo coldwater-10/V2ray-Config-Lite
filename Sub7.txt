@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@sg.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@sg2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@kr.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@us.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@us2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk.zhenshihui.one:48489/#%40V2rayMiner
@@ -598,8 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSVlwY2N2OUFsQkhabWtZ@52.237.155.68:443?outl
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WTVkUjFjVTFkam1pWHNh@52.237.155.68:443?outline=1&prefix=POST%20R2ad83eV#Rayan - SS - IFI - S4
 
-
-
-
-
-GAFN VMess:
