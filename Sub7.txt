@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-sw-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-sw-a-2.testred.xyz#@V2rayMiner
+hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-1.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-1.testred.xyz#@V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://75ea33d6-7ace-4efe-ad33-269817020750@hk.zhenshihui.one:48489/#%40V2rayMiner
@@ -601,5 +603,3 @@ ssr://Y21sYXllcjYuc3RhbmR1cmxzLmNvOjU2MDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0Zj
 ssr://dXMubGlub2RlLnJicWlzLm1lOjE5MTU1OmF1dGhfc2hhMV92NDphZXMtMTkyLWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6U2xWQ1dFTlEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkh1dkNmaDdoVlV5MHhOekl1TWpNMUxqVXdMamt4TFRZek1UUSUzRCZwcm90b3BhcmFtPQ==
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz04SiUyQkhzJTJGQ2ZoN0ZPVEMwNU5DNHhNREl1TlRjdU1UWXpMVGN3TWpVJTNEJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRjd05EYyUzRCZwcm90b3BhcmFtPQ==
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-10-DEY-1403 🕑 17:54
