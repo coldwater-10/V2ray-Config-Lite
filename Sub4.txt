@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://2587fadf-62c1-4193-a26f-43044666ee71@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://7581d16f-baca-47f4-9309-3808cfa50a17@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://77199c8c-9426-4611-948c-bd570135a034@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://4157a97b-525e-4f40-bedb-eadb00eac479@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://3de377ec-5031-4199-8d14-491702ff3665@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://2efc5c36-f67e-419b-90bc-2f6f2fff8021@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://4c918b8f-9880-4937-a7ad-09364f70563d@46.29.161.159:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://a3f862d9-0c3f-495d-9960-8810e343da9a@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://e3f3ff31-7df0-4849-accb-d4f675ea565c@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://10a679b6-789c-4047-974a-719454d1a571@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
@@ -596,10 +603,3 @@ hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10
 hy2://490528890@[2602:fed2:770a::ea]:1850/?insecure=1&sni=www.bing.com
 hy2://4a52c165e81fa8fc@hys3.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#irancpihys3
 hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇩🇪 DE-146.19.100.138:443
-hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443/?mport=20001-25000&sni=1.nodes.yljc.online#%E2%84%B9%EF%B8%8F2%40oneclickvpnkeys
-hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443/?mport=20001-25000&sni=1.nodes.yljc.online#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B0%F0%9F%87%B7%20KR-132.145.80.179%3A443
-hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443?mport=20001-25000&sni=1.nodes.yljc.online#🔒 HYSTERIA-UDP 🇰🇷 KR-132.145.80.179:443
-hy2://529a3d29-fcf2-4879-a580-611d9c027372@seoul4-500m.yljc.online:443/?mport=20001-25000&sni=1.nodes.yljc.online#%E2%84%B9%EF%B8%8F3%40oneclickvpnkeys
-hy2://529a3d29-fcf2-4879-a580-611d9c027372@seoul4-500m.yljc.online:443/?mport=20001-25000&sni=1.nodes.yljc.online#%F0%9F%87%B0%F0%9F%87%B7%40oneclickvpnkeys
-hy2://529a3d29-fcf2-4879-a580-611d9c027372@seoul4-500m.yljc.online:443/?mport=20001-25000&sni=1.nodes.yljc.online#%F0%9F%87%B0%F0%9F%87%B7oneclick
-hy2://5c33a4b2-7768-4e6c-87a8-a1515d1de609@152.53.0.187:40443/?sni=speedtest.realityforus.com#%F0%9F%87%A6%F0%9F%87%B9Vienna%2B%40Surfboardv2ray
