@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@sg.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@sg2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@kr.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@us.zhenshihui.one:48489/#%40V2rayMiner
+hy2://75ea33d6-7ace-4efe-ad33-269817020750@us2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@hk2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@jp.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@jp2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@sg.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@sg2.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@kr.zhenshihui.one:48489/#%40V2rayMiner
+hy2://e91ce118-4698-45fc-9d35-0c7448f21527@us.zhenshihui.one:48489/#%40V2rayMiner
 
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@142.0.134.242:45017?encryption=auto&type=tcp#@V2rayMiner
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.212.19:50004?encryption=auto&type=tcp#@V2rayMiner
@@ -588,18 +603,3 @@ sn://config?eNrtWs1y2zYQdmd66lN4dE0k_kskZ3qIHCtWHP_JieOmk-GABCihpgAaBPXTTg59h576
 ShadowSocks:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook - S1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXSjlzZ3ZCWWR0NFN5ZHd4@52.237.155.68:443?outline=1&prefix=POST%20U2ad83cZ#Rayan - SS - IFI - S2
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSVlwY2N2OUFsQkhabWtZ@52.237.155.68:443?outline=1&prefix=POST%20T2ad83dL#Rayan - SS - IFI - S3
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WTVkUjFjVTFkam1pWHNh@52.237.155.68:443?outline=1&prefix=POST%20R2ad83eV#Rayan - SS - IFI - S4
-
-
-
-GAFN GCORE:
-
-vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoicDEtMi5wYXJzYS51cy5rZyIsImlkIjoiNzgwOGIyMWItYjliNC00OWY5LWIwYTgtOGY1MDdiZTExNjI5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gR0FGTiAtIEdDIC0gUDEiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoicDItMi5wYXJzYS51cy5rZyIsImlkIjoiZjkwMTg2MWItNjQ5MS00NTBjLWI1MDAtNjA2YjJlOTIxNjI1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gR0FGTiAtIEdDIC0gUDIiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoicDMtMi5wYXJzYS51cy5rZyIsImlkIjoiMDlmOGQzM2ItNjJhZS00Y2I0LTg5ZWItMDBlOTU3MGYzMGE2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gR0FGTiAtIEdDIC0gUDMiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoicDQtMi5wYXJzYS51cy5rZyIsImlkIjoiNWVhYTEyMWQtNDM2Mi00NDRkLTgyMTktMjliMDJjMzUzMDNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gR0FGTiAtIEdDIC0gUDQiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
