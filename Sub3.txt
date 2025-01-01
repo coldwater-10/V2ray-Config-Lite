@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.243.88.31:6231?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇭🇰 HK-47.243.88.31:6231
-hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒 HYSTERIA-UDP 🇫🇷 FR-166.88.228.144:2052
-hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@170.64.217.182:10001?sni=AU.1010520.shop#🔒 HYSTERIA-UDP 🇦🇺 AU-170.64.217.182:10001
-hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@144.24.79.114:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒 HYSTERIA-UDP 🇰🇷 KR-144.24.79.114:30001
 hy2://KevinZakarian@179.61.132.90:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.90#🔒 HYSTERIA-UDP 🇩🇪 DE-179.61.132.90:8443
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.176.63:30102?insecure=1&sni=us13.wish.ml#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.176.63:30102
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@176.32.33.100:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-176.32.33.100:1200
@@ -603,3 +599,7 @@ hy2://5a1cf716-c50b-4c71-8076-e7d873fae890@176.32.33.124:2453?obfs=salamander&ob
 hy2://KevinZakarian@66.23.198.31:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Norristown%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://KevinZakarian@66.23.198.28:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Norristown%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://KevinZakarian@66.23.198.35:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Norristown%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
+hy2://KevinZakarian@66.23.198.29:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Norristown%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
+hy2://KevinZakarian@66.23.198.30:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Norristown%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
+hy2://b39e2340-66f8-4705-97cd-d15f4b1fa0ce@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Kazan'%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://4e9ee29b39a28277@66.135.11.68:443?obfs=salamander&obfs-password=13f7ba5f&insecure=1&sni=wrmelmwxlf.gktevlrqznwqqqozy6hgvqxwfmfs%20vgvs6c7kjnrubuh.cc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Piscataway%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
