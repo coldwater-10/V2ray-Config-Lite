@@ -3,35 +3,35 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://rs3h2c9n8X@65.21.158.249:2096?obfs=salamander&obfs-password=Vk@l@b@shV&insecure=1#🔒 HYSTERIA-UDP 🇫🇮 FI-65.21.158.249:2096
-hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@64.225.72.134:10001?sni=NL.1010520.shop#🔒 HYSTERIA-UDP 🇳🇱 NL-64.225.72.134:10001
-hy2://KevinZakarian@66.23.198.35:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-66.23.198.35:8443
-hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-[2400:8a20:113:36::]:64321
-hy2://966b38ef-3d70-4d4e-8e0f-179bf6f5533a@130.61.92.212:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇩🇪 DE-130.61.92.212:443
-hy2://sysadmin.sysadmin@142.171.194.167:443?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-142.171.194.167:443
-hy2://01130e6dda139c1c@144.22.243.213:24749?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇧🇷 BR-144.22.243.213:24749
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.57.42:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.57.42:443
-hy2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443?insecure=1&sni=%5B2001%3A19f0%3A1000%3A20d0%3A5400%3A5ff%3Afe19%3A3ba9%5D&obfs=salamander&obfs-password=13f7ba5f#🔒 HYSTERIA-UDP 🇺🇸 US-[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.24.101.176:30102?insecure=1&sni=in4.wish.ml#🔒 HYSTERIA-UDP 🇮🇳 IN-144.24.101.176:30102
-hy2://453D99CE-725A-4595-8E41-0661AB2C8FBB@1.36.166.125:1250?insecure=1#🔒 HYSTERIA-UDP 🇭🇰 HK-1.36.166.125:1250
-hy2://bc19ee74-433d-4c34-be4b-67f969a2bb57@104.168.128.219:10002?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.128.219:10002
-hy2://9a714ec6-40b8-4ab6-9e95-05846c812661@114.41.2.71:24231?insecure=1&sni=ddns.200566.xyz#🔒 HYSTERIA-UDP 🇹🇼 TW-114.41.2.71:24231
-hy2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?obfs=salamander&obfs-password=4b817757&insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443
-hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒 HYSTERIA-UDP 🇫🇷 FR-166.88.228.144:2052
-hy2://9974b6a7-9c0e-423b-a77b-87ac90465d81@38.242.215.250:11924?obfs=salamander&obfs-password=HxAZoyubMe5ADvIs&sni=con.shellcorp.ir#🔒 HYSTERIA-UDP 🇩🇪 DE-38.242.215.250:11924
-hy2://KevinZakarian@[2606:a8c0:101:82::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:82::a]:8443
-hy2://undefined@193.188.21.227:28188?insecure=1&sni=ir.ir.ir.speedtest.net.iririr.monster#🔒 HYSTERIA-UDP 🇸🇪 SE-193.188.21.227:28188
-hy2://sysadmin.sysadmin@37.123.193.73:443?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-37.123.193.73:443
-hy2://18240b2dfdd76484@70.34.207.153:443?obfs=salamander&obfs-password=d2648ec2&insecure=1&sni=70.34.207.153#🔒 HYSTERIA-UDP 🇸🇪 SE-70.34.207.153:443
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒 HYSTERIA-UDP 🇧🇷 BR-132.226.162.10:30102
-hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.243.88.31:6231?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇭🇰 HK-47.243.88.31:6231
-hy2://KevinZakarian@66.23.198.34:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-66.23.198.34:443
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.47.111:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.47.111:443
-hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@152.69.208.30:23729?insecure=1#🔒 HYSTERIA-UDP 🇸🇬 SG-152.69.208.30:23729
-hy2://sysadmin.sysadmin@108.174.197.101:443?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-108.174.197.101:443
-hy2://KevinZakarian@179.61.132.91:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.91#🔒 HYSTERIA-UDP 🇩🇪 DE-179.61.132.91:8443
+hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇺🇸 US-66.135.28.59:443
+hy2://9d765687-536c-4626-a2e2-6a403219e381@152.53.54.139:30000?insecure=1&sni=35afq4514.surfcat.store#🔒 HYSTERIA-UDP 🇦🇹 AT-152.53.54.139:30000
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.76.141:30102?insecure=1&sni=joinBede.ELiV2ray.net#🔒 HYSTERIA-UDP 🇦🇪 AE-193.123.76.141:30102
+hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.249.89:35000?insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇫🇷 FR-129.151.249.89:35000
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@138.2.28.145:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇯🇵 JP-138.2.28.145:443
+hy2://KevinZakarian@66.23.198.31:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-66.23.198.31:8443
+hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@192.9.159.141:30001?insecure=1&sni=san-jose2.nodes.lanmaoyun.icu#🔒 HYSTERIA-UDP 🇺🇸 US-192.9.159.141:30001
 hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@79.72.49.232:50000?insecure=1&sni=www.microsoft.com#🔒 HYSTERIA-UDP 🇪🇸 ES-79.72.49.232:50000
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@129.154.234.42:30102?insecure=1&sni=in5.wish.ml#🔒 HYSTERIA-UDP 🇮🇳 IN-129.154.234.42:30102
+hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@152.69.208.30:23729?insecure=1#🔒 HYSTERIA-UDP 🇸🇬 SG-152.69.208.30:23729
+hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇫🇷 FR-129.151.242.47:35000
+hy2://96cad374-7573-4463-8804-4665c2c3d932@217.142.191.118:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒 HYSTERIA-UDP 🇸🇬 SG-217.142.191.118:5001
+hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇳🇱 NL-45.135.180.4:443
+hy2://sysadmin.sysadmin@104.168.102.17:443?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.102.17:443
+hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒 HYSTERIA-UDP 🇺🇸 US-47.89.248.125:5113
+hy2://8bd4cc567f2845c1@[2a01:4f8:200:8095::7]:45176?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f8:200:8095::7]:45176
+hy2://sysadmin.sysadmin@154.12.61.72:2053?insecure=1&sni=hk1.helima.net#🔒 HYSTERIA-UDP 🇭🇰 HK-154.12.61.72:2053
+hy2://KevinZakarian@66.23.198.26:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-66.23.198.26:443
+hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=google.com#🔒 HYSTERIA-UDP 🇩🇪 DE-146.19.100.138:443
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.105.240.182:10001?sni=JP.1010520.shop#🔒 HYSTERIA-UDP 🇯🇵 JP-172.105.240.182:10001
+hy2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇷🇺 RU-46.17.41.189:50717
+hy2://KevinZakarian@[2606:a8c0:101:22::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:22::a]:8443
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@46.17.40.42:30102?insecure=1&sni=du.wish.ml#🔒 HYSTERIA-UDP 🇷🇺 RU-46.17.40.42:30102
+hy2://KevinZakarian@66.23.198.27:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-66.23.198.27:443
+hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@176.124.202.137:80?insecure=1#🔒 HYSTERIA-UDP 🇸🇪 SE-176.124.202.137:80
+hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒 HYSTERIA-UDP 🇺🇸 US-156.251.248.197:443
+hy2://148097c2-cd69-4015-992f-5939c08b9ab8@150.66.12.23:443?mport=22000-22999#🔒 HYSTERIA-UDP 🇯🇵 JP-150.66.12.23:443
+hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒 HYSTERIA-UDP 🇸🇬 SG-3.1.217.51:5475
+hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@129.146.62.112:52773?insecure=1&sni=ssrsub.h01.trojan.tel#🔒 HYSTERIA-UDP 🇺🇸 US-129.146.62.112:52773
+hy2://148097c2-cd69-4015-992f-5939c08b9ab8@112.120.54.171:443?mport=22000-22999#🔒 HYSTERIA-UDP 🇭🇰 HK-112.120.54.171:443
 hy2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443/?insecure=1&sni=[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]&obfs=salamander&obfs-password=13f7ba5f#@vpnv2rayNGv
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
 hy2://KevinZakarian@66.23.198.32:443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=www.eliv2ray.net#@vpnv2rayNGv
