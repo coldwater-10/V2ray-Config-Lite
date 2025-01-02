@@ -3,19 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443?obfs=salamander&obfs-password=2pU!&insecure=1&sni=Google.com#🔒 HYSTERIA-UDP 🇳🇱 NL-45.32.234.211:443
-hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒 HYSTERIA-UDP 🇺🇸 US-205.185.125.20:443
-hy2://KevinZakarian@[2606:a8c0:101:39::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:39::a]:443
-hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.243.88.31:6231?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇭🇰 HK-47.243.88.31:6231
-hy2://sysadmin.sysadmin@47.76.80.29:2023?insecure=1#🔒 HYSTERIA-UDP 🇭🇰 HK-47.76.80.29:2023
-hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒 HYSTERIA-UDP 🇹🇭 TH-47.81.8.60:7788
-hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379?insecure=1&sni=hsg.fobbc.xyz#🔒 HYSTERIA-UDP 🇸🇬 SG-47.128.157.34:3379
-hy2://83d4edf5-8612-4b0f-8a82-33a211b3b179@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-46.29.161.224:1200
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@46.17.40.42:30102?insecure=1&sni=du.wish.ml#🔒 HYSTERIA-UDP 🇷🇺 RU-46.17.40.42:30102
-hy2://KevinZakarian@66.23.198.26:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒 HYSTERIA-UDP 🇺🇸 US-66.23.198.26:8443
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@138.2.28.145:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇯🇵 JP-138.2.28.145:443
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?insecure=1&sni=du.wish.ml#🔒 HYSTERIA-UDP 🇨🇦 CA-40.233.76.38:30102
-hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@130.61.37.140:30001?insecure=1&sni=frankfurt1.nodes.lanmaoyun.icu#🔒 HYSTERIA-UDP 🇩🇪 DE-130.61.37.140:30001
+hy2://sysadmin.sysadmin@148.135.36.71:56666?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-148.135.36.71:56666
+hy2://sysadmin.sysadmin@148.135.59.9:446?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-148.135.59.9:446
+hy2://KevinZakarian@[2606:a8c0:101:6d::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:6d::a]:443
+hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒 HYSTERIA-UDP 🇫🇷 FR-103.252.90.231:55228
+hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@46.29.161.109:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-46.29.161.109:1200
+hy2://rs3h2c9n8X@65.21.158.249:2053?insecure=1#🔒 HYSTERIA-UDP 🇫🇮 FI-65.21.158.249:2053
+hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@152.70.80.122:30001?insecure=1&sni=osaka.nodes.lanmaoyun.icu#🔒 HYSTERIA-UDP 🇯🇵 JP-152.70.80.122:30001
+hy2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.175.16:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-207.211.175.16:443
+hy2://148097c2-cd69-4015-992f-5939c08b9ab8@150.66.12.23:443?mport=22000-22999#🔒 HYSTERIA-UDP 🇯🇵 JP-150.66.12.23:443
+hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@140.245.51.129:10001?sni=SG.1010520.shop#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.51.129:10001
+hy2://c8865525-d888-4318-aa77-44ca4c95e88b@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-194.87.68.196:13167
+hy2://148097c2-cd69-4015-992f-5939c08b9ab8@112.120.54.171:443?mport=22000-22999#🔒 HYSTERIA-UDP 🇭🇰 HK-112.120.54.171:443
+hy2://e169856c-7c19-4908-9bdf-448dc846163a@64.181.236.144:443?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-64.181.236.144:443
 hy2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443/?insecure=1&sni=[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]&obfs=salamander&obfs-password=13f7ba5f#@vpnv2rayNGv
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
 hy2://KevinZakarian@66.23.198.32:443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=www.eliv2ray.net#@vpnv2rayNGv
