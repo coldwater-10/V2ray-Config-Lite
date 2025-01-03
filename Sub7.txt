@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-vless://9fd36a9b-4d61-49b1-8986-6a95543e8b08@104.17.147.22:80?flow=&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&type=ws#@V2rayMiner
-vless://37239c7f-b959-4065-841f-ac516465f8fe@176.65.242.107:39554?flow=&path=%2F&type=ws#@V2rayMiner
-vless://bf5fc7a5-e7a5-40e3-8344-dd0b4c16b891@www.speedtest.net:80?flow=&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&type=ws#@V2rayMiner
-
-hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@141.148.182.2:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.179.140:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
@@ -603,3 +595,11 @@ sn://config?eNrtWs1y47gR9lbltE_h0nVG4r_4U7WHkccae7z-k2c83klNsUAClLCmABoE9bNbc9gn
 
 Rayan - Cloudflare Warp - II :
 
+sn://config?eNrtWs1y2zYQdmd66lN4dE0k_kskZ3qIHCtWHP_JieOmk-GABCihpgAaBPXTTg59h576CL31lXruQxSkJAqSSFWplMmhtmZMa3exu9xvsQtzeXR0dKTprYYqPn_a3x7lP3__9s0v3x0f1yLar7nH2Z_iC8QJ8CMEBSUEUYKez8gRGqFI0Goh4CCqzakcD1HCwTAWHM5SJKifMlYNTWLEBJNkwoXuAAQD5IU4QgUtkyULg5mK5wtyDPggM9hoKPk6JYhAMmhAv1aIJJwyoQ88ICx5MPchs5et8ECMV8xNOGIERF5ACWc0ihDLzCyio7mO6qhLG4V4iufeZP4nyhQEsDazVtw1JMnyZhPERohlhB_nuhYuCCaAkKEkY9YGnMeJqyhicUTHDQamgNTFl0aaNB76hSPLRZ74RaPRzG0hWIeYoYDLkglngKP-NJPA8cj0KImmsgAH_cVqhoaUo9qc9-n5F3Y2okGRP7OEQ5ymM_Ze9zFfvdt9fJYXkpHZut1ssIBCJGKVpEGQkco1-kLlQ6Exv36cpy9LRaKV5w-kQ4CJl6RhiCeSSM5sYFYrvn-Uw5mn5O4Boyn3aUpgBThl2iQ-Q2OGOfI4z0qAru5oCJDpIaysRhJlWxF5QxDHmPRXSs3WJKthAlGMxC_CvbwMrVc6THLPlzgVhSbCCUck06rmlUUqKjOWF1PGBb9pWmrBosJThiHypEyyG_mntik012AZBUtKLUyWK_g0RhKMcpn8ZV2Gp_LCmT5BW9G3SEApdksmJqJmhiBAHgHDhUpV5iNuyjeotfSG5mTVVzEkuSFPBddR1WV4QMqpx0S-oPV-IVzBAa_iAbHJhKFkKgI_lKo7gTEV7noyzgTwDQUEh2Ep0SuwgKIVYrEWU7JonqVh3hq6nZNGV211X_fWQR7iCYKlaZNzlu0u31fFri3J_bnCmNHJdFNbgiKRhJRJCb2hKie_672pvz29fStv-PeAxfXuJqWMVEK72yCVULolpFJaiYH7DVIJpVtC6i5K8cfy3TkL6UZIiqimLOIC438N6v8ggEUIREzkY8t4PG70RTHgOGgEdKj0EUHZLvR01VwrX6P84FrTpGLBqTgrAhJk0bbUbSCttandqu9sqT-NgXRY-Kyl-VFiY6V0wqhyVzQLkSwlRsWBdmurGAuv-ilgUDqUFw1bs-2GppkNx2k4-rrAoo45hrOscNnpSuoLUtLmHaIpCqKuGLqMvd5Um67ZUlVX01TXtqDvGj5wXKj5ums4geNagWopmm5vZkfM8ChD_wHlVXjYacMXrbvp5cVVO3kPH-NXJn52eXky-il83wSn_CGe_jDuTII4evH98nZilN1M6kc4WCjyh_dXJ886WmdyetFx4BSf62fChdt3_Ocz9XV6Ry1toI-vw_6Ufr_e7YSjy7ou4pAFKz8XkYiMN9ryfC_vgVFTxNVyRPe15F7zhNGhMeoeYiO1xEWrQkk3WtoTTPvCdCCcTKtyM6nGE0p7onR3oM1kaNUo2YdESXcM11edlmuqoeFaqt90bRAYO6H0cBZ-uH55dxU_vru-CM4vHRpA48MzpdMJT9qXg5sefNkbtW_BSaR-BZTu26865SgdBCRxse0qkOym-QTSniAd6vCwZS-1dPugjQkawG01ndA1oKh7WqslcAqbcCec3l31_JMetrTX_vnV1eMoSCf3pm69-Nl-dhL27Q_te2typ4Je2_gaJW8Eru-qcDoMUOKqVu4nx9SfcNobp0Od9KpPEMZBy55hQjcwrKbrhEHo-rapu7YJtJ1gerzoaV0wZj-Nbq_b7fGlRm6YoZ9e9f1JYPeABm6G-M1LOD7r_PAVYPIf715UnCDuD_N_rV7dmxztCaT9QDoQRuJS2Zm0wx7GnVbgOg4K3QCogWvptmsBFe0EUvfqbNI6eavfGGprdHbu65Q0-8Bvocn9YKqT0_ev7RtstsavOt2vANKwb51WgHS4vuRUwWTYlvkE054wddcf3y8mJfN5dT5ZgYijIJuGzAc4q5Oy5WyKQEYx9EYxWZUIMZk9N5Wf_Nf6iOYDemkEMiYRBdBbez7bx3yQ-vmj2Qt8C3jKqJJg0q_7dFLPtdQxUxiKEEhQokQge-CtLLQpucTKGwKFoY357sqLAmJhgjn6XBdBIsJ0joGCGSD1ARVfYX023kmqvcyF5xb_i7NbxsIrA9u1h7pZGs62kzwstozlpHjLgHY-5VyfNM-njKXD5jJftljYOtGuGmjLNuYPzreYWKThl1E9T6DPVv7vY_gK5ZQP0JfUD2CyQ2hWXl8oy5zYCzBk68p13ZzNNxVDytCsgoSiSruKvatp-VUBsWkC5B3A4upLBNms_7tP3xwdHf3-1-9_HPeyl16O68cnEU1hGAGGjrMS--uv_wANuGAU
+
+
+ShadowSocks:
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook - S1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXSjlzZ3ZCWWR0NFN5ZHd4@52.237.155.68:443?outline=1&prefix=POST%20U2ad83cZ#Rayan - SS - IFI - S2
