@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vless://c0b71f56-7237-4861-91df-7d8a45eb6c92@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 2.93ms
+vless://bfb2a951-ce40-4340-a869-f2c261c634df@python.org:443?encryption=none&security=tls&sni=python.org&alpn=h3%2Ch2&fp=random&type=ws&host=join-dailyconfigs.com&path=%2F-liv2%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs#US🇺🇸 | python.org-443 | 125.6ms
+vless://ba1b9fe9-5b0e-44d4-aedb-884de9e9b48a@live.skornorth.com:443?path=%2Fadmin%3Fed%3D2048&security=tls&encryption=none&host=www.masodfam.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸 | live.skornorth.com-443 | 4.15ms
+vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 2.49ms
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 3.17ms
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 2.11ms
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.02ms
@@ -599,7 +603,3 @@ hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=w
 hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒 HYSTERIA-UDP 🇹🇭 TH-47.81.8.60:7788
 hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@46.29.161.15:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-46.29.161.15:2453
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@150.66.12.23:443?mport=22000-22999#🔒 HYSTERIA-UDP 🇯🇵 JP-150.66.12.23:443
-hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒 HYSTERIA-UDP 🇷🇺 RU-195.58.48.220:7660
-hy2://7bcb0e26-eb0a-4658-abfc-b808c3744c9d@94.131.122.35:53040?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=myket.ir#🔒 HYSTERIA-UDP 🇺🇸 US-94.131.122.35:53040
-hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒 HYSTERIA-UDP 🇺🇸 US-156.251.248.197:443
-hy2://9d765687-536c-4626-a2e2-6a403219e381@152.53.54.139:30000?insecure=1&sni=35afq4514.surfcat.store#🔒 HYSTERIA-UDP 🇦🇹 AT-152.53.54.139:30000
